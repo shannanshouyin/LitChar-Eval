@@ -1,0 +1,37 @@
+﻿provider,analysis,omitted,difference
+glm,leave_one_book,Crime and Punishment by Fyodor Dostoevsky,0.12828282828282828
+glm,leave_one_book,Eugenie Grandet by Honore de Balzac,0.15606060606060607
+glm,leave_one_book,Les Miserables by Victor Hugo,0.15521885521885523
+glm,leave_one_book,Moby Dick; or The Whale by Herman Melville,0.15606060606060607
+glm,leave_one_book,Notre-Dame de Paris by Victor Hugo,0.1468013468013468
+glm,leave_one_book,Resurrection by Leo Tolstoy,0.14309764309764308
+glm,leave_one_book,Tess of the d'Urbervilles by Thomas Hardy,0.15606060606060607
+glm,leave_one_book,The Brothers Karamazov by Fyodor Dostoyevsky,0.12491582491582491
+glm,leave_one_book,The Call of the Wild by Jack London,0.1653198653198653
+glm,leave_one_book,The Idiot by Fyodor Dostoyevsky,0.15606060606060607
+glm,leave_one_author,Fyodor Dostoyevsky,0.10108225108225108
+glm,leave_one_author,Honore de Balzac,0.15606060606060607
+glm,leave_one_author,Victor Hugo,0.15378787878787878
+glm,leave_one_author,Herman Melville,0.15606060606060607
+glm,leave_one_author,Leo Tolstoy,0.14309764309764308
+glm,leave_one_author,Thomas Hardy,0.15606060606060607
+glm,leave_one_author,Jack London,0.1653198653198653
+glm,equal_author_descriptive,,0.11984126984126985
+deepseek,leave_one_book,Crime and Punishment by Fyodor Dostoevsky,0.16144781144781145
+deepseek,leave_one_book,Eugenie Grandet by Honore de Balzac,0.19175084175084176
+deepseek,leave_one_book,Les Miserables by Victor Hugo,0.201010101010101
+deepseek,leave_one_book,Moby Dick; or The Whale by Herman Melville,0.17323232323232324
+deepseek,leave_one_book,Notre-Dame de Paris by Victor Hugo,0.21397306397306398
+deepseek,leave_one_book,Resurrection by Leo Tolstoy,0.18063973063973063
+deepseek,leave_one_book,Tess of the d'Urbervilles by Thomas Hardy,0.14545454545454545
+deepseek,leave_one_book,The Brothers Karamazov by Fyodor Dostoyevsky,0.14545454545454545
+deepseek,leave_one_book,The Call of the Wild by Jack London,0.16144781144781145
+deepseek,leave_one_book,The Idiot by Fyodor Dostoyevsky,0.15134680134680134
+deepseek,leave_one_author,Fyodor Dostoyevsky,0.09610389610389611
+deepseek,leave_one_author,Honore de Balzac,0.19175084175084176
+deepseek,leave_one_author,Victor Hugo,0.25113636363636366
+deepseek,leave_one_author,Herman Melville,0.17323232323232324
+deepseek,leave_one_author,Leo Tolstoy,0.18063973063973063
+deepseek,leave_one_author,Thomas Hardy,0.14545454545454545
+deepseek,leave_one_author,Jack London,0.16144781144781145
+deepseek,equal_author_descriptive,,0.1664862914862915

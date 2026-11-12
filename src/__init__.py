@@ -1,0 +1,1 @@
+"""Literary character inference study."""

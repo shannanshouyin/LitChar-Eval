@@ -1,0 +1,5 @@
+﻿provider,condition,n,correct_traceable,correct_not_traceable,incorrect_traceable,incorrect_not_traceable,invalid_subset
+glm,C,600,276,4,312,8,1
+glm,F,600,269,6,308,17,3
+deepseek,C,600,244,18,294,44,10
+deepseek,F,600,239,23,285,53,16

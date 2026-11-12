@@ -1,0 +1,296 @@
+{
+  "complete": true,
+  "terminal_jobs": 464,
+  "attempts": 464,
+  "valid_responses": 458,
+  "estimated_cost_cny": 3.7274979999999998,
+  "utc_range": [
+    "2026-10-23T03:31:43.366785+00:00",
+    "2026-10-23T03:53:32.058454+00:00"
+  ],
+  "paired_results": [
+    {
+      "provider": "glm",
+      "anchors": 120,
+      "eligible_pairs": 73,
+      "valid_triples": 70,
+      "books": 10,
+      "exclusions": {
+        "no_same_passage_matched_span": 30,
+        "absent_or_ambiguous_quote": 6,
+        "invalid_quote": 11
+      },
+      "removed_words_median": 23,
+      "cited_flip_rate_micro": 0.38571428571428573,
+      "control_flip_rate_micro": 0.11428571428571428,
+      "cited_flip_rate_book_macro": 0.36143939393939395,
+      "control_flip_rate_book_macro": 0.1148051948051948,
+      "difference": 0.24663419913419912,
+      "ci95": [
+        0.12929338912440214,
+        0.36397500914399616
+      ],
+      "sign_flip_p": 0.0078125,
+      "holm_p": null,
+      "eligible_lower_bound": 0.20474025974025972,
+      "eligible_upper_bound": 0.27649350649350646,
+      "operational_difference": 0.27649350649350646,
+      "inference_available": true
+    },
+    {
+      "provider": "deepseek",
+      "anchors": 120,
+      "eligible_pairs": 39,
+      "valid_triples": 39,
+      "books": 9,
+      "exclusions": {
+        "no_same_passage_matched_span": 53,
+        "invalid_quote": 23,
+        "invalid_anchor": 3,
+        "absent_or_ambiguous_quote": 2
+      },
+      "removed_words_median": 29,
+      "cited_flip_rate_micro": 0.3333333333333333,
+      "control_flip_rate_micro": 0.1794871794871795,
+      "cited_flip_rate_book_macro": 0.41798941798941797,
+      "control_flip_rate_book_macro": 0.14206349206349206,
+      "difference": 0.2759259259259259,
+      "ci95": null,
+      "sign_flip_p": null,
+      "holm_p": null,
+      "eligible_lower_bound": 0.2759259259259259,
+      "eligible_upper_bound": 0.2759259259259259,
+      "operational_difference": 0.2759259259259259,
+      "inference_available": false
+    }
+  ],
+  "sensitivity": [
+    {
+      "provider": "glm",
+      "kind": "equal_author",
+      "omitted": "",
+      "books": 7,
+      "macro_difference": 0.2484513502370645,
+      "t_ci95": [
+        0.11068438337645187,
+        0.3862183170976771
+      ],
+      "sign_flip_p": 0.03125,
+      "assumptions": "independent symmetric book-level differences; few fixed books; not population-representative",
+      "holm_p": 0.0625
+    },
+    {
+      "provider": "glm",
+      "kind": "leave_one_book",
+      "omitted": "Crime and Punishment by Fyodor Dostoevsky",
+      "macro_difference": 0.274037999037999
+    },
+    {
+      "provider": "glm",
+      "kind": "leave_one_book",
+      "omitted": "Eugenie Grandet by Honore de Balzac",
+      "macro_difference": 0.25383597883597886
+    },
+    {
+      "provider": "glm",
+      "kind": "leave_one_book",
+      "omitted": "Les Miserables by Victor Hugo",
+      "macro_difference": 0.24229196729196728
+    },
+    {
+      "provider": "glm",
+      "kind": "leave_one_book",
+      "omitted": "Moby Dick; or The Whale by Herman Melville",
+      "macro_difference": 0.2295935545935546
+    },
+    {
+      "provider": "glm",
+      "kind": "leave_one_book",
+      "omitted": "Notre-Dame de Paris by Victor Hugo",
+      "macro_difference": 0.23237133237133237
+    },
+    {
+      "provider": "glm",
+      "kind": "leave_one_book",
+      "omitted": "Resurrection by Leo Tolstoy",
+      "macro_difference": 0.274037999037999
+    },
+    {
+      "provider": "glm",
+      "kind": "leave_one_book",
+      "omitted": "Tess of the d'Urbervilles by Thomas Hardy",
+      "macro_difference": 0.2264189514189514
+    },
+    {
+      "provider": "glm",
+      "kind": "leave_one_book",
+      "omitted": "The Brothers Karamazov by Fyodor Dostoyevsky",
+      "macro_difference": 0.2264189514189514
+    },
+    {
+      "provider": "glm",
+      "kind": "leave_one_book",
+      "omitted": "The Call of the Wild by Jack London",
+      "macro_difference": 0.2518157768157768
+    },
+    {
+      "provider": "glm",
+      "kind": "leave_one_book",
+      "omitted": "The Idiot by Fyodor Dostoyevsky",
+      "macro_difference": 0.25551948051948054
+    },
+    {
+      "provider": "glm",
+      "kind": "leave_one_author",
+      "omitted": "Fyodor Dostoyevsky",
+      "macro_difference": 0.2673005565862709
+    },
+    {
+      "provider": "glm",
+      "kind": "leave_one_author",
+      "omitted": "Honore de Balzac",
+      "macro_difference": 0.25383597883597886
+    },
+    {
+      "provider": "glm",
+      "kind": "leave_one_author",
+      "omitted": "Victor Hugo",
+      "macro_difference": 0.2257034632034632
+    },
+    {
+      "provider": "glm",
+      "kind": "leave_one_author",
+      "omitted": "Herman Melville",
+      "macro_difference": 0.2295935545935546
+    },
+    {
+      "provider": "glm",
+      "kind": "leave_one_author",
+      "omitted": "Leo Tolstoy",
+      "macro_difference": 0.274037999037999
+    },
+    {
+      "provider": "glm",
+      "kind": "leave_one_author",
+      "omitted": "Thomas Hardy",
+      "macro_difference": 0.2264189514189514
+    },
+    {
+      "provider": "glm",
+      "kind": "leave_one_author",
+      "omitted": "Jack London",
+      "macro_difference": 0.2518157768157768
+    },
+    {
+      "provider": "deepseek",
+      "kind": "equal_author",
+      "omitted": "",
+      "books": 7,
+      "macro_difference": 0.33690476190476193,
+      "t_ci95": [
+        0.011626642232368145,
+        0.6621828815771558
+      ],
+      "sign_flip_p": 0.0625,
+      "assumptions": "independent symmetric book-level differences; few fixed books; not population-representative",
+      "holm_p": 0.0625
+    },
+    {
+      "provider": "deepseek",
+      "kind": "leave_one_book",
+      "omitted": "Crime and Punishment by Fyodor Dostoevsky",
+      "macro_difference": 0.3354166666666667
+    },
+    {
+      "provider": "deepseek",
+      "kind": "leave_one_book",
+      "omitted": "Eugenie Grandet by Honore de Balzac",
+      "macro_difference": 0.26875
+    },
+    {
+      "provider": "deepseek",
+      "kind": "leave_one_book",
+      "omitted": "Les Miserables by Victor Hugo",
+      "macro_difference": 0.2791666666666667
+    },
+    {
+      "provider": "deepseek",
+      "kind": "leave_one_book",
+      "omitted": "Moby Dick; or The Whale by Herman Melville",
+      "macro_difference": 0.3104166666666667
+    },
+    {
+      "provider": "deepseek",
+      "kind": "leave_one_book",
+      "omitted": "Notre-Dame de Paris by Victor Hugo",
+      "macro_difference": 0.3104166666666667
+    },
+    {
+      "provider": "deepseek",
+      "kind": "leave_one_book",
+      "omitted": "Resurrection by Leo Tolstoy",
+      "macro_difference": 0.18541666666666667
+    },
+    {
+      "provider": "deepseek",
+      "kind": "leave_one_book",
+      "omitted": "Tess of the d'Urbervilles by Thomas Hardy",
+      "macro_difference": 0.24791666666666667
+    },
+    {
+      "provider": "deepseek",
+      "kind": "leave_one_book",
+      "omitted": "The Brothers Karamazov by Fyodor Dostoyevsky",
+      "macro_difference": 0.28541666666666665
+    },
+    {
+      "provider": "deepseek",
+      "kind": "leave_one_book",
+      "omitted": "The Call of the Wild by Jack London",
+      "macro_difference": 0.2604166666666667
+    },
+    {
+      "provider": "deepseek",
+      "kind": "leave_one_author",
+      "omitted": "Fyodor Dostoyevsky",
+      "macro_difference": 0.3547619047619048
+    },
+    {
+      "provider": "deepseek",
+      "kind": "leave_one_author",
+      "omitted": "Honore de Balzac",
+      "macro_difference": 0.26875
+    },
+    {
+      "provider": "deepseek",
+      "kind": "leave_one_author",
+      "omitted": "Victor Hugo",
+      "macro_difference": 0.319047619047619
+    },
+    {
+      "provider": "deepseek",
+      "kind": "leave_one_author",
+      "omitted": "Herman Melville",
+      "macro_difference": 0.3104166666666667
+    },
+    {
+      "provider": "deepseek",
+      "kind": "leave_one_author",
+      "omitted": "Leo Tolstoy",
+      "macro_difference": 0.18541666666666667
+    },
+    {
+      "provider": "deepseek",
+      "kind": "leave_one_author",
+      "omitted": "Thomas Hardy",
+      "macro_difference": 0.24791666666666667
+    },
+    {
+      "provider": "deepseek",
+      "kind": "leave_one_author",
+      "omitted": "Jack London",
+      "macro_difference": 0.2604166666666667
+    }
+  ],
+  "note": "Conditional on traceable uniquely located anchor quotes and matched control availability. Changed-text reference agreement is descriptive, not task accuracy."
+}

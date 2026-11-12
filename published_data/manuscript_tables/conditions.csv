@@ -1,0 +1,7 @@
+﻿Condition,Supplied context,Requested response
+A,Local passages,Choice only
+B,Local passages,Analysis and choice
+C,Local passages,"Quotations, analysis, and choice"
+D,Local passages and history,Choice only
+E,Local passages and history,Analysis and choice
+F,Local passages and history,"Quotations, analysis, and choice"

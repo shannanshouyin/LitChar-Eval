@@ -1,0 +1,3 @@
+﻿Model,Eligible / 120,Valid n,Control %,Cited %,Difference (95% CI),Raw p
+GLM-4.6,73,70,11.5,36.1,24.7 (12.9 to 36.4),0.0078
+DeepSeek flash,39,39,14.2,41.8,27.6 (Unavailable),Not tested

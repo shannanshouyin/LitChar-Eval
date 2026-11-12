@@ -1,0 +1,89 @@
+﻿provider,contrast,analysis,omitted,books,paired_n,difference
+glm,C-B,leave_one_book,Crime and Punishment by Fyodor Dostoevsky,9,528,0.002945256568444975
+glm,C-B,leave_one_book,Eugenie Grandet by Honore de Balzac,9,528,0.0014020466919017652
+glm,C-B,leave_one_book,Les Miserables by Victor Hugo,9,528,0.004488466444988185
+glm,C-B,leave_one_book,Moby Dick; or The Whale by Herman Melville,9,558,0.010881764504952911
+glm,C-B,leave_one_book,Notre-Dame de Paris by Victor Hugo,9,528,-0.0016843730611846544
+glm,C-B,leave_one_book,Resurrection by Leo Tolstoy,9,567,-0.0004217467985583921
+glm,C-B,leave_one_book,Tess of the d'Urbervilles by Thomas Hardy,9,528,-0.0047707928142710744
+glm,C-B,leave_one_book,The Brothers Karamazov by Fyodor Dostoyevsky,9,529,0.009205037476113207
+glm,C-B,leave_one_book,The Call of the Wild by Jack London,9,577,0.00777617444284111
+glm,C-B,leave_one_book,The Idiot by Fyodor Dostoyevsky,9,529,-0.003314524339223257
+glm,C-B,leave_one_author,Fyodor Dostoyevsky,7,386,0.003786758445143539
+glm,C-B,leave_one_author,Honore de Balzac,9,528,0.0014020466919017652
+glm,C-B,leave_one_author,Victor Hugo,8,456,-0.00015880858272162516
+glm,C-B,leave_one_author,Herman Melville,9,558,0.010881764504952911
+glm,C-B,leave_one_author,Leo Tolstoy,9,567,-0.0004217467985583921
+glm,C-B,leave_one_author,Thomas Hardy,9,528,-0.0047707928142710744
+glm,C-B,leave_one_author,Jack London,9,577,0.00777617444284111
+glm,C-B,equal_author_descriptive,,10,600,0.0018026314610165553
+glm,C-B,equal_character_within_book,,10,600,0.02487111413758349
+glm,C-B,valid_pairs,,10,598,0.0026289334602255616
+glm,C-B,length_compliant_pairs,,10,560,0.004401937537541992
+glm,C-B,response_only,,10,599,0.002709416357609867
+glm,F-E,leave_one_book,Crime and Punishment by Fyodor Dostoevsky,9,528,0.021059885394443468
+glm,F-E,leave_one_book,Eugenie Grandet by Honore de Balzac,9,528,0.01797346564135705
+glm,F-E,leave_one_book,Les Miserables by Victor Hugo,9,528,0.013343836011727419
+glm,F-E,leave_one_book,Moby Dick; or The Whale by Herman Melville,9,558,0.02480768080890555
+glm,F-E,leave_one_book,Notre-Dame de Paris by Victor Hugo,9,528,0.021059885394443468
+glm,F-E,leave_one_book,Resurrection by Leo Tolstoy,9,567,0.022883678884903624
+glm,F-E,leave_one_book,Tess of the d'Urbervilles by Thomas Hardy,9,528,0.014887045888270629
+glm,F-E,leave_one_book,The Brothers Karamazov by Fyodor Dostoyevsky,9,529,0.011691949383314968
+glm,F-E,leave_one_book,The Call of the Wild by Jack London,9,577,0.014685757643504122
+glm,F-E,leave_one_book,The Idiot by Fyodor Dostoyevsky,9,529,0.013256894610232026
+glm,F-E,leave_one_author,Fyodor Dostoyevsky,7,386,0.008968343595672787
+glm,F-E,leave_one_author,Honore de Balzac,9,528,0.01797346564135705
+glm,F-E,leave_one_author,Victor Hugo,8,456,0.01674792662430446
+glm,F-E,leave_one_author,Herman Melville,9,558,0.02480768080890555
+glm,F-E,leave_one_author,Leo Tolstoy,9,567,0.022883678884903624
+glm,F-E,leave_one_author,Thomas Hardy,9,528,0.014887045888270629
+glm,F-E,leave_one_author,Jack London,9,577,0.014685757643504122
+glm,F-E,equal_author_descriptive,,10,600,0.011366994761929587
+glm,F-E,equal_character_within_book,,10,600,0.01886534506531825
+glm,F-E,valid_pairs,,10,594,0.017685149102785354
+glm,F-E,length_compliant_pairs,,10,543,0.018514392111953087
+glm,F-E,response_only,,10,600,0.01756500796611023
+deepseek,C-B,leave_one_book,Crime and Punishment by Fyodor Dostoevsky,9,528,0.02389230468940614
+deepseek,C-B,leave_one_book,Eugenie Grandet by Honore de Balzac,9,528,0.02697872444249256
+deepseek,C-B,leave_one_book,Les Miserables by Victor Hugo,9,528,0.03932440345483824
+deepseek,C-B,leave_one_book,Moby Dick; or The Whale by Herman Melville,9,558,0.02543551456594935
+deepseek,C-B,leave_one_book,Notre-Dame de Paris by Victor Hugo,9,528,0.01926267505977651
+deepseek,C-B,leave_one_book,Resurrection by Leo Tolstoy,9,567,0.0052334943639291455
+deepseek,C-B,leave_one_book,Tess of the d'Urbervilles by Thomas Hardy,9,528,0.02697872444249256
+deepseek,C-B,leave_one_book,The Brothers Karamazov by Fyodor Dostoyevsky,9,529,0.02387056933903229
+deepseek,C-B,leave_one_book,The Call of the Wild by Jack London,9,577,0.010942760942760943
+deepseek,C-B,leave_one_book,The Idiot by Fyodor Dostoyevsky,9,529,0.027000459792866405
+deepseek,C-B,leave_one_author,Fyodor Dostoyevsky,7,386,0.030718677457807892
+deepseek,C-B,leave_one_author,Honore de Balzac,9,528,0.02697872444249256
+deepseek,C-B,leave_one_author,Victor Hugo,8,456,0.037295509442248576
+deepseek,C-B,leave_one_author,Herman Melville,9,558,0.02543551456594935
+deepseek,C-B,leave_one_author,Leo Tolstoy,9,567,0.0052334943639291455
+deepseek,C-B,leave_one_author,Thomas Hardy,9,528,0.02697872444249256
+deepseek,C-B,leave_one_author,Jack London,9,577,0.010942760942760943
+deepseek,C-B,equal_author_descriptive,,10,600,0.03634037057950101
+deepseek,C-B,equal_character_within_book,,10,600,0.001098561202461458
+deepseek,C-B,valid_pairs,,10,590,0.028790873258876932
+deepseek,C-B,length_compliant_pairs,,10,505,0.03535530382138222
+deepseek,C-B,response_only,,10,600,0.022891963109354412
+deepseek,F-E,leave_one_book,Crime and Punishment by Fyodor Dostoevsky,9,528,0.007778739484189575
+deepseek,F-E,leave_one_book,Eugenie Grandet by Honore de Balzac,9,528,0.023210838249621675
+deepseek,F-E,leave_one_book,Les Miserables by Victor Hugo,9,528,0.020124418496535255
+deepseek,F-E,leave_one_book,Moby Dick; or The Whale by Herman Melville,9,558,0.012849286221402979
+deepseek,F-E,leave_one_book,Notre-Dame de Paris by Victor Hugo,9,528,0.010865159237275995
+deepseek,F-E,leave_one_book,Resurrection by Leo Tolstoy,9,567,0.012127785499902259
+deepseek,F-E,leave_one_book,Tess of the d'Urbervilles by Thomas Hardy,9,528,0.012408369113819205
+deepseek,F-E,leave_one_book,The Brothers Karamazov by Fyodor Dostoyevsky,9,529,0.013929843639988566
+deepseek,F-E,leave_one_book,The Call of the Wild by Jack London,9,577,0.01066387099250949
+deepseek,F-E,leave_one_book,The Idiot by Fyodor Dostoyevsky,9,529,0.015494788866905624
+deepseek,F-E,leave_one_author,Fyodor Dostoyevsky,7,386,0.007989164045064666
+deepseek,F-E,leave_one_author,Honore de Balzac,9,528,0.023210838249621675
+deepseek,F-E,leave_one_author,Victor Hugo,8,456,0.017431637475268828
+deepseek,F-E,leave_one_author,Herman Melville,9,558,0.012849286221402979
+deepseek,F-E,leave_one_author,Leo Tolstoy,9,567,0.012127785499902259
+deepseek,F-E,leave_one_author,Thomas Hardy,9,528,0.012408369113819205
+deepseek,F-E,leave_one_author,Jack London,9,577,0.01066387099250949
+deepseek,F-E,equal_author_descriptive,,10,600,0.011966733163478854
+deepseek,F-E,equal_character_within_book,,10,600,-0.020023346193051662
+deepseek,F-E,valid_pairs,,10,584,0.025667424715437214
+deepseek,F-E,length_compliant_pairs,,10,473,0.029023404437108706
+deepseek,F-E,response_only,,10,600,0.013945309980215063

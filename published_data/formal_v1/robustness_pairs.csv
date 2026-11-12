@@ -1,0 +1,1681 @@
+﻿sample_id,book,provider,condition,kind,replicate,both_valid,same_trait_valid,base_correct,variant_correct,difference
+test_8890daa7ecde5142f369,Tess of the d'Urbervilles by Thomas Hardy,glm,A,reorder,0,True,True,False,False,0
+test_b17bb4d5ef54c0b6946c,Eugenie Grandet by Honore de Balzac,glm,A,reorder,0,True,True,True,True,0
+test_f8212f8090053fbb943d,Tess of the d'Urbervilles by Thomas Hardy,glm,A,reorder,0,True,True,True,True,0
+test_7f1b64de3262c21c3b34,Notre-Dame de Paris by Victor Hugo,glm,A,reorder,0,True,False,False,True,1
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,glm,A,reorder,0,True,True,True,True,0
+test_f63cf3f624919059d9d0,The Idiot by Fyodor Dostoyevsky,glm,A,reorder,0,True,True,False,False,0
+test_bd2e344d3dbfff48a07a,Les Miserables by Victor Hugo,glm,A,reorder,0,True,False,True,False,-1
+test_78e2c0e8a11107e7df28,Resurrection by Leo Tolstoy,glm,A,reorder,0,True,True,False,False,0
+test_6fa8f8b6d49d5245684b,The Idiot by Fyodor Dostoyevsky,glm,A,reorder,0,False,False,False,False,0
+test_1629e935fa9c51317dc6,Crime and Punishment by Fyodor Dostoevsky,glm,A,reorder,0,True,True,True,True,0
+test_87e0568b177d7e477e23,The Call of the Wild by Jack London,glm,A,reorder,0,True,True,True,True,0
+test_29e1127d29c9ae589d3b,Notre-Dame de Paris by Victor Hugo,glm,A,reorder,0,True,True,True,True,0
+test_440104330e8be05e27c6,Les Miserables by Victor Hugo,glm,A,reorder,0,True,True,False,False,0
+test_4779a7a11279a4a6fe9a,Tess of the d'Urbervilles by Thomas Hardy,glm,A,reorder,0,True,True,True,True,0
+test_accfced35ef70cb00a7a,Les Miserables by Victor Hugo,glm,A,reorder,0,True,True,True,True,0
+test_f8643c5c09db3441bb6e,The Brothers Karamazov by Fyodor Dostoyevsky,glm,A,reorder,0,True,False,False,False,0
+test_72845dd8922375b654c6,The Call of the Wild by Jack London,glm,A,reorder,0,True,True,True,True,0
+test_2f0a065c6921a48ce92d,Moby Dick; or The Whale by Herman Melville,glm,A,reorder,0,True,True,True,True,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,glm,A,reorder,0,True,True,True,True,0
+test_15399e3f39df49af15fc,Notre-Dame de Paris by Victor Hugo,glm,A,reorder,0,True,True,False,False,0
+test_f0a101031bce1f2e005c,Notre-Dame de Paris by Victor Hugo,glm,A,reorder,0,True,False,False,True,1
+test_f476f5aa1f4556dd2515,The Brothers Karamazov by Fyodor Dostoyevsky,glm,A,reorder,0,True,False,True,False,-1
+test_8b9eccc1d7950685ac74,Crime and Punishment by Fyodor Dostoevsky,glm,A,reorder,0,True,True,False,False,0
+test_2c3c7901d73ba7450330,Eugenie Grandet by Honore de Balzac,glm,A,reorder,0,True,False,False,True,1
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,glm,A,reorder,0,True,True,True,True,0
+test_7c79314f8055af2c23f1,Les Miserables by Victor Hugo,glm,A,reorder,0,True,True,False,False,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,glm,A,reorder,0,True,True,False,False,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,glm,A,reorder,0,True,False,False,True,1
+test_7447f3c8aa4b9af1b893,Crime and Punishment by Fyodor Dostoevsky,glm,A,reorder,0,True,True,False,False,0
+test_83a75d3299c9da976ca8,Moby Dick; or The Whale by Herman Melville,glm,A,reorder,0,True,True,True,True,0
+test_ddeb918da1a04cf9dafb,Crime and Punishment by Fyodor Dostoevsky,glm,A,reorder,0,True,False,False,False,0
+test_8b6b34a9006fedf11a97,Tess of the d'Urbervilles by Thomas Hardy,glm,A,reorder,0,True,True,True,True,0
+test_2fe9983ef8d1b602b5d4,Resurrection by Leo Tolstoy,glm,A,reorder,0,True,True,False,False,0
+test_8a1fc213cde37789a646,Resurrection by Leo Tolstoy,glm,A,reorder,0,True,False,False,False,0
+test_be4b1100bf9483b122d8,The Call of the Wild by Jack London,glm,A,reorder,0,True,True,False,False,0
+test_2003427f2b7a982cc32f,Moby Dick; or The Whale by Herman Melville,glm,A,reorder,0,True,True,True,True,0
+test_ec047f6e914a4c497303,The Brothers Karamazov by Fyodor Dostoyevsky,glm,A,reorder,0,True,True,True,True,0
+test_29c28bc6e2e92015ae15,Les Miserables by Victor Hugo,glm,A,reorder,0,True,False,True,False,-1
+test_13f2f038927410385eac,The Brothers Karamazov by Fyodor Dostoyevsky,glm,A,reorder,0,True,True,False,False,0
+test_e8e93f0b0081462eeb3f,Tess of the d'Urbervilles by Thomas Hardy,glm,A,reorder,0,True,True,True,True,0
+test_b4474d562bae98bc2e12,Crime and Punishment by Fyodor Dostoevsky,glm,A,reorder,0,True,True,True,True,0
+test_2c9639cb6e2e82a0b5a1,The Idiot by Fyodor Dostoyevsky,glm,A,reorder,0,False,False,False,False,0
+test_af5a35aba78cafeb819c,The Call of the Wild by Jack London,glm,A,reorder,0,True,True,True,True,0
+test_48f2fcb36c802ba572e4,Resurrection by Leo Tolstoy,glm,A,reorder,0,True,True,False,False,0
+test_0111a7ab9a1a1a4b8359,The Brothers Karamazov by Fyodor Dostoyevsky,glm,A,reorder,0,True,False,True,False,-1
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,glm,A,reorder,0,True,True,False,False,0
+test_1584dca8741c3eb9786e,The Idiot by Fyodor Dostoyevsky,glm,A,reorder,0,True,False,False,False,0
+test_7e6b657fbc584b1c0dfe,Tess of the d'Urbervilles by Thomas Hardy,glm,A,reorder,0,True,False,True,False,-1
+test_bfb817ee8b7db018d900,Crime and Punishment by Fyodor Dostoevsky,glm,A,reorder,0,True,True,True,True,0
+test_8f5cee7d082c0f941ccc,The Idiot by Fyodor Dostoyevsky,glm,A,reorder,0,True,True,False,False,0
+test_0c1d7b6b676ab30d0933,The Idiot by Fyodor Dostoyevsky,glm,A,reorder,0,True,True,True,True,0
+test_41e9ff3d96d85789d05a,Notre-Dame de Paris by Victor Hugo,glm,A,reorder,0,True,True,False,False,0
+test_4e024d182ef50e319add,Eugenie Grandet by Honore de Balzac,glm,A,reorder,0,True,True,True,True,0
+test_cebbc4d497f4294e3cb1,Les Miserables by Victor Hugo,glm,A,reorder,0,True,False,True,False,-1
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,glm,A,reorder,0,True,True,False,False,0
+test_db186a824c9eaeaef2a9,Notre-Dame de Paris by Victor Hugo,glm,A,reorder,0,True,True,True,True,0
+test_72dfb2e3c09a0120fea7,Moby Dick; or The Whale by Herman Melville,glm,A,reorder,0,True,True,False,False,0
+test_64a8e4e7518a3235465b,Eugenie Grandet by Honore de Balzac,glm,A,reorder,0,True,True,False,False,0
+test_5dfbc5f84dede363ee88,The Brothers Karamazov by Fyodor Dostoyevsky,glm,A,reorder,0,True,False,False,False,0
+test_ad501c68eb8d56ab4087,Eugenie Grandet by Honore de Balzac,glm,A,reorder,0,True,True,True,True,0
+test_bd2e344d3dbfff48a07a,Les Miserables by Victor Hugo,glm,B,reorder,0,True,False,True,False,-1
+test_7447f3c8aa4b9af1b893,Crime and Punishment by Fyodor Dostoevsky,glm,B,reorder,0,True,False,True,False,-1
+test_29e1127d29c9ae589d3b,Notre-Dame de Paris by Victor Hugo,glm,B,reorder,0,True,True,False,False,0
+test_b17bb4d5ef54c0b6946c,Eugenie Grandet by Honore de Balzac,glm,B,reorder,0,True,True,True,True,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,glm,B,reorder,0,True,True,False,False,0
+test_15399e3f39df49af15fc,Notre-Dame de Paris by Victor Hugo,glm,B,reorder,0,True,True,False,False,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,glm,B,reorder,0,True,True,False,False,0
+test_1584dca8741c3eb9786e,The Idiot by Fyodor Dostoyevsky,glm,B,reorder,0,True,True,False,False,0
+test_2fe9983ef8d1b602b5d4,Resurrection by Leo Tolstoy,glm,B,reorder,0,True,True,False,False,0
+test_48f2fcb36c802ba572e4,Resurrection by Leo Tolstoy,glm,B,reorder,0,True,False,False,False,0
+test_87e0568b177d7e477e23,The Call of the Wild by Jack London,glm,B,reorder,0,True,True,True,True,0
+test_8890daa7ecde5142f369,Tess of the d'Urbervilles by Thomas Hardy,glm,B,reorder,0,True,True,False,False,0
+test_72dfb2e3c09a0120fea7,Moby Dick; or The Whale by Herman Melville,glm,B,reorder,0,True,True,False,False,0
+test_2f0a065c6921a48ce92d,Moby Dick; or The Whale by Herman Melville,glm,B,reorder,0,True,True,True,True,0
+test_8b9eccc1d7950685ac74,Crime and Punishment by Fyodor Dostoevsky,glm,B,reorder,0,True,True,False,False,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,glm,B,reorder,0,True,True,True,True,0
+test_7f1b64de3262c21c3b34,Notre-Dame de Paris by Victor Hugo,glm,B,reorder,0,True,False,False,True,1
+test_5dfbc5f84dede363ee88,The Brothers Karamazov by Fyodor Dostoyevsky,glm,B,reorder,0,True,True,False,False,0
+test_8a1fc213cde37789a646,Resurrection by Leo Tolstoy,glm,B,reorder,0,True,False,False,False,0
+test_b4474d562bae98bc2e12,Crime and Punishment by Fyodor Dostoevsky,glm,B,reorder,0,True,False,True,False,-1
+test_2c3c7901d73ba7450330,Eugenie Grandet by Honore de Balzac,glm,B,reorder,0,True,True,False,False,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,glm,B,reorder,0,True,True,True,True,0
+test_41e9ff3d96d85789d05a,Notre-Dame de Paris by Victor Hugo,glm,B,reorder,0,True,False,False,False,0
+test_6fa8f8b6d49d5245684b,The Idiot by Fyodor Dostoyevsky,glm,B,reorder,0,True,False,False,False,0
+test_accfced35ef70cb00a7a,Les Miserables by Victor Hugo,glm,B,reorder,0,True,True,True,True,0
+test_440104330e8be05e27c6,Les Miserables by Victor Hugo,glm,B,reorder,0,True,True,False,False,0
+test_f8212f8090053fbb943d,Tess of the d'Urbervilles by Thomas Hardy,glm,B,reorder,0,True,False,False,True,1
+test_cebbc4d497f4294e3cb1,Les Miserables by Victor Hugo,glm,B,reorder,0,True,True,True,True,0
+test_72845dd8922375b654c6,The Call of the Wild by Jack London,glm,B,reorder,0,True,True,False,False,0
+test_4e024d182ef50e319add,Eugenie Grandet by Honore de Balzac,glm,B,reorder,0,True,True,True,True,0
+test_0c1d7b6b676ab30d0933,The Idiot by Fyodor Dostoyevsky,glm,B,reorder,0,True,True,True,True,0
+test_0111a7ab9a1a1a4b8359,The Brothers Karamazov by Fyodor Dostoyevsky,glm,B,reorder,0,True,False,True,False,-1
+test_1629e935fa9c51317dc6,Crime and Punishment by Fyodor Dostoevsky,glm,B,reorder,0,True,True,True,True,0
+test_2003427f2b7a982cc32f,Moby Dick; or The Whale by Herman Melville,glm,B,reorder,0,True,True,True,True,0
+test_ddeb918da1a04cf9dafb,Crime and Punishment by Fyodor Dostoevsky,glm,B,reorder,0,True,True,False,False,0
+test_db186a824c9eaeaef2a9,Notre-Dame de Paris by Victor Hugo,glm,B,reorder,0,True,True,True,True,0
+test_7c79314f8055af2c23f1,Les Miserables by Victor Hugo,glm,B,reorder,0,True,False,False,False,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,glm,B,reorder,0,True,True,True,True,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,glm,B,reorder,0,True,True,False,False,0
+test_ec047f6e914a4c497303,The Brothers Karamazov by Fyodor Dostoyevsky,glm,B,reorder,0,True,True,True,True,0
+test_4779a7a11279a4a6fe9a,Tess of the d'Urbervilles by Thomas Hardy,glm,B,reorder,0,True,True,True,True,0
+test_f0a101031bce1f2e005c,Notre-Dame de Paris by Victor Hugo,glm,B,reorder,0,True,False,True,False,-1
+test_8b6b34a9006fedf11a97,Tess of the d'Urbervilles by Thomas Hardy,glm,B,reorder,0,True,True,True,True,0
+test_be4b1100bf9483b122d8,The Call of the Wild by Jack London,glm,B,reorder,0,False,False,False,False,0
+test_2c9639cb6e2e82a0b5a1,The Idiot by Fyodor Dostoyevsky,glm,B,reorder,0,True,True,False,False,0
+test_64a8e4e7518a3235465b,Eugenie Grandet by Honore de Balzac,glm,B,reorder,0,True,True,False,False,0
+test_e8e93f0b0081462eeb3f,Tess of the d'Urbervilles by Thomas Hardy,glm,B,reorder,0,True,False,False,True,1
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,glm,B,reorder,0,True,True,True,True,0
+test_78e2c0e8a11107e7df28,Resurrection by Leo Tolstoy,glm,B,reorder,0,True,True,False,False,0
+test_af5a35aba78cafeb819c,The Call of the Wild by Jack London,glm,B,reorder,0,True,True,True,True,0
+test_29c28bc6e2e92015ae15,Les Miserables by Victor Hugo,glm,B,reorder,0,True,True,True,True,0
+test_bfb817ee8b7db018d900,Crime and Punishment by Fyodor Dostoevsky,glm,B,reorder,0,True,True,True,True,0
+test_f63cf3f624919059d9d0,The Idiot by Fyodor Dostoyevsky,glm,B,reorder,0,True,True,False,False,0
+test_f8643c5c09db3441bb6e,The Brothers Karamazov by Fyodor Dostoyevsky,glm,B,reorder,0,True,False,False,False,0
+test_13f2f038927410385eac,The Brothers Karamazov by Fyodor Dostoyevsky,glm,B,reorder,0,True,True,False,False,0
+test_f476f5aa1f4556dd2515,The Brothers Karamazov by Fyodor Dostoyevsky,glm,B,reorder,0,True,False,False,True,1
+test_7e6b657fbc584b1c0dfe,Tess of the d'Urbervilles by Thomas Hardy,glm,B,reorder,0,True,True,False,False,0
+test_83a75d3299c9da976ca8,Moby Dick; or The Whale by Herman Melville,glm,B,reorder,0,True,True,True,True,0
+test_8f5cee7d082c0f941ccc,The Idiot by Fyodor Dostoyevsky,glm,B,reorder,0,True,True,False,False,0
+test_ad501c68eb8d56ab4087,Eugenie Grandet by Honore de Balzac,glm,B,reorder,0,True,True,True,True,0
+test_2003427f2b7a982cc32f,Moby Dick; or The Whale by Herman Melville,glm,C,reorder,0,True,True,True,True,0
+test_ec047f6e914a4c497303,The Brothers Karamazov by Fyodor Dostoyevsky,glm,C,reorder,0,True,True,True,True,0
+test_64a8e4e7518a3235465b,Eugenie Grandet by Honore de Balzac,glm,C,reorder,0,True,True,False,False,0
+test_ddeb918da1a04cf9dafb,Crime and Punishment by Fyodor Dostoevsky,glm,C,reorder,0,True,True,False,False,0
+test_bd2e344d3dbfff48a07a,Les Miserables by Victor Hugo,glm,C,reorder,0,True,False,True,False,-1
+test_83a75d3299c9da976ca8,Moby Dick; or The Whale by Herman Melville,glm,C,reorder,0,True,True,True,True,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,glm,C,reorder,0,True,True,False,False,0
+test_cebbc4d497f4294e3cb1,Les Miserables by Victor Hugo,glm,C,reorder,0,True,False,True,False,-1
+test_4779a7a11279a4a6fe9a,Tess of the d'Urbervilles by Thomas Hardy,glm,C,reorder,0,True,True,True,True,0
+test_2f0a065c6921a48ce92d,Moby Dick; or The Whale by Herman Melville,glm,C,reorder,0,True,True,True,True,0
+test_13f2f038927410385eac,The Brothers Karamazov by Fyodor Dostoyevsky,glm,C,reorder,0,True,True,False,False,0
+test_f476f5aa1f4556dd2515,The Brothers Karamazov by Fyodor Dostoyevsky,glm,C,reorder,0,True,True,False,False,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,glm,C,reorder,0,True,True,True,True,0
+test_af5a35aba78cafeb819c,The Call of the Wild by Jack London,glm,C,reorder,0,True,True,True,True,0
+test_2c9639cb6e2e82a0b5a1,The Idiot by Fyodor Dostoyevsky,glm,C,reorder,0,True,True,False,False,0
+test_29c28bc6e2e92015ae15,Les Miserables by Victor Hugo,glm,C,reorder,0,True,False,True,False,-1
+test_78e2c0e8a11107e7df28,Resurrection by Leo Tolstoy,glm,C,reorder,0,True,True,False,False,0
+test_b17bb4d5ef54c0b6946c,Eugenie Grandet by Honore de Balzac,glm,C,reorder,0,True,True,True,True,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,glm,C,reorder,0,True,True,False,False,0
+test_0c1d7b6b676ab30d0933,The Idiot by Fyodor Dostoyevsky,glm,C,reorder,0,True,True,True,True,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,glm,C,reorder,0,True,False,False,True,1
+test_41e9ff3d96d85789d05a,Notre-Dame de Paris by Victor Hugo,glm,C,reorder,0,True,False,True,False,-1
+test_0111a7ab9a1a1a4b8359,The Brothers Karamazov by Fyodor Dostoyevsky,glm,C,reorder,0,True,True,True,True,0
+test_b4474d562bae98bc2e12,Crime and Punishment by Fyodor Dostoevsky,glm,C,reorder,0,True,False,True,False,-1
+test_accfced35ef70cb00a7a,Les Miserables by Victor Hugo,glm,C,reorder,0,True,True,True,True,0
+test_6fa8f8b6d49d5245684b,The Idiot by Fyodor Dostoyevsky,glm,C,reorder,0,True,False,False,False,0
+test_8a1fc213cde37789a646,Resurrection by Leo Tolstoy,glm,C,reorder,0,True,False,False,False,0
+test_8f5cee7d082c0f941ccc,The Idiot by Fyodor Dostoyevsky,glm,C,reorder,0,True,True,False,False,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,glm,C,reorder,0,True,True,True,True,0
+test_db186a824c9eaeaef2a9,Notre-Dame de Paris by Victor Hugo,glm,C,reorder,0,True,True,True,True,0
+test_29e1127d29c9ae589d3b,Notre-Dame de Paris by Victor Hugo,glm,C,reorder,0,True,False,True,False,-1
+test_2c3c7901d73ba7450330,Eugenie Grandet by Honore de Balzac,glm,C,reorder,0,True,False,False,True,1
+test_f63cf3f624919059d9d0,The Idiot by Fyodor Dostoyevsky,glm,C,reorder,0,True,True,False,False,0
+test_8890daa7ecde5142f369,Tess of the d'Urbervilles by Thomas Hardy,glm,C,reorder,0,True,False,False,False,0
+test_f8643c5c09db3441bb6e,The Brothers Karamazov by Fyodor Dostoyevsky,glm,C,reorder,0,True,True,False,False,0
+test_1584dca8741c3eb9786e,The Idiot by Fyodor Dostoyevsky,glm,C,reorder,0,True,True,False,False,0
+test_72845dd8922375b654c6,The Call of the Wild by Jack London,glm,C,reorder,0,True,False,False,True,1
+test_440104330e8be05e27c6,Les Miserables by Victor Hugo,glm,C,reorder,0,True,True,False,False,0
+test_48f2fcb36c802ba572e4,Resurrection by Leo Tolstoy,glm,C,reorder,0,True,False,False,False,0
+test_8b6b34a9006fedf11a97,Tess of the d'Urbervilles by Thomas Hardy,glm,C,reorder,0,True,True,True,True,0
+test_7447f3c8aa4b9af1b893,Crime and Punishment by Fyodor Dostoevsky,glm,C,reorder,0,True,True,True,True,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,glm,C,reorder,0,True,True,True,True,0
+test_15399e3f39df49af15fc,Notre-Dame de Paris by Victor Hugo,glm,C,reorder,0,True,False,True,False,-1
+test_1629e935fa9c51317dc6,Crime and Punishment by Fyodor Dostoevsky,glm,C,reorder,0,True,False,False,True,1
+test_8b9eccc1d7950685ac74,Crime and Punishment by Fyodor Dostoevsky,glm,C,reorder,0,True,True,False,False,0
+test_4e024d182ef50e319add,Eugenie Grandet by Honore de Balzac,glm,C,reorder,0,True,True,True,True,0
+test_7e6b657fbc584b1c0dfe,Tess of the d'Urbervilles by Thomas Hardy,glm,C,reorder,0,True,False,True,False,-1
+test_be4b1100bf9483b122d8,The Call of the Wild by Jack London,glm,C,reorder,0,True,True,False,False,0
+test_72dfb2e3c09a0120fea7,Moby Dick; or The Whale by Herman Melville,glm,C,reorder,0,True,True,False,False,0
+test_2fe9983ef8d1b602b5d4,Resurrection by Leo Tolstoy,glm,C,reorder,0,True,False,False,False,0
+test_7f1b64de3262c21c3b34,Notre-Dame de Paris by Victor Hugo,glm,C,reorder,0,True,True,False,False,0
+test_e8e93f0b0081462eeb3f,Tess of the d'Urbervilles by Thomas Hardy,glm,C,reorder,0,True,False,True,False,-1
+test_7c79314f8055af2c23f1,Les Miserables by Victor Hugo,glm,C,reorder,0,True,False,False,True,1
+test_f0a101031bce1f2e005c,Notre-Dame de Paris by Victor Hugo,glm,C,reorder,0,True,True,True,True,0
+test_bfb817ee8b7db018d900,Crime and Punishment by Fyodor Dostoevsky,glm,C,reorder,0,True,True,True,True,0
+test_f8212f8090053fbb943d,Tess of the d'Urbervilles by Thomas Hardy,glm,C,reorder,0,True,False,True,False,-1
+test_ad501c68eb8d56ab4087,Eugenie Grandet by Honore de Balzac,glm,C,reorder,0,True,True,True,True,0
+test_5dfbc5f84dede363ee88,The Brothers Karamazov by Fyodor Dostoyevsky,glm,C,reorder,0,True,False,False,False,0
+test_87e0568b177d7e477e23,The Call of the Wild by Jack London,glm,C,reorder,0,True,True,True,True,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,glm,C,reorder,0,True,True,False,False,0
+test_7447f3c8aa4b9af1b893,Crime and Punishment by Fyodor Dostoevsky,glm,D,reorder,0,True,False,False,True,1
+test_2fe9983ef8d1b602b5d4,Resurrection by Leo Tolstoy,glm,D,reorder,0,True,False,False,False,0
+test_f476f5aa1f4556dd2515,The Brothers Karamazov by Fyodor Dostoyevsky,glm,D,reorder,0,False,False,True,False,-1
+test_f8643c5c09db3441bb6e,The Brothers Karamazov by Fyodor Dostoyevsky,glm,D,reorder,0,True,True,False,False,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,glm,D,reorder,0,True,True,False,False,0
+test_8b6b34a9006fedf11a97,Tess of the d'Urbervilles by Thomas Hardy,glm,D,reorder,0,True,True,True,True,0
+test_8a1fc213cde37789a646,Resurrection by Leo Tolstoy,glm,D,reorder,0,True,False,False,False,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,glm,D,reorder,0,True,True,True,True,0
+test_be4b1100bf9483b122d8,The Call of the Wild by Jack London,glm,D,reorder,0,True,True,False,False,0
+test_e8e93f0b0081462eeb3f,Tess of the d'Urbervilles by Thomas Hardy,glm,D,reorder,0,True,False,True,False,-1
+test_1584dca8741c3eb9786e,The Idiot by Fyodor Dostoyevsky,glm,D,reorder,0,True,True,False,False,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,glm,D,reorder,0,True,True,True,True,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,glm,D,reorder,0,True,True,True,True,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,glm,D,reorder,0,True,True,False,False,0
+test_4e024d182ef50e319add,Eugenie Grandet by Honore de Balzac,glm,D,reorder,0,True,True,True,True,0
+test_f8212f8090053fbb943d,Tess of the d'Urbervilles by Thomas Hardy,glm,D,reorder,0,True,False,True,False,-1
+test_64a8e4e7518a3235465b,Eugenie Grandet by Honore de Balzac,glm,D,reorder,0,True,True,False,False,0
+test_8f5cee7d082c0f941ccc,The Idiot by Fyodor Dostoyevsky,glm,D,reorder,0,True,True,False,False,0
+test_bd2e344d3dbfff48a07a,Les Miserables by Victor Hugo,glm,D,reorder,0,True,False,False,False,0
+test_2003427f2b7a982cc32f,Moby Dick; or The Whale by Herman Melville,glm,D,reorder,0,True,True,True,True,0
+test_ad501c68eb8d56ab4087,Eugenie Grandet by Honore de Balzac,glm,D,reorder,0,True,True,True,True,0
+test_48f2fcb36c802ba572e4,Resurrection by Leo Tolstoy,glm,D,reorder,0,True,False,False,True,1
+test_2f0a065c6921a48ce92d,Moby Dick; or The Whale by Herman Melville,glm,D,reorder,0,True,False,False,True,1
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,glm,D,reorder,0,True,True,False,False,0
+test_7c79314f8055af2c23f1,Les Miserables by Victor Hugo,glm,D,reorder,0,True,True,False,False,0
+test_b4474d562bae98bc2e12,Crime and Punishment by Fyodor Dostoevsky,glm,D,reorder,0,True,True,True,True,0
+test_af5a35aba78cafeb819c,The Call of the Wild by Jack London,glm,D,reorder,0,True,True,True,True,0
+test_ec047f6e914a4c497303,The Brothers Karamazov by Fyodor Dostoyevsky,glm,D,reorder,0,True,True,True,True,0
+test_2c9639cb6e2e82a0b5a1,The Idiot by Fyodor Dostoyevsky,glm,D,reorder,0,True,False,True,False,-1
+test_29e1127d29c9ae589d3b,Notre-Dame de Paris by Victor Hugo,glm,D,reorder,0,True,True,True,True,0
+test_f0a101031bce1f2e005c,Notre-Dame de Paris by Victor Hugo,glm,D,reorder,0,True,True,True,True,0
+test_accfced35ef70cb00a7a,Les Miserables by Victor Hugo,glm,D,reorder,0,True,True,True,True,0
+test_ddeb918da1a04cf9dafb,Crime and Punishment by Fyodor Dostoevsky,glm,D,reorder,0,True,False,False,False,0
+test_41e9ff3d96d85789d05a,Notre-Dame de Paris by Victor Hugo,glm,D,reorder,0,True,False,False,False,0
+test_cebbc4d497f4294e3cb1,Les Miserables by Victor Hugo,glm,D,reorder,0,True,True,False,False,0
+test_2c3c7901d73ba7450330,Eugenie Grandet by Honore de Balzac,glm,D,reorder,0,True,False,False,True,1
+test_5dfbc5f84dede363ee88,The Brothers Karamazov by Fyodor Dostoyevsky,glm,D,reorder,0,True,False,True,False,-1
+test_1629e935fa9c51317dc6,Crime and Punishment by Fyodor Dostoevsky,glm,D,reorder,0,True,False,False,True,1
+test_7e6b657fbc584b1c0dfe,Tess of the d'Urbervilles by Thomas Hardy,glm,D,reorder,0,True,False,True,False,-1
+test_8b9eccc1d7950685ac74,Crime and Punishment by Fyodor Dostoevsky,glm,D,reorder,0,True,True,False,False,0
+test_8890daa7ecde5142f369,Tess of the d'Urbervilles by Thomas Hardy,glm,D,reorder,0,False,False,False,False,0
+test_db186a824c9eaeaef2a9,Notre-Dame de Paris by Victor Hugo,glm,D,reorder,0,True,True,True,True,0
+test_72dfb2e3c09a0120fea7,Moby Dick; or The Whale by Herman Melville,glm,D,reorder,0,True,True,False,False,0
+test_440104330e8be05e27c6,Les Miserables by Victor Hugo,glm,D,reorder,0,True,False,True,False,-1
+test_13f2f038927410385eac,The Brothers Karamazov by Fyodor Dostoyevsky,glm,D,reorder,0,True,True,False,False,0
+test_72845dd8922375b654c6,The Call of the Wild by Jack London,glm,D,reorder,0,True,False,False,True,1
+test_78e2c0e8a11107e7df28,Resurrection by Leo Tolstoy,glm,D,reorder,0,True,True,False,False,0
+test_f63cf3f624919059d9d0,The Idiot by Fyodor Dostoyevsky,glm,D,reorder,0,True,True,False,False,0
+test_0111a7ab9a1a1a4b8359,The Brothers Karamazov by Fyodor Dostoyevsky,glm,D,reorder,0,True,False,True,False,-1
+test_7f1b64de3262c21c3b34,Notre-Dame de Paris by Victor Hugo,glm,D,reorder,0,True,False,False,True,1
+test_4779a7a11279a4a6fe9a,Tess of the d'Urbervilles by Thomas Hardy,glm,D,reorder,0,True,True,True,True,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,glm,D,reorder,0,True,True,True,True,0
+test_0c1d7b6b676ab30d0933,The Idiot by Fyodor Dostoyevsky,glm,D,reorder,0,True,True,True,True,0
+test_15399e3f39df49af15fc,Notre-Dame de Paris by Victor Hugo,glm,D,reorder,0,True,False,False,False,0
+test_b17bb4d5ef54c0b6946c,Eugenie Grandet by Honore de Balzac,glm,D,reorder,0,True,True,True,True,0
+test_87e0568b177d7e477e23,The Call of the Wild by Jack London,glm,D,reorder,0,True,True,True,True,0
+test_29c28bc6e2e92015ae15,Les Miserables by Victor Hugo,glm,D,reorder,0,True,False,True,False,-1
+test_83a75d3299c9da976ca8,Moby Dick; or The Whale by Herman Melville,glm,D,reorder,0,True,True,True,True,0
+test_bfb817ee8b7db018d900,Crime and Punishment by Fyodor Dostoevsky,glm,D,reorder,0,True,True,True,True,0
+test_6fa8f8b6d49d5245684b,The Idiot by Fyodor Dostoyevsky,glm,D,reorder,0,True,False,False,False,0
+test_af5a35aba78cafeb819c,The Call of the Wild by Jack London,glm,E,reorder,0,True,True,True,True,0
+test_2f0a065c6921a48ce92d,Moby Dick; or The Whale by Herman Melville,glm,E,reorder,0,True,True,True,True,0
+test_8890daa7ecde5142f369,Tess of the d'Urbervilles by Thomas Hardy,glm,E,reorder,0,True,True,False,False,0
+test_2c9639cb6e2e82a0b5a1,The Idiot by Fyodor Dostoyevsky,glm,E,reorder,0,True,True,False,False,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,glm,E,reorder,0,True,True,False,False,0
+test_83a75d3299c9da976ca8,Moby Dick; or The Whale by Herman Melville,glm,E,reorder,0,True,True,True,True,0
+test_2fe9983ef8d1b602b5d4,Resurrection by Leo Tolstoy,glm,E,reorder,0,True,True,False,False,0
+test_cebbc4d497f4294e3cb1,Les Miserables by Victor Hugo,glm,E,reorder,0,True,False,False,True,1
+test_1629e935fa9c51317dc6,Crime and Punishment by Fyodor Dostoevsky,glm,E,reorder,0,True,False,False,True,1
+test_ec047f6e914a4c497303,The Brothers Karamazov by Fyodor Dostoyevsky,glm,E,reorder,0,True,True,True,True,0
+test_29e1127d29c9ae589d3b,Notre-Dame de Paris by Victor Hugo,glm,E,reorder,0,True,False,True,False,-1
+test_7447f3c8aa4b9af1b893,Crime and Punishment by Fyodor Dostoevsky,glm,E,reorder,0,True,False,False,True,1
+test_f8643c5c09db3441bb6e,The Brothers Karamazov by Fyodor Dostoyevsky,glm,E,reorder,0,True,True,False,False,0
+test_5dfbc5f84dede363ee88,The Brothers Karamazov by Fyodor Dostoyevsky,glm,E,reorder,0,True,False,False,False,0
+test_29c28bc6e2e92015ae15,Les Miserables by Victor Hugo,glm,E,reorder,0,True,False,True,False,-1
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,glm,E,reorder,0,True,True,True,True,0
+test_2003427f2b7a982cc32f,Moby Dick; or The Whale by Herman Melville,glm,E,reorder,0,True,True,True,True,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,glm,E,reorder,0,True,True,True,True,0
+test_4779a7a11279a4a6fe9a,Tess of the d'Urbervilles by Thomas Hardy,glm,E,reorder,0,True,True,True,True,0
+test_b17bb4d5ef54c0b6946c,Eugenie Grandet by Honore de Balzac,glm,E,reorder,0,True,True,True,True,0
+test_bfb817ee8b7db018d900,Crime and Punishment by Fyodor Dostoevsky,glm,E,reorder,0,True,True,True,True,0
+test_f476f5aa1f4556dd2515,The Brothers Karamazov by Fyodor Dostoyevsky,glm,E,reorder,0,True,True,False,False,0
+test_72845dd8922375b654c6,The Call of the Wild by Jack London,glm,E,reorder,0,True,True,False,False,0
+test_ddeb918da1a04cf9dafb,Crime and Punishment by Fyodor Dostoevsky,glm,E,reorder,0,True,False,True,False,-1
+test_0c1d7b6b676ab30d0933,The Idiot by Fyodor Dostoyevsky,glm,E,reorder,0,True,False,True,False,-1
+test_440104330e8be05e27c6,Les Miserables by Victor Hugo,glm,E,reorder,0,True,True,False,False,0
+test_7f1b64de3262c21c3b34,Notre-Dame de Paris by Victor Hugo,glm,E,reorder,0,True,False,False,True,1
+test_6fa8f8b6d49d5245684b,The Idiot by Fyodor Dostoyevsky,glm,E,reorder,0,True,False,False,False,0
+test_b4474d562bae98bc2e12,Crime and Punishment by Fyodor Dostoevsky,glm,E,reorder,0,True,False,True,False,-1
+test_ad501c68eb8d56ab4087,Eugenie Grandet by Honore de Balzac,glm,E,reorder,0,True,True,False,False,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,glm,E,reorder,0,True,True,True,True,0
+test_4e024d182ef50e319add,Eugenie Grandet by Honore de Balzac,glm,E,reorder,0,True,True,True,True,0
+test_7e6b657fbc584b1c0dfe,Tess of the d'Urbervilles by Thomas Hardy,glm,E,reorder,0,True,True,False,False,0
+test_8b9eccc1d7950685ac74,Crime and Punishment by Fyodor Dostoevsky,glm,E,reorder,0,True,True,False,False,0
+test_8b6b34a9006fedf11a97,Tess of the d'Urbervilles by Thomas Hardy,glm,E,reorder,0,True,True,True,True,0
+test_48f2fcb36c802ba572e4,Resurrection by Leo Tolstoy,glm,E,reorder,0,True,False,False,False,0
+test_8a1fc213cde37789a646,Resurrection by Leo Tolstoy,glm,E,reorder,0,True,False,False,False,0
+test_41e9ff3d96d85789d05a,Notre-Dame de Paris by Victor Hugo,glm,E,reorder,0,True,False,True,False,-1
+test_72dfb2e3c09a0120fea7,Moby Dick; or The Whale by Herman Melville,glm,E,reorder,0,True,True,False,False,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,glm,E,reorder,0,True,True,False,False,0
+test_8f5cee7d082c0f941ccc,The Idiot by Fyodor Dostoyevsky,glm,E,reorder,0,True,True,False,False,0
+test_15399e3f39df49af15fc,Notre-Dame de Paris by Victor Hugo,glm,E,reorder,0,True,False,True,False,-1
+test_accfced35ef70cb00a7a,Les Miserables by Victor Hugo,glm,E,reorder,0,True,True,True,True,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,glm,E,reorder,0,True,True,True,True,0
+test_f8212f8090053fbb943d,Tess of the d'Urbervilles by Thomas Hardy,glm,E,reorder,0,True,False,False,True,1
+test_13f2f038927410385eac,The Brothers Karamazov by Fyodor Dostoyevsky,glm,E,reorder,0,True,True,False,False,0
+test_bd2e344d3dbfff48a07a,Les Miserables by Victor Hugo,glm,E,reorder,0,True,True,False,False,0
+test_1584dca8741c3eb9786e,The Idiot by Fyodor Dostoyevsky,glm,E,reorder,0,True,True,True,True,0
+test_e8e93f0b0081462eeb3f,Tess of the d'Urbervilles by Thomas Hardy,glm,E,reorder,0,True,True,False,False,0
+test_f63cf3f624919059d9d0,The Idiot by Fyodor Dostoyevsky,glm,E,reorder,0,True,True,False,False,0
+test_be4b1100bf9483b122d8,The Call of the Wild by Jack London,glm,E,reorder,0,True,True,False,False,0
+test_0111a7ab9a1a1a4b8359,The Brothers Karamazov by Fyodor Dostoyevsky,glm,E,reorder,0,True,True,True,True,0
+test_64a8e4e7518a3235465b,Eugenie Grandet by Honore de Balzac,glm,E,reorder,0,True,True,False,False,0
+test_2c3c7901d73ba7450330,Eugenie Grandet by Honore de Balzac,glm,E,reorder,0,True,False,False,False,0
+test_f0a101031bce1f2e005c,Notre-Dame de Paris by Victor Hugo,glm,E,reorder,0,True,False,True,False,-1
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,glm,E,reorder,0,True,True,False,False,0
+test_db186a824c9eaeaef2a9,Notre-Dame de Paris by Victor Hugo,glm,E,reorder,0,True,True,True,True,0
+test_78e2c0e8a11107e7df28,Resurrection by Leo Tolstoy,glm,E,reorder,0,True,True,False,False,0
+test_87e0568b177d7e477e23,The Call of the Wild by Jack London,glm,E,reorder,0,True,True,True,True,0
+test_7c79314f8055af2c23f1,Les Miserables by Victor Hugo,glm,E,reorder,0,True,True,False,False,0
+test_72dfb2e3c09a0120fea7,Moby Dick; or The Whale by Herman Melville,glm,F,reorder,0,True,True,False,False,0
+test_8890daa7ecde5142f369,Tess of the d'Urbervilles by Thomas Hardy,glm,F,reorder,0,True,False,False,False,0
+test_48f2fcb36c802ba572e4,Resurrection by Leo Tolstoy,glm,F,reorder,0,True,False,False,False,0
+test_7c79314f8055af2c23f1,Les Miserables by Victor Hugo,glm,F,reorder,0,True,True,False,False,0
+test_0c1d7b6b676ab30d0933,The Idiot by Fyodor Dostoyevsky,glm,F,reorder,0,True,True,True,True,0
+test_2fe9983ef8d1b602b5d4,Resurrection by Leo Tolstoy,glm,F,reorder,0,True,True,False,False,0
+test_2c9639cb6e2e82a0b5a1,The Idiot by Fyodor Dostoyevsky,glm,F,reorder,0,True,True,False,False,0
+test_13f2f038927410385eac,The Brothers Karamazov by Fyodor Dostoyevsky,glm,F,reorder,0,True,True,False,False,0
+test_64a8e4e7518a3235465b,Eugenie Grandet by Honore de Balzac,glm,F,reorder,0,True,True,False,False,0
+test_5dfbc5f84dede363ee88,The Brothers Karamazov by Fyodor Dostoyevsky,glm,F,reorder,0,True,False,False,False,0
+test_f8643c5c09db3441bb6e,The Brothers Karamazov by Fyodor Dostoyevsky,glm,F,reorder,0,True,True,False,False,0
+test_0111a7ab9a1a1a4b8359,The Brothers Karamazov by Fyodor Dostoyevsky,glm,F,reorder,0,True,True,True,True,0
+test_4779a7a11279a4a6fe9a,Tess of the d'Urbervilles by Thomas Hardy,glm,F,reorder,0,True,True,True,True,0
+test_f8212f8090053fbb943d,Tess of the d'Urbervilles by Thomas Hardy,glm,F,reorder,0,True,False,True,False,-1
+test_8b6b34a9006fedf11a97,Tess of the d'Urbervilles by Thomas Hardy,glm,F,reorder,0,True,True,True,True,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,glm,F,reorder,0,True,True,False,False,0
+test_83a75d3299c9da976ca8,Moby Dick; or The Whale by Herman Melville,glm,F,reorder,0,True,True,True,True,0
+test_db186a824c9eaeaef2a9,Notre-Dame de Paris by Victor Hugo,glm,F,reorder,0,True,True,True,True,0
+test_ec047f6e914a4c497303,The Brothers Karamazov by Fyodor Dostoyevsky,glm,F,reorder,0,True,True,True,True,0
+test_8b9eccc1d7950685ac74,Crime and Punishment by Fyodor Dostoevsky,glm,F,reorder,0,True,True,False,False,0
+test_f63cf3f624919059d9d0,The Idiot by Fyodor Dostoyevsky,glm,F,reorder,0,True,True,False,False,0
+test_29c28bc6e2e92015ae15,Les Miserables by Victor Hugo,glm,F,reorder,0,True,False,False,True,1
+test_f476f5aa1f4556dd2515,The Brothers Karamazov by Fyodor Dostoyevsky,glm,F,reorder,0,True,False,False,False,0
+test_accfced35ef70cb00a7a,Les Miserables by Victor Hugo,glm,F,reorder,0,True,True,True,True,0
+test_f0a101031bce1f2e005c,Notre-Dame de Paris by Victor Hugo,glm,F,reorder,0,True,False,True,False,-1
+test_bd2e344d3dbfff48a07a,Les Miserables by Victor Hugo,glm,F,reorder,0,True,False,True,False,-1
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,glm,F,reorder,0,True,True,True,True,0
+test_29e1127d29c9ae589d3b,Notre-Dame de Paris by Victor Hugo,glm,F,reorder,0,True,False,True,False,-1
+test_8a1fc213cde37789a646,Resurrection by Leo Tolstoy,glm,F,reorder,0,True,True,False,False,0
+test_440104330e8be05e27c6,Les Miserables by Victor Hugo,glm,F,reorder,0,True,True,False,False,0
+test_78e2c0e8a11107e7df28,Resurrection by Leo Tolstoy,glm,F,reorder,0,True,False,False,False,0
+test_2c3c7901d73ba7450330,Eugenie Grandet by Honore de Balzac,glm,F,reorder,0,True,False,False,True,1
+test_be4b1100bf9483b122d8,The Call of the Wild by Jack London,glm,F,reorder,0,True,True,False,False,0
+test_b4474d562bae98bc2e12,Crime and Punishment by Fyodor Dostoevsky,glm,F,reorder,0,True,False,True,False,-1
+test_4e024d182ef50e319add,Eugenie Grandet by Honore de Balzac,glm,F,reorder,0,True,True,True,True,0
+test_87e0568b177d7e477e23,The Call of the Wild by Jack London,glm,F,reorder,0,True,True,True,True,0
+test_b17bb4d5ef54c0b6946c,Eugenie Grandet by Honore de Balzac,glm,F,reorder,0,True,True,True,True,0
+test_2f0a065c6921a48ce92d,Moby Dick; or The Whale by Herman Melville,glm,F,reorder,0,True,True,False,False,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,glm,F,reorder,0,True,True,True,True,0
+test_2003427f2b7a982cc32f,Moby Dick; or The Whale by Herman Melville,glm,F,reorder,0,True,True,True,True,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,glm,F,reorder,0,True,True,True,True,0
+test_7e6b657fbc584b1c0dfe,Tess of the d'Urbervilles by Thomas Hardy,glm,F,reorder,0,True,False,True,False,-1
+test_1584dca8741c3eb9786e,The Idiot by Fyodor Dostoyevsky,glm,F,reorder,0,True,True,True,True,0
+test_ad501c68eb8d56ab4087,Eugenie Grandet by Honore de Balzac,glm,F,reorder,0,True,True,True,True,0
+test_15399e3f39df49af15fc,Notre-Dame de Paris by Victor Hugo,glm,F,reorder,0,True,False,True,False,-1
+test_6fa8f8b6d49d5245684b,The Idiot by Fyodor Dostoyevsky,glm,F,reorder,0,True,False,False,False,0
+test_7447f3c8aa4b9af1b893,Crime and Punishment by Fyodor Dostoevsky,glm,F,reorder,0,True,True,True,True,0
+test_72845dd8922375b654c6,The Call of the Wild by Jack London,glm,F,reorder,0,True,False,False,False,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,glm,F,reorder,0,True,True,True,True,0
+test_8f5cee7d082c0f941ccc,The Idiot by Fyodor Dostoyevsky,glm,F,reorder,0,True,True,False,False,0
+test_41e9ff3d96d85789d05a,Notre-Dame de Paris by Victor Hugo,glm,F,reorder,0,True,False,True,False,-1
+test_cebbc4d497f4294e3cb1,Les Miserables by Victor Hugo,glm,F,reorder,0,True,False,True,False,-1
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,glm,F,reorder,0,True,True,False,False,0
+test_e8e93f0b0081462eeb3f,Tess of the d'Urbervilles by Thomas Hardy,glm,F,reorder,0,True,True,False,False,0
+test_1629e935fa9c51317dc6,Crime and Punishment by Fyodor Dostoevsky,glm,F,reorder,0,True,True,False,False,0
+test_bfb817ee8b7db018d900,Crime and Punishment by Fyodor Dostoevsky,glm,F,reorder,0,True,True,True,True,0
+test_af5a35aba78cafeb819c,The Call of the Wild by Jack London,glm,F,reorder,0,True,True,True,True,0
+test_ddeb918da1a04cf9dafb,Crime and Punishment by Fyodor Dostoevsky,glm,F,reorder,0,True,False,False,False,0
+test_7f1b64de3262c21c3b34,Notre-Dame de Paris by Victor Hugo,glm,F,reorder,0,True,False,False,True,1
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,glm,F,reorder,0,True,True,False,False,0
+test_41e9ff3d96d85789d05a,Notre-Dame de Paris by Victor Hugo,deepseek,A,reorder,0,True,True,False,False,0
+test_1584dca8741c3eb9786e,The Idiot by Fyodor Dostoyevsky,deepseek,A,reorder,0,True,False,False,True,1
+test_f476f5aa1f4556dd2515,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,A,reorder,0,True,False,True,False,-1
+test_f8212f8090053fbb943d,Tess of the d'Urbervilles by Thomas Hardy,deepseek,A,reorder,0,True,True,False,False,0
+test_8a1fc213cde37789a646,Resurrection by Leo Tolstoy,deepseek,A,reorder,0,True,True,False,False,0
+test_ddeb918da1a04cf9dafb,Crime and Punishment by Fyodor Dostoevsky,deepseek,A,reorder,0,True,True,False,False,0
+test_e8e93f0b0081462eeb3f,Tess of the d'Urbervilles by Thomas Hardy,deepseek,A,reorder,0,True,False,False,True,1
+test_2003427f2b7a982cc32f,Moby Dick; or The Whale by Herman Melville,deepseek,A,reorder,0,True,True,True,True,0
+test_2fe9983ef8d1b602b5d4,Resurrection by Leo Tolstoy,deepseek,A,reorder,0,True,True,False,False,0
+test_ad501c68eb8d56ab4087,Eugenie Grandet by Honore de Balzac,deepseek,A,reorder,0,True,True,True,True,0
+test_af5a35aba78cafeb819c,The Call of the Wild by Jack London,deepseek,A,reorder,0,True,False,False,True,1
+test_7c79314f8055af2c23f1,Les Miserables by Victor Hugo,deepseek,A,reorder,0,True,True,True,True,0
+test_be4b1100bf9483b122d8,The Call of the Wild by Jack London,deepseek,A,reorder,0,True,True,False,False,0
+test_0111a7ab9a1a1a4b8359,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,A,reorder,0,True,True,True,True,0
+test_83a75d3299c9da976ca8,Moby Dick; or The Whale by Herman Melville,deepseek,A,reorder,0,True,True,True,True,0
+test_4779a7a11279a4a6fe9a,Tess of the d'Urbervilles by Thomas Hardy,deepseek,A,reorder,0,True,True,True,True,0
+test_7f1b64de3262c21c3b34,Notre-Dame de Paris by Victor Hugo,deepseek,A,reorder,0,True,False,False,True,1
+test_8b6b34a9006fedf11a97,Tess of the d'Urbervilles by Thomas Hardy,deepseek,A,reorder,0,True,True,True,True,0
+test_64a8e4e7518a3235465b,Eugenie Grandet by Honore de Balzac,deepseek,A,reorder,0,True,True,False,False,0
+test_1629e935fa9c51317dc6,Crime and Punishment by Fyodor Dostoevsky,deepseek,A,reorder,0,True,False,False,True,1
+test_8890daa7ecde5142f369,Tess of the d'Urbervilles by Thomas Hardy,deepseek,A,reorder,0,True,True,False,False,0
+test_48f2fcb36c802ba572e4,Resurrection by Leo Tolstoy,deepseek,A,reorder,0,True,True,False,False,0
+test_29e1127d29c9ae589d3b,Notre-Dame de Paris by Victor Hugo,deepseek,A,reorder,0,True,True,False,False,0
+test_cebbc4d497f4294e3cb1,Les Miserables by Victor Hugo,deepseek,A,reorder,0,True,True,False,False,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,deepseek,A,reorder,0,True,True,True,True,0
+test_2c3c7901d73ba7450330,Eugenie Grandet by Honore de Balzac,deepseek,A,reorder,0,True,True,False,False,0
+test_2c9639cb6e2e82a0b5a1,The Idiot by Fyodor Dostoyevsky,deepseek,A,reorder,0,True,False,False,True,1
+test_13f2f038927410385eac,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,A,reorder,0,True,True,False,False,0
+test_2f0a065c6921a48ce92d,Moby Dick; or The Whale by Herman Melville,deepseek,A,reorder,0,True,True,True,True,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,deepseek,A,reorder,0,True,True,True,True,0
+test_15399e3f39df49af15fc,Notre-Dame de Paris by Victor Hugo,deepseek,A,reorder,0,True,False,True,False,-1
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,deepseek,A,reorder,0,True,True,True,True,0
+test_bd2e344d3dbfff48a07a,Les Miserables by Victor Hugo,deepseek,A,reorder,0,True,False,True,False,-1
+test_f63cf3f624919059d9d0,The Idiot by Fyodor Dostoyevsky,deepseek,A,reorder,0,True,False,False,False,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,deepseek,A,reorder,0,True,True,True,True,0
+test_440104330e8be05e27c6,Les Miserables by Victor Hugo,deepseek,A,reorder,0,True,True,False,False,0
+test_8b9eccc1d7950685ac74,Crime and Punishment by Fyodor Dostoevsky,deepseek,A,reorder,0,True,True,False,False,0
+test_6fa8f8b6d49d5245684b,The Idiot by Fyodor Dostoyevsky,deepseek,A,reorder,0,True,True,False,False,0
+test_7e6b657fbc584b1c0dfe,Tess of the d'Urbervilles by Thomas Hardy,deepseek,A,reorder,0,True,False,True,False,-1
+test_8f5cee7d082c0f941ccc,The Idiot by Fyodor Dostoyevsky,deepseek,A,reorder,0,True,True,False,False,0
+test_5dfbc5f84dede363ee88,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,A,reorder,0,True,False,True,False,-1
+test_ec047f6e914a4c497303,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,A,reorder,0,True,True,True,True,0
+test_72845dd8922375b654c6,The Call of the Wild by Jack London,deepseek,A,reorder,0,True,True,False,False,0
+test_f8643c5c09db3441bb6e,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,A,reorder,0,True,True,False,False,0
+test_7447f3c8aa4b9af1b893,Crime and Punishment by Fyodor Dostoevsky,deepseek,A,reorder,0,True,True,False,False,0
+test_4e024d182ef50e319add,Eugenie Grandet by Honore de Balzac,deepseek,A,reorder,0,True,True,True,True,0
+test_b4474d562bae98bc2e12,Crime and Punishment by Fyodor Dostoevsky,deepseek,A,reorder,0,True,True,False,False,0
+test_78e2c0e8a11107e7df28,Resurrection by Leo Tolstoy,deepseek,A,reorder,0,True,False,False,False,0
+test_bfb817ee8b7db018d900,Crime and Punishment by Fyodor Dostoevsky,deepseek,A,reorder,0,True,True,True,True,0
+test_29c28bc6e2e92015ae15,Les Miserables by Victor Hugo,deepseek,A,reorder,0,True,False,True,False,-1
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,deepseek,A,reorder,0,True,True,False,False,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,deepseek,A,reorder,0,True,True,True,True,0
+test_87e0568b177d7e477e23,The Call of the Wild by Jack London,deepseek,A,reorder,0,True,True,True,True,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,deepseek,A,reorder,0,True,True,True,True,0
+test_b17bb4d5ef54c0b6946c,Eugenie Grandet by Honore de Balzac,deepseek,A,reorder,0,True,True,True,True,0
+test_db186a824c9eaeaef2a9,Notre-Dame de Paris by Victor Hugo,deepseek,A,reorder,0,True,True,True,True,0
+test_f0a101031bce1f2e005c,Notre-Dame de Paris by Victor Hugo,deepseek,A,reorder,0,True,True,True,True,0
+test_accfced35ef70cb00a7a,Les Miserables by Victor Hugo,deepseek,A,reorder,0,True,False,True,False,-1
+test_72dfb2e3c09a0120fea7,Moby Dick; or The Whale by Herman Melville,deepseek,A,reorder,0,True,True,False,False,0
+test_0c1d7b6b676ab30d0933,The Idiot by Fyodor Dostoyevsky,deepseek,A,reorder,0,True,True,True,True,0
+test_72dfb2e3c09a0120fea7,Moby Dick; or The Whale by Herman Melville,deepseek,B,reorder,0,True,True,False,False,0
+test_2fe9983ef8d1b602b5d4,Resurrection by Leo Tolstoy,deepseek,B,reorder,0,True,False,False,True,1
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,deepseek,B,reorder,0,True,True,False,False,0
+test_f0a101031bce1f2e005c,Notre-Dame de Paris by Victor Hugo,deepseek,B,reorder,0,True,False,False,True,1
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,deepseek,B,reorder,0,True,True,True,True,0
+test_b4474d562bae98bc2e12,Crime and Punishment by Fyodor Dostoevsky,deepseek,B,reorder,0,True,True,False,False,0
+test_64a8e4e7518a3235465b,Eugenie Grandet by Honore de Balzac,deepseek,B,reorder,0,True,True,False,False,0
+test_5dfbc5f84dede363ee88,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,B,reorder,0,True,False,True,False,-1
+test_6fa8f8b6d49d5245684b,The Idiot by Fyodor Dostoyevsky,deepseek,B,reorder,0,True,False,False,True,1
+test_48f2fcb36c802ba572e4,Resurrection by Leo Tolstoy,deepseek,B,reorder,0,True,True,False,False,0
+test_8b6b34a9006fedf11a97,Tess of the d'Urbervilles by Thomas Hardy,deepseek,B,reorder,0,True,True,True,True,0
+test_af5a35aba78cafeb819c,The Call of the Wild by Jack London,deepseek,B,reorder,0,True,False,False,True,1
+test_cebbc4d497f4294e3cb1,Les Miserables by Victor Hugo,deepseek,B,reorder,0,True,True,False,False,0
+test_0111a7ab9a1a1a4b8359,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,B,reorder,0,True,True,True,True,0
+test_2f0a065c6921a48ce92d,Moby Dick; or The Whale by Herman Melville,deepseek,B,reorder,0,True,True,True,True,0
+test_bfb817ee8b7db018d900,Crime and Punishment by Fyodor Dostoevsky,deepseek,B,reorder,0,True,True,True,True,0
+test_bd2e344d3dbfff48a07a,Les Miserables by Victor Hugo,deepseek,B,reorder,0,True,True,True,True,0
+test_29c28bc6e2e92015ae15,Les Miserables by Victor Hugo,deepseek,B,reorder,0,True,False,True,False,-1
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,deepseek,B,reorder,0,True,True,True,True,0
+test_87e0568b177d7e477e23,The Call of the Wild by Jack London,deepseek,B,reorder,0,True,True,True,True,0
+test_4779a7a11279a4a6fe9a,Tess of the d'Urbervilles by Thomas Hardy,deepseek,B,reorder,0,True,True,True,True,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,deepseek,B,reorder,0,True,False,False,False,0
+test_8f5cee7d082c0f941ccc,The Idiot by Fyodor Dostoyevsky,deepseek,B,reorder,0,True,True,False,False,0
+test_83a75d3299c9da976ca8,Moby Dick; or The Whale by Herman Melville,deepseek,B,reorder,0,True,False,True,False,-1
+test_b17bb4d5ef54c0b6946c,Eugenie Grandet by Honore de Balzac,deepseek,B,reorder,0,True,True,True,True,0
+test_f476f5aa1f4556dd2515,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,B,reorder,0,True,False,False,False,0
+test_2c9639cb6e2e82a0b5a1,The Idiot by Fyodor Dostoyevsky,deepseek,B,reorder,0,True,False,True,False,-1
+test_72845dd8922375b654c6,The Call of the Wild by Jack London,deepseek,B,reorder,0,True,True,False,False,0
+test_ddeb918da1a04cf9dafb,Crime and Punishment by Fyodor Dostoevsky,deepseek,B,reorder,0,True,True,False,False,0
+test_8890daa7ecde5142f369,Tess of the d'Urbervilles by Thomas Hardy,deepseek,B,reorder,0,True,False,False,False,0
+test_db186a824c9eaeaef2a9,Notre-Dame de Paris by Victor Hugo,deepseek,B,reorder,0,True,True,True,True,0
+test_78e2c0e8a11107e7df28,Resurrection by Leo Tolstoy,deepseek,B,reorder,0,True,True,False,False,0
+test_8b9eccc1d7950685ac74,Crime and Punishment by Fyodor Dostoevsky,deepseek,B,reorder,0,True,True,False,False,0
+test_f8643c5c09db3441bb6e,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,B,reorder,0,True,False,False,False,0
+test_1629e935fa9c51317dc6,Crime and Punishment by Fyodor Dostoevsky,deepseek,B,reorder,0,True,True,False,False,0
+test_0c1d7b6b676ab30d0933,The Idiot by Fyodor Dostoyevsky,deepseek,B,reorder,0,True,True,True,True,0
+test_8a1fc213cde37789a646,Resurrection by Leo Tolstoy,deepseek,B,reorder,0,True,True,False,False,0
+test_7447f3c8aa4b9af1b893,Crime and Punishment by Fyodor Dostoevsky,deepseek,B,reorder,0,True,False,True,False,-1
+test_be4b1100bf9483b122d8,The Call of the Wild by Jack London,deepseek,B,reorder,0,True,True,False,False,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,deepseek,B,reorder,0,True,True,True,True,0
+test_41e9ff3d96d85789d05a,Notre-Dame de Paris by Victor Hugo,deepseek,B,reorder,0,True,True,True,True,0
+test_4e024d182ef50e319add,Eugenie Grandet by Honore de Balzac,deepseek,B,reorder,0,True,True,False,False,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,deepseek,B,reorder,0,True,True,True,True,0
+test_ad501c68eb8d56ab4087,Eugenie Grandet by Honore de Balzac,deepseek,B,reorder,0,True,True,True,True,0
+test_accfced35ef70cb00a7a,Les Miserables by Victor Hugo,deepseek,B,reorder,0,True,True,False,False,0
+test_29e1127d29c9ae589d3b,Notre-Dame de Paris by Victor Hugo,deepseek,B,reorder,0,True,True,False,False,0
+test_7c79314f8055af2c23f1,Les Miserables by Victor Hugo,deepseek,B,reorder,0,True,False,False,False,0
+test_f63cf3f624919059d9d0,The Idiot by Fyodor Dostoyevsky,deepseek,B,reorder,0,True,True,False,False,0
+test_13f2f038927410385eac,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,B,reorder,0,True,True,False,False,0
+test_2003427f2b7a982cc32f,Moby Dick; or The Whale by Herman Melville,deepseek,B,reorder,0,True,True,True,True,0
+test_2c3c7901d73ba7450330,Eugenie Grandet by Honore de Balzac,deepseek,B,reorder,0,True,True,False,False,0
+test_7e6b657fbc584b1c0dfe,Tess of the d'Urbervilles by Thomas Hardy,deepseek,B,reorder,0,True,True,False,False,0
+test_15399e3f39df49af15fc,Notre-Dame de Paris by Victor Hugo,deepseek,B,reorder,0,True,False,False,False,0
+test_1584dca8741c3eb9786e,The Idiot by Fyodor Dostoyevsky,deepseek,B,reorder,0,True,False,False,True,1
+test_7f1b64de3262c21c3b34,Notre-Dame de Paris by Victor Hugo,deepseek,B,reorder,0,True,True,False,False,0
+test_440104330e8be05e27c6,Les Miserables by Victor Hugo,deepseek,B,reorder,0,True,True,False,False,0
+test_ec047f6e914a4c497303,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,B,reorder,0,True,True,True,True,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,deepseek,B,reorder,0,True,True,True,True,0
+test_f8212f8090053fbb943d,Tess of the d'Urbervilles by Thomas Hardy,deepseek,B,reorder,0,True,True,False,False,0
+test_e8e93f0b0081462eeb3f,Tess of the d'Urbervilles by Thomas Hardy,deepseek,B,reorder,0,True,True,False,False,0
+test_2c3c7901d73ba7450330,Eugenie Grandet by Honore de Balzac,deepseek,C,reorder,0,True,True,False,False,0
+test_2fe9983ef8d1b602b5d4,Resurrection by Leo Tolstoy,deepseek,C,reorder,0,True,True,False,False,0
+test_8b6b34a9006fedf11a97,Tess of the d'Urbervilles by Thomas Hardy,deepseek,C,reorder,0,True,True,True,True,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,deepseek,C,reorder,0,True,True,True,True,0
+test_1629e935fa9c51317dc6,Crime and Punishment by Fyodor Dostoevsky,deepseek,C,reorder,0,True,False,True,False,-1
+test_6fa8f8b6d49d5245684b,The Idiot by Fyodor Dostoyevsky,deepseek,C,reorder,0,True,True,False,False,0
+test_bfb817ee8b7db018d900,Crime and Punishment by Fyodor Dostoevsky,deepseek,C,reorder,0,True,True,True,True,0
+test_af5a35aba78cafeb819c,The Call of the Wild by Jack London,deepseek,C,reorder,0,True,False,False,True,1
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,deepseek,C,reorder,0,True,True,False,False,0
+test_29e1127d29c9ae589d3b,Notre-Dame de Paris by Victor Hugo,deepseek,C,reorder,0,True,False,True,False,-1
+test_8890daa7ecde5142f369,Tess of the d'Urbervilles by Thomas Hardy,deepseek,C,reorder,0,True,True,False,False,0
+test_be4b1100bf9483b122d8,The Call of the Wild by Jack London,deepseek,C,reorder,0,True,False,False,False,0
+test_7c79314f8055af2c23f1,Les Miserables by Victor Hugo,deepseek,C,reorder,0,True,True,False,False,0
+test_4e024d182ef50e319add,Eugenie Grandet by Honore de Balzac,deepseek,C,reorder,0,True,False,False,True,1
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,deepseek,C,reorder,0,True,True,True,True,0
+test_4779a7a11279a4a6fe9a,Tess of the d'Urbervilles by Thomas Hardy,deepseek,C,reorder,0,True,True,True,True,0
+test_2f0a065c6921a48ce92d,Moby Dick; or The Whale by Herman Melville,deepseek,C,reorder,0,True,True,True,True,0
+test_440104330e8be05e27c6,Les Miserables by Victor Hugo,deepseek,C,reorder,0,True,True,False,False,0
+test_78e2c0e8a11107e7df28,Resurrection by Leo Tolstoy,deepseek,C,reorder,0,False,False,False,False,0
+test_83a75d3299c9da976ca8,Moby Dick; or The Whale by Herman Melville,deepseek,C,reorder,0,True,False,False,False,0
+test_0111a7ab9a1a1a4b8359,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,C,reorder,0,True,False,False,True,1
+test_7f1b64de3262c21c3b34,Notre-Dame de Paris by Victor Hugo,deepseek,C,reorder,0,True,False,False,True,1
+test_b4474d562bae98bc2e12,Crime and Punishment by Fyodor Dostoevsky,deepseek,C,reorder,0,True,False,True,False,-1
+test_1584dca8741c3eb9786e,The Idiot by Fyodor Dostoyevsky,deepseek,C,reorder,0,True,False,True,False,-1
+test_5dfbc5f84dede363ee88,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,C,reorder,0,True,False,True,False,-1
+test_72dfb2e3c09a0120fea7,Moby Dick; or The Whale by Herman Melville,deepseek,C,reorder,0,True,True,False,False,0
+test_8b9eccc1d7950685ac74,Crime and Punishment by Fyodor Dostoevsky,deepseek,C,reorder,0,True,True,False,False,0
+test_f476f5aa1f4556dd2515,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,C,reorder,0,True,True,False,False,0
+test_41e9ff3d96d85789d05a,Notre-Dame de Paris by Victor Hugo,deepseek,C,reorder,0,True,True,True,True,0
+test_db186a824c9eaeaef2a9,Notre-Dame de Paris by Victor Hugo,deepseek,C,reorder,0,True,True,True,True,0
+test_f63cf3f624919059d9d0,The Idiot by Fyodor Dostoyevsky,deepseek,C,reorder,0,True,False,False,False,0
+test_ddeb918da1a04cf9dafb,Crime and Punishment by Fyodor Dostoevsky,deepseek,C,reorder,0,True,True,False,False,0
+test_2c9639cb6e2e82a0b5a1,The Idiot by Fyodor Dostoyevsky,deepseek,C,reorder,0,True,False,False,True,1
+test_f0a101031bce1f2e005c,Notre-Dame de Paris by Victor Hugo,deepseek,C,reorder,0,True,True,False,False,0
+test_ad501c68eb8d56ab4087,Eugenie Grandet by Honore de Balzac,deepseek,C,reorder,0,True,True,True,True,0
+test_2003427f2b7a982cc32f,Moby Dick; or The Whale by Herman Melville,deepseek,C,reorder,0,True,True,True,True,0
+test_e8e93f0b0081462eeb3f,Tess of the d'Urbervilles by Thomas Hardy,deepseek,C,reorder,0,True,True,False,False,0
+test_bd2e344d3dbfff48a07a,Les Miserables by Victor Hugo,deepseek,C,reorder,0,True,True,True,True,0
+test_72845dd8922375b654c6,The Call of the Wild by Jack London,deepseek,C,reorder,0,True,True,False,False,0
+test_b17bb4d5ef54c0b6946c,Eugenie Grandet by Honore de Balzac,deepseek,C,reorder,0,True,True,True,True,0
+test_0c1d7b6b676ab30d0933,The Idiot by Fyodor Dostoyevsky,deepseek,C,reorder,0,True,True,True,True,0
+test_accfced35ef70cb00a7a,Les Miserables by Victor Hugo,deepseek,C,reorder,0,True,True,False,False,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,deepseek,C,reorder,0,True,True,False,False,0
+test_ec047f6e914a4c497303,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,C,reorder,0,True,False,False,True,1
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,deepseek,C,reorder,0,True,False,True,False,-1
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,deepseek,C,reorder,0,True,False,True,False,-1
+test_8a1fc213cde37789a646,Resurrection by Leo Tolstoy,deepseek,C,reorder,0,True,True,False,False,0
+test_64a8e4e7518a3235465b,Eugenie Grandet by Honore de Balzac,deepseek,C,reorder,0,True,True,False,False,0
+test_48f2fcb36c802ba572e4,Resurrection by Leo Tolstoy,deepseek,C,reorder,0,True,False,True,False,-1
+test_15399e3f39df49af15fc,Notre-Dame de Paris by Victor Hugo,deepseek,C,reorder,0,True,False,True,False,-1
+test_29c28bc6e2e92015ae15,Les Miserables by Victor Hugo,deepseek,C,reorder,0,True,False,True,False,-1
+test_87e0568b177d7e477e23,The Call of the Wild by Jack London,deepseek,C,reorder,0,True,True,True,True,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,deepseek,C,reorder,0,True,True,True,True,0
+test_13f2f038927410385eac,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,C,reorder,0,True,True,False,False,0
+test_7e6b657fbc584b1c0dfe,Tess of the d'Urbervilles by Thomas Hardy,deepseek,C,reorder,0,True,True,False,False,0
+test_f8212f8090053fbb943d,Tess of the d'Urbervilles by Thomas Hardy,deepseek,C,reorder,0,False,False,False,False,0
+test_cebbc4d497f4294e3cb1,Les Miserables by Victor Hugo,deepseek,C,reorder,0,True,True,False,False,0
+test_8f5cee7d082c0f941ccc,The Idiot by Fyodor Dostoyevsky,deepseek,C,reorder,0,True,True,False,False,0
+test_7447f3c8aa4b9af1b893,Crime and Punishment by Fyodor Dostoevsky,deepseek,C,reorder,0,True,True,False,False,0
+test_f8643c5c09db3441bb6e,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,C,reorder,0,False,False,False,False,0
+test_bd2e344d3dbfff48a07a,Les Miserables by Victor Hugo,deepseek,D,reorder,0,True,False,False,False,0
+test_7e6b657fbc584b1c0dfe,Tess of the d'Urbervilles by Thomas Hardy,deepseek,D,reorder,0,True,False,True,False,-1
+test_48f2fcb36c802ba572e4,Resurrection by Leo Tolstoy,deepseek,D,reorder,0,True,True,False,False,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,deepseek,D,reorder,0,True,True,False,False,0
+test_8f5cee7d082c0f941ccc,The Idiot by Fyodor Dostoyevsky,deepseek,D,reorder,0,True,True,False,False,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,deepseek,D,reorder,0,True,True,True,True,0
+test_0c1d7b6b676ab30d0933,The Idiot by Fyodor Dostoyevsky,deepseek,D,reorder,0,True,True,True,True,0
+test_83a75d3299c9da976ca8,Moby Dick; or The Whale by Herman Melville,deepseek,D,reorder,0,True,True,True,True,0
+test_1584dca8741c3eb9786e,The Idiot by Fyodor Dostoyevsky,deepseek,D,reorder,0,True,False,False,True,1
+test_f476f5aa1f4556dd2515,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,D,reorder,0,True,True,False,False,0
+test_0111a7ab9a1a1a4b8359,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,D,reorder,0,True,True,True,True,0
+test_29c28bc6e2e92015ae15,Les Miserables by Victor Hugo,deepseek,D,reorder,0,True,True,True,True,0
+test_13f2f038927410385eac,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,D,reorder,0,True,False,False,False,0
+test_accfced35ef70cb00a7a,Les Miserables by Victor Hugo,deepseek,D,reorder,0,True,False,True,False,-1
+test_af5a35aba78cafeb819c,The Call of the Wild by Jack London,deepseek,D,reorder,0,True,False,False,True,1
+test_1629e935fa9c51317dc6,Crime and Punishment by Fyodor Dostoevsky,deepseek,D,reorder,0,True,False,False,True,1
+test_2003427f2b7a982cc32f,Moby Dick; or The Whale by Herman Melville,deepseek,D,reorder,0,True,True,True,True,0
+test_2fe9983ef8d1b602b5d4,Resurrection by Leo Tolstoy,deepseek,D,reorder,0,True,True,False,False,0
+test_2c9639cb6e2e82a0b5a1,The Idiot by Fyodor Dostoyevsky,deepseek,D,reorder,0,True,True,True,True,0
+test_e8e93f0b0081462eeb3f,Tess of the d'Urbervilles by Thomas Hardy,deepseek,D,reorder,0,True,True,True,True,0
+test_87e0568b177d7e477e23,The Call of the Wild by Jack London,deepseek,D,reorder,0,True,True,True,True,0
+test_5dfbc5f84dede363ee88,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,D,reorder,0,True,False,True,False,-1
+test_bfb817ee8b7db018d900,Crime and Punishment by Fyodor Dostoevsky,deepseek,D,reorder,0,True,True,True,True,0
+test_db186a824c9eaeaef2a9,Notre-Dame de Paris by Victor Hugo,deepseek,D,reorder,0,True,True,True,True,0
+test_72dfb2e3c09a0120fea7,Moby Dick; or The Whale by Herman Melville,deepseek,D,reorder,0,True,True,False,False,0
+test_b17bb4d5ef54c0b6946c,Eugenie Grandet by Honore de Balzac,deepseek,D,reorder,0,True,True,True,True,0
+test_be4b1100bf9483b122d8,The Call of the Wild by Jack London,deepseek,D,reorder,0,True,True,False,False,0
+test_cebbc4d497f4294e3cb1,Les Miserables by Victor Hugo,deepseek,D,reorder,0,True,True,False,False,0
+test_8890daa7ecde5142f369,Tess of the d'Urbervilles by Thomas Hardy,deepseek,D,reorder,0,True,True,False,False,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,deepseek,D,reorder,0,True,True,True,True,0
+test_8b9eccc1d7950685ac74,Crime and Punishment by Fyodor Dostoevsky,deepseek,D,reorder,0,True,True,False,False,0
+test_f0a101031bce1f2e005c,Notre-Dame de Paris by Victor Hugo,deepseek,D,reorder,0,True,True,True,True,0
+test_ec047f6e914a4c497303,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,D,reorder,0,True,True,True,True,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,deepseek,D,reorder,0,True,True,True,True,0
+test_4e024d182ef50e319add,Eugenie Grandet by Honore de Balzac,deepseek,D,reorder,0,True,True,True,True,0
+test_72845dd8922375b654c6,The Call of the Wild by Jack London,deepseek,D,reorder,0,True,True,False,False,0
+test_b4474d562bae98bc2e12,Crime and Punishment by Fyodor Dostoevsky,deepseek,D,reorder,0,True,True,False,False,0
+test_ddeb918da1a04cf9dafb,Crime and Punishment by Fyodor Dostoevsky,deepseek,D,reorder,0,True,True,False,False,0
+test_41e9ff3d96d85789d05a,Notre-Dame de Paris by Victor Hugo,deepseek,D,reorder,0,True,False,True,False,-1
+test_15399e3f39df49af15fc,Notre-Dame de Paris by Victor Hugo,deepseek,D,reorder,0,True,False,True,False,-1
+test_8a1fc213cde37789a646,Resurrection by Leo Tolstoy,deepseek,D,reorder,0,True,True,False,False,0
+test_78e2c0e8a11107e7df28,Resurrection by Leo Tolstoy,deepseek,D,reorder,0,True,False,False,False,0
+test_7c79314f8055af2c23f1,Les Miserables by Victor Hugo,deepseek,D,reorder,0,True,True,False,False,0
+test_440104330e8be05e27c6,Les Miserables by Victor Hugo,deepseek,D,reorder,0,True,True,False,False,0
+test_f8643c5c09db3441bb6e,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,D,reorder,0,True,False,False,False,0
+test_2c3c7901d73ba7450330,Eugenie Grandet by Honore de Balzac,deepseek,D,reorder,0,True,True,False,False,0
+test_7447f3c8aa4b9af1b893,Crime and Punishment by Fyodor Dostoevsky,deepseek,D,reorder,0,True,True,True,True,0
+test_2f0a065c6921a48ce92d,Moby Dick; or The Whale by Herman Melville,deepseek,D,reorder,0,True,True,True,True,0
+test_6fa8f8b6d49d5245684b,The Idiot by Fyodor Dostoyevsky,deepseek,D,reorder,0,True,True,False,False,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,deepseek,D,reorder,0,True,True,True,True,0
+test_f8212f8090053fbb943d,Tess of the d'Urbervilles by Thomas Hardy,deepseek,D,reorder,0,True,False,False,False,0
+test_f63cf3f624919059d9d0,The Idiot by Fyodor Dostoyevsky,deepseek,D,reorder,0,True,True,False,False,0
+test_7f1b64de3262c21c3b34,Notre-Dame de Paris by Victor Hugo,deepseek,D,reorder,0,True,False,False,True,1
+test_8b6b34a9006fedf11a97,Tess of the d'Urbervilles by Thomas Hardy,deepseek,D,reorder,0,True,True,True,True,0
+test_ad501c68eb8d56ab4087,Eugenie Grandet by Honore de Balzac,deepseek,D,reorder,0,True,True,True,True,0
+test_4779a7a11279a4a6fe9a,Tess of the d'Urbervilles by Thomas Hardy,deepseek,D,reorder,0,True,True,True,True,0
+test_29e1127d29c9ae589d3b,Notre-Dame de Paris by Victor Hugo,deepseek,D,reorder,0,True,True,False,False,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,deepseek,D,reorder,0,True,False,True,False,-1
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,deepseek,D,reorder,0,True,True,True,True,0
+test_64a8e4e7518a3235465b,Eugenie Grandet by Honore de Balzac,deepseek,D,reorder,0,True,True,False,False,0
+test_ad501c68eb8d56ab4087,Eugenie Grandet by Honore de Balzac,deepseek,E,reorder,0,True,False,True,False,-1
+test_72845dd8922375b654c6,The Call of the Wild by Jack London,deepseek,E,reorder,0,True,True,False,False,0
+test_1629e935fa9c51317dc6,Crime and Punishment by Fyodor Dostoevsky,deepseek,E,reorder,0,True,True,False,False,0
+test_78e2c0e8a11107e7df28,Resurrection by Leo Tolstoy,deepseek,E,reorder,0,True,False,False,False,0
+test_0c1d7b6b676ab30d0933,The Idiot by Fyodor Dostoyevsky,deepseek,E,reorder,0,True,True,True,True,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,deepseek,E,reorder,0,True,True,True,True,0
+test_440104330e8be05e27c6,Les Miserables by Victor Hugo,deepseek,E,reorder,0,True,True,False,False,0
+test_f63cf3f624919059d9d0,The Idiot by Fyodor Dostoyevsky,deepseek,E,reorder,0,True,True,False,False,0
+test_f8212f8090053fbb943d,Tess of the d'Urbervilles by Thomas Hardy,deepseek,E,reorder,0,True,True,False,False,0
+test_2fe9983ef8d1b602b5d4,Resurrection by Leo Tolstoy,deepseek,E,reorder,0,True,True,False,False,0
+test_e8e93f0b0081462eeb3f,Tess of the d'Urbervilles by Thomas Hardy,deepseek,E,reorder,0,True,False,False,True,1
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,deepseek,E,reorder,0,True,True,False,False,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,deepseek,E,reorder,0,True,True,True,True,0
+test_8b6b34a9006fedf11a97,Tess of the d'Urbervilles by Thomas Hardy,deepseek,E,reorder,0,True,True,True,True,0
+test_7e6b657fbc584b1c0dfe,Tess of the d'Urbervilles by Thomas Hardy,deepseek,E,reorder,0,True,True,False,False,0
+test_15399e3f39df49af15fc,Notre-Dame de Paris by Victor Hugo,deepseek,E,reorder,0,True,False,True,False,-1
+test_29e1127d29c9ae589d3b,Notre-Dame de Paris by Victor Hugo,deepseek,E,reorder,0,True,True,False,False,0
+test_2c3c7901d73ba7450330,Eugenie Grandet by Honore de Balzac,deepseek,E,reorder,0,True,False,False,False,0
+test_8f5cee7d082c0f941ccc,The Idiot by Fyodor Dostoyevsky,deepseek,E,reorder,0,True,True,False,False,0
+test_accfced35ef70cb00a7a,Les Miserables by Victor Hugo,deepseek,E,reorder,0,True,True,False,False,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,deepseek,E,reorder,0,True,True,True,True,0
+test_87e0568b177d7e477e23,The Call of the Wild by Jack London,deepseek,E,reorder,0,True,True,True,True,0
+test_7c79314f8055af2c23f1,Les Miserables by Victor Hugo,deepseek,E,reorder,0,True,True,False,False,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,deepseek,E,reorder,0,True,True,True,True,0
+test_2f0a065c6921a48ce92d,Moby Dick; or The Whale by Herman Melville,deepseek,E,reorder,0,True,True,True,True,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,deepseek,E,reorder,0,True,True,True,True,0
+test_f8643c5c09db3441bb6e,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,E,reorder,0,True,True,False,False,0
+test_af5a35aba78cafeb819c,The Call of the Wild by Jack London,deepseek,E,reorder,0,True,True,True,True,0
+test_ddeb918da1a04cf9dafb,Crime and Punishment by Fyodor Dostoevsky,deepseek,E,reorder,0,True,False,False,False,0
+test_83a75d3299c9da976ca8,Moby Dick; or The Whale by Herman Melville,deepseek,E,reorder,0,True,False,True,False,-1
+test_6fa8f8b6d49d5245684b,The Idiot by Fyodor Dostoyevsky,deepseek,E,reorder,0,True,True,False,False,0
+test_f0a101031bce1f2e005c,Notre-Dame de Paris by Victor Hugo,deepseek,E,reorder,0,True,False,False,True,1
+test_db186a824c9eaeaef2a9,Notre-Dame de Paris by Victor Hugo,deepseek,E,reorder,0,True,True,True,True,0
+test_29c28bc6e2e92015ae15,Les Miserables by Victor Hugo,deepseek,E,reorder,0,True,True,False,False,0
+test_be4b1100bf9483b122d8,The Call of the Wild by Jack London,deepseek,E,reorder,0,True,True,False,False,0
+test_5dfbc5f84dede363ee88,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,E,reorder,0,True,True,False,False,0
+test_ec047f6e914a4c497303,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,E,reorder,0,True,True,True,True,0
+test_64a8e4e7518a3235465b,Eugenie Grandet by Honore de Balzac,deepseek,E,reorder,0,True,True,False,False,0
+test_13f2f038927410385eac,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,E,reorder,0,True,False,False,False,0
+test_2003427f2b7a982cc32f,Moby Dick; or The Whale by Herman Melville,deepseek,E,reorder,0,True,True,True,True,0
+test_1584dca8741c3eb9786e,The Idiot by Fyodor Dostoyevsky,deepseek,E,reorder,0,True,False,False,True,1
+test_cebbc4d497f4294e3cb1,Les Miserables by Victor Hugo,deepseek,E,reorder,0,True,False,False,False,0
+test_48f2fcb36c802ba572e4,Resurrection by Leo Tolstoy,deepseek,E,reorder,0,True,True,True,True,0
+test_7f1b64de3262c21c3b34,Notre-Dame de Paris by Victor Hugo,deepseek,E,reorder,0,True,True,False,False,0
+test_f476f5aa1f4556dd2515,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,E,reorder,0,True,True,False,False,0
+test_b17bb4d5ef54c0b6946c,Eugenie Grandet by Honore de Balzac,deepseek,E,reorder,0,True,True,True,True,0
+test_41e9ff3d96d85789d05a,Notre-Dame de Paris by Victor Hugo,deepseek,E,reorder,0,True,True,True,True,0
+test_7447f3c8aa4b9af1b893,Crime and Punishment by Fyodor Dostoevsky,deepseek,E,reorder,0,True,True,False,False,0
+test_2c9639cb6e2e82a0b5a1,The Idiot by Fyodor Dostoyevsky,deepseek,E,reorder,0,True,True,False,False,0
+test_0111a7ab9a1a1a4b8359,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,E,reorder,0,True,True,True,True,0
+test_bd2e344d3dbfff48a07a,Les Miserables by Victor Hugo,deepseek,E,reorder,0,True,False,False,False,0
+test_8a1fc213cde37789a646,Resurrection by Leo Tolstoy,deepseek,E,reorder,0,True,True,False,False,0
+test_72dfb2e3c09a0120fea7,Moby Dick; or The Whale by Herman Melville,deepseek,E,reorder,0,True,False,False,True,1
+test_4e024d182ef50e319add,Eugenie Grandet by Honore de Balzac,deepseek,E,reorder,0,True,True,True,True,0
+test_4779a7a11279a4a6fe9a,Tess of the d'Urbervilles by Thomas Hardy,deepseek,E,reorder,0,True,True,True,True,0
+test_b4474d562bae98bc2e12,Crime and Punishment by Fyodor Dostoevsky,deepseek,E,reorder,0,True,True,False,False,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,deepseek,E,reorder,0,True,False,False,False,0
+test_8b9eccc1d7950685ac74,Crime and Punishment by Fyodor Dostoevsky,deepseek,E,reorder,0,True,True,False,False,0
+test_bfb817ee8b7db018d900,Crime and Punishment by Fyodor Dostoevsky,deepseek,E,reorder,0,True,True,True,True,0
+test_8890daa7ecde5142f369,Tess of the d'Urbervilles by Thomas Hardy,deepseek,E,reorder,0,True,False,False,False,0
+test_f8212f8090053fbb943d,Tess of the d'Urbervilles by Thomas Hardy,deepseek,F,reorder,0,True,True,False,False,0
+test_ad501c68eb8d56ab4087,Eugenie Grandet by Honore de Balzac,deepseek,F,reorder,0,True,True,True,True,0
+test_7f1b64de3262c21c3b34,Notre-Dame de Paris by Victor Hugo,deepseek,F,reorder,0,True,False,False,True,1
+test_2c3c7901d73ba7450330,Eugenie Grandet by Honore de Balzac,deepseek,F,reorder,0,True,True,False,False,0
+test_72845dd8922375b654c6,The Call of the Wild by Jack London,deepseek,F,reorder,0,True,True,False,False,0
+test_cebbc4d497f4294e3cb1,Les Miserables by Victor Hugo,deepseek,F,reorder,0,True,False,False,False,0
+test_e8e93f0b0081462eeb3f,Tess of the d'Urbervilles by Thomas Hardy,deepseek,F,reorder,0,True,True,False,False,0
+test_f8643c5c09db3441bb6e,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,F,reorder,0,True,True,False,False,0
+test_7447f3c8aa4b9af1b893,Crime and Punishment by Fyodor Dostoevsky,deepseek,F,reorder,0,True,False,True,False,-1
+test_13f2f038927410385eac,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,F,reorder,0,True,False,False,False,0
+test_41e9ff3d96d85789d05a,Notre-Dame de Paris by Victor Hugo,deepseek,F,reorder,0,True,False,True,False,-1
+test_4779a7a11279a4a6fe9a,Tess of the d'Urbervilles by Thomas Hardy,deepseek,F,reorder,0,True,True,True,True,0
+test_72dfb2e3c09a0120fea7,Moby Dick; or The Whale by Herman Melville,deepseek,F,reorder,0,True,True,False,False,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,deepseek,F,reorder,0,True,True,True,True,0
+test_1584dca8741c3eb9786e,The Idiot by Fyodor Dostoyevsky,deepseek,F,reorder,0,True,True,True,True,0
+test_1629e935fa9c51317dc6,Crime and Punishment by Fyodor Dostoevsky,deepseek,F,reorder,0,True,True,False,False,0
+test_2f0a065c6921a48ce92d,Moby Dick; or The Whale by Herman Melville,deepseek,F,reorder,0,True,True,True,True,0
+test_6fa8f8b6d49d5245684b,The Idiot by Fyodor Dostoyevsky,deepseek,F,reorder,0,True,True,False,False,0
+test_2003427f2b7a982cc32f,Moby Dick; or The Whale by Herman Melville,deepseek,F,reorder,0,True,True,True,True,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,deepseek,F,reorder,0,True,True,True,True,0
+test_b4474d562bae98bc2e12,Crime and Punishment by Fyodor Dostoevsky,deepseek,F,reorder,0,True,False,True,False,-1
+test_8a1fc213cde37789a646,Resurrection by Leo Tolstoy,deepseek,F,reorder,0,True,True,False,False,0
+test_bd2e344d3dbfff48a07a,Les Miserables by Victor Hugo,deepseek,F,reorder,0,False,False,False,True,1
+test_7e6b657fbc584b1c0dfe,Tess of the d'Urbervilles by Thomas Hardy,deepseek,F,reorder,0,True,True,False,False,0
+test_f0a101031bce1f2e005c,Notre-Dame de Paris by Victor Hugo,deepseek,F,reorder,0,True,True,True,True,0
+test_be4b1100bf9483b122d8,The Call of the Wild by Jack London,deepseek,F,reorder,0,True,False,False,False,0
+test_0c1d7b6b676ab30d0933,The Idiot by Fyodor Dostoyevsky,deepseek,F,reorder,0,True,True,True,True,0
+test_64a8e4e7518a3235465b,Eugenie Grandet by Honore de Balzac,deepseek,F,reorder,0,True,True,False,False,0
+test_4e024d182ef50e319add,Eugenie Grandet by Honore de Balzac,deepseek,F,reorder,0,True,False,True,False,-1
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,deepseek,F,reorder,0,True,False,True,False,-1
+test_87e0568b177d7e477e23,The Call of the Wild by Jack London,deepseek,F,reorder,0,True,True,True,True,0
+test_accfced35ef70cb00a7a,Les Miserables by Victor Hugo,deepseek,F,reorder,0,True,True,True,True,0
+test_8b9eccc1d7950685ac74,Crime and Punishment by Fyodor Dostoevsky,deepseek,F,reorder,0,True,True,False,False,0
+test_48f2fcb36c802ba572e4,Resurrection by Leo Tolstoy,deepseek,F,reorder,0,True,True,True,True,0
+test_ec047f6e914a4c497303,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,F,reorder,0,True,False,True,False,-1
+test_db186a824c9eaeaef2a9,Notre-Dame de Paris by Victor Hugo,deepseek,F,reorder,0,True,True,True,True,0
+test_af5a35aba78cafeb819c,The Call of the Wild by Jack London,deepseek,F,reorder,0,True,True,True,True,0
+test_f476f5aa1f4556dd2515,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,F,reorder,0,True,True,False,False,0
+test_29e1127d29c9ae589d3b,Notre-Dame de Paris by Victor Hugo,deepseek,F,reorder,0,True,True,False,False,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,deepseek,F,reorder,0,True,True,False,False,0
+test_b17bb4d5ef54c0b6946c,Eugenie Grandet by Honore de Balzac,deepseek,F,reorder,0,True,True,True,True,0
+test_5dfbc5f84dede363ee88,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,F,reorder,0,False,False,False,False,0
+test_15399e3f39df49af15fc,Notre-Dame de Paris by Victor Hugo,deepseek,F,reorder,0,True,False,True,False,-1
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,deepseek,F,reorder,0,True,True,True,True,0
+test_8890daa7ecde5142f369,Tess of the d'Urbervilles by Thomas Hardy,deepseek,F,reorder,0,True,False,False,False,0
+test_8b6b34a9006fedf11a97,Tess of the d'Urbervilles by Thomas Hardy,deepseek,F,reorder,0,True,True,True,True,0
+test_83a75d3299c9da976ca8,Moby Dick; or The Whale by Herman Melville,deepseek,F,reorder,0,True,False,True,False,-1
+test_bfb817ee8b7db018d900,Crime and Punishment by Fyodor Dostoevsky,deepseek,F,reorder,0,True,True,True,True,0
+test_7c79314f8055af2c23f1,Les Miserables by Victor Hugo,deepseek,F,reorder,0,True,False,False,True,1
+test_ddeb918da1a04cf9dafb,Crime and Punishment by Fyodor Dostoevsky,deepseek,F,reorder,0,True,True,False,False,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,deepseek,F,reorder,0,True,True,False,False,0
+test_2fe9983ef8d1b602b5d4,Resurrection by Leo Tolstoy,deepseek,F,reorder,0,True,True,False,False,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,deepseek,F,reorder,0,True,True,True,True,0
+test_78e2c0e8a11107e7df28,Resurrection by Leo Tolstoy,deepseek,F,reorder,0,True,False,True,False,-1
+test_29c28bc6e2e92015ae15,Les Miserables by Victor Hugo,deepseek,F,reorder,0,True,False,True,False,-1
+test_2c9639cb6e2e82a0b5a1,The Idiot by Fyodor Dostoyevsky,deepseek,F,reorder,0,True,True,True,True,0
+test_440104330e8be05e27c6,Les Miserables by Victor Hugo,deepseek,F,reorder,0,True,True,False,False,0
+test_0111a7ab9a1a1a4b8359,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,F,reorder,0,True,True,True,True,0
+test_f63cf3f624919059d9d0,The Idiot by Fyodor Dostoyevsky,deepseek,F,reorder,0,True,True,False,False,0
+test_8f5cee7d082c0f941ccc,The Idiot by Fyodor Dostoyevsky,deepseek,F,reorder,0,True,True,False,False,0
+test_76d7cb7f260df49b8558,Tess of the d'Urbervilles by Thomas Hardy,glm,A,repeat,2,True,True,False,False,0
+test_4cece36e29673045e67b,Notre-Dame de Paris by Victor Hugo,glm,A,repeat,1,True,True,True,True,0
+test_47b10a939d45d6ca0784,The Idiot by Fyodor Dostoyevsky,glm,A,repeat,2,True,True,False,False,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,glm,A,repeat,2,True,True,True,True,0
+test_6e215de22f56f0f3fecc,The Idiot by Fyodor Dostoyevsky,glm,A,repeat,1,True,True,False,False,0
+test_161159266ac057be00c7,Les Miserables by Victor Hugo,glm,A,repeat,2,True,True,False,False,0
+test_05c7d1b52572f7c86e49,Eugenie Grandet by Honore de Balzac,glm,A,repeat,2,True,True,True,True,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,glm,A,repeat,1,True,True,False,False,0
+test_83109d7825960c26c618,The Brothers Karamazov by Fyodor Dostoyevsky,glm,A,repeat,2,True,False,True,False,-1
+test_6e215de22f56f0f3fecc,The Idiot by Fyodor Dostoyevsky,glm,A,repeat,2,True,True,False,False,0
+test_9682c844d57ac7ed2f3a,The Brothers Karamazov by Fyodor Dostoyevsky,glm,A,repeat,1,True,True,False,False,0
+test_e7ba804d5251e5909776,The Call of the Wild by Jack London,glm,A,repeat,2,True,True,False,False,0
+test_76d7cb7f260df49b8558,Tess of the d'Urbervilles by Thomas Hardy,glm,A,repeat,1,True,True,False,False,0
+test_d2f14ba59e885a2e2591,Tess of the d'Urbervilles by Thomas Hardy,glm,A,repeat,2,True,True,True,True,0
+test_5536d7f7d6217851ea62,Crime and Punishment by Fyodor Dostoevsky,glm,A,repeat,2,True,True,False,False,0
+test_19dbca247512b960cf5c,Eugenie Grandet by Honore de Balzac,glm,A,repeat,1,True,True,True,True,0
+test_19dbca247512b960cf5c,Eugenie Grandet by Honore de Balzac,glm,A,repeat,2,True,True,True,True,0
+test_d901a2e1c8a9c8d98c6c,Moby Dick; or The Whale by Herman Melville,glm,A,repeat,1,True,True,False,False,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,glm,A,repeat,2,True,True,True,True,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,glm,A,repeat,2,True,False,False,True,1
+test_9682c844d57ac7ed2f3a,The Brothers Karamazov by Fyodor Dostoyevsky,glm,A,repeat,2,True,True,False,False,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,glm,A,repeat,1,True,True,False,False,0
+test_55ac631b587db4533822,Crime and Punishment by Fyodor Dostoevsky,glm,A,repeat,2,True,True,False,False,0
+test_04838d85458fcd0a4865,Les Miserables by Victor Hugo,glm,A,repeat,2,True,True,False,False,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,glm,A,repeat,2,True,True,False,False,0
+test_4cece36e29673045e67b,Notre-Dame de Paris by Victor Hugo,glm,A,repeat,2,True,True,True,True,0
+test_ec37690e8a667fe7ae2a,Notre-Dame de Paris by Victor Hugo,glm,A,repeat,1,True,True,False,False,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,glm,A,repeat,1,True,True,True,True,0
+test_e277ef7f332455e20a90,Resurrection by Leo Tolstoy,glm,A,repeat,1,True,True,False,False,0
+test_161159266ac057be00c7,Les Miserables by Victor Hugo,glm,A,repeat,1,True,True,False,False,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,glm,A,repeat,1,True,True,True,True,0
+test_55ac631b587db4533822,Crime and Punishment by Fyodor Dostoevsky,glm,A,repeat,1,True,True,False,False,0
+test_5536d7f7d6217851ea62,Crime and Punishment by Fyodor Dostoevsky,glm,A,repeat,1,True,True,False,False,0
+test_7cc06a2ea5e699380f32,Notre-Dame de Paris by Victor Hugo,glm,A,repeat,1,True,True,False,False,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,glm,A,repeat,2,True,True,False,False,0
+test_7cc06a2ea5e699380f32,Notre-Dame de Paris by Victor Hugo,glm,A,repeat,2,True,True,False,False,0
+test_ec37690e8a667fe7ae2a,Notre-Dame de Paris by Victor Hugo,glm,A,repeat,2,True,False,False,False,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,glm,A,repeat,1,True,True,False,False,0
+test_09ecc480d4e484643296,The Brothers Karamazov by Fyodor Dostoyevsky,glm,A,repeat,2,True,False,False,False,0
+test_0f1aea9983c5f115b8a8,The Idiot by Fyodor Dostoyevsky,glm,A,repeat,2,True,True,False,False,0
+test_05c7d1b52572f7c86e49,Eugenie Grandet by Honore de Balzac,glm,A,repeat,1,True,True,True,True,0
+test_d901a2e1c8a9c8d98c6c,Moby Dick; or The Whale by Herman Melville,glm,A,repeat,2,True,True,False,False,0
+test_83109d7825960c26c618,The Brothers Karamazov by Fyodor Dostoyevsky,glm,A,repeat,1,True,False,True,False,-1
+test_d2f14ba59e885a2e2591,Tess of the d'Urbervilles by Thomas Hardy,glm,A,repeat,1,True,True,True,True,0
+test_8496f238888a2d54ae60,Crime and Punishment by Fyodor Dostoevsky,glm,A,repeat,1,False,False,True,False,-1
+test_bfef4701352911b360ad,Tess of the d'Urbervilles by Thomas Hardy,glm,A,repeat,1,True,True,True,True,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,glm,A,repeat,1,True,True,False,False,0
+test_04838d85458fcd0a4865,Les Miserables by Victor Hugo,glm,A,repeat,1,True,True,False,False,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,glm,A,repeat,1,True,True,True,True,0
+test_e277ef7f332455e20a90,Resurrection by Leo Tolstoy,glm,A,repeat,2,True,True,False,False,0
+test_47b10a939d45d6ca0784,The Idiot by Fyodor Dostoyevsky,glm,A,repeat,1,True,True,False,False,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,glm,A,repeat,2,True,True,True,True,0
+test_e7ba804d5251e5909776,The Call of the Wild by Jack London,glm,A,repeat,1,True,True,False,False,0
+test_96377dddda7f007bbd6b,Les Miserables by Victor Hugo,glm,A,repeat,2,True,True,True,True,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,glm,A,repeat,2,True,True,False,False,0
+test_09ecc480d4e484643296,The Brothers Karamazov by Fyodor Dostoyevsky,glm,A,repeat,1,True,True,False,False,0
+test_96377dddda7f007bbd6b,Les Miserables by Victor Hugo,glm,A,repeat,1,True,True,True,True,0
+test_0f1aea9983c5f115b8a8,The Idiot by Fyodor Dostoyevsky,glm,A,repeat,1,True,True,False,False,0
+test_bfef4701352911b360ad,Tess of the d'Urbervilles by Thomas Hardy,glm,A,repeat,2,True,True,True,True,0
+test_8496f238888a2d54ae60,Crime and Punishment by Fyodor Dostoevsky,glm,A,repeat,2,True,True,True,True,0
+test_19dbca247512b960cf5c,Eugenie Grandet by Honore de Balzac,glm,B,repeat,2,True,True,True,True,0
+test_4cece36e29673045e67b,Notre-Dame de Paris by Victor Hugo,glm,B,repeat,2,True,True,True,True,0
+test_05c7d1b52572f7c86e49,Eugenie Grandet by Honore de Balzac,glm,B,repeat,1,True,True,True,True,0
+test_76d7cb7f260df49b8558,Tess of the d'Urbervilles by Thomas Hardy,glm,B,repeat,1,True,True,False,False,0
+test_4cece36e29673045e67b,Notre-Dame de Paris by Victor Hugo,glm,B,repeat,1,True,True,True,True,0
+test_04838d85458fcd0a4865,Les Miserables by Victor Hugo,glm,B,repeat,1,True,True,False,False,0
+test_8496f238888a2d54ae60,Crime and Punishment by Fyodor Dostoevsky,glm,B,repeat,1,True,True,True,True,0
+test_0f1aea9983c5f115b8a8,The Idiot by Fyodor Dostoyevsky,glm,B,repeat,1,True,True,False,False,0
+test_161159266ac057be00c7,Les Miserables by Victor Hugo,glm,B,repeat,2,True,True,False,False,0
+test_83109d7825960c26c618,The Brothers Karamazov by Fyodor Dostoyevsky,glm,B,repeat,1,True,True,False,False,0
+test_83109d7825960c26c618,The Brothers Karamazov by Fyodor Dostoyevsky,glm,B,repeat,2,True,True,False,False,0
+test_05c7d1b52572f7c86e49,Eugenie Grandet by Honore de Balzac,glm,B,repeat,2,True,True,True,True,0
+test_d2f14ba59e885a2e2591,Tess of the d'Urbervilles by Thomas Hardy,glm,B,repeat,2,True,True,True,True,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,glm,B,repeat,1,True,True,False,False,0
+test_0f1aea9983c5f115b8a8,The Idiot by Fyodor Dostoyevsky,glm,B,repeat,2,True,True,False,False,0
+test_8496f238888a2d54ae60,Crime and Punishment by Fyodor Dostoevsky,glm,B,repeat,2,True,True,True,True,0
+test_bfef4701352911b360ad,Tess of the d'Urbervilles by Thomas Hardy,glm,B,repeat,2,True,True,True,True,0
+test_55ac631b587db4533822,Crime and Punishment by Fyodor Dostoevsky,glm,B,repeat,2,True,False,False,False,0
+test_47b10a939d45d6ca0784,The Idiot by Fyodor Dostoyevsky,glm,B,repeat,2,True,True,False,False,0
+test_09ecc480d4e484643296,The Brothers Karamazov by Fyodor Dostoyevsky,glm,B,repeat,2,True,True,False,False,0
+test_d901a2e1c8a9c8d98c6c,Moby Dick; or The Whale by Herman Melville,glm,B,repeat,1,True,True,False,False,0
+test_6e215de22f56f0f3fecc,The Idiot by Fyodor Dostoyevsky,glm,B,repeat,2,True,True,False,False,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,glm,B,repeat,1,True,True,False,False,0
+test_96377dddda7f007bbd6b,Les Miserables by Victor Hugo,glm,B,repeat,2,True,True,True,True,0
+test_e277ef7f332455e20a90,Resurrection by Leo Tolstoy,glm,B,repeat,1,True,True,False,False,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,glm,B,repeat,1,True,True,False,False,0
+test_ec37690e8a667fe7ae2a,Notre-Dame de Paris by Victor Hugo,glm,B,repeat,2,True,True,False,False,0
+test_47b10a939d45d6ca0784,The Idiot by Fyodor Dostoyevsky,glm,B,repeat,1,True,True,False,False,0
+test_9682c844d57ac7ed2f3a,The Brothers Karamazov by Fyodor Dostoyevsky,glm,B,repeat,2,True,True,True,True,0
+test_e277ef7f332455e20a90,Resurrection by Leo Tolstoy,glm,B,repeat,2,True,True,False,False,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,glm,B,repeat,1,True,True,True,True,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,glm,B,repeat,2,True,False,True,False,-1
+test_e7ba804d5251e5909776,The Call of the Wild by Jack London,glm,B,repeat,1,True,True,False,False,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,glm,B,repeat,2,True,True,True,True,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,glm,B,repeat,2,True,True,True,True,0
+test_76d7cb7f260df49b8558,Tess of the d'Urbervilles by Thomas Hardy,glm,B,repeat,2,True,True,False,False,0
+test_5536d7f7d6217851ea62,Crime and Punishment by Fyodor Dostoevsky,glm,B,repeat,1,True,True,False,False,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,glm,B,repeat,2,True,True,False,False,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,glm,B,repeat,2,True,True,False,False,0
+test_ec37690e8a667fe7ae2a,Notre-Dame de Paris by Victor Hugo,glm,B,repeat,1,True,True,False,False,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,glm,B,repeat,1,True,True,True,True,0
+test_161159266ac057be00c7,Les Miserables by Victor Hugo,glm,B,repeat,1,True,True,False,False,0
+test_bfef4701352911b360ad,Tess of the d'Urbervilles by Thomas Hardy,glm,B,repeat,1,True,True,True,True,0
+test_55ac631b587db4533822,Crime and Punishment by Fyodor Dostoevsky,glm,B,repeat,1,True,False,False,False,0
+test_5536d7f7d6217851ea62,Crime and Punishment by Fyodor Dostoevsky,glm,B,repeat,2,True,True,False,False,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,glm,B,repeat,2,True,True,True,True,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,glm,B,repeat,1,True,True,True,True,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,glm,B,repeat,1,True,True,True,True,0
+test_9682c844d57ac7ed2f3a,The Brothers Karamazov by Fyodor Dostoyevsky,glm,B,repeat,1,True,True,True,True,0
+test_d2f14ba59e885a2e2591,Tess of the d'Urbervilles by Thomas Hardy,glm,B,repeat,1,True,True,True,True,0
+test_19dbca247512b960cf5c,Eugenie Grandet by Honore de Balzac,glm,B,repeat,1,True,True,True,True,0
+test_7cc06a2ea5e699380f32,Notre-Dame de Paris by Victor Hugo,glm,B,repeat,1,True,True,False,False,0
+test_d901a2e1c8a9c8d98c6c,Moby Dick; or The Whale by Herman Melville,glm,B,repeat,2,True,True,False,False,0
+test_6e215de22f56f0f3fecc,The Idiot by Fyodor Dostoyevsky,glm,B,repeat,1,True,True,False,False,0
+test_96377dddda7f007bbd6b,Les Miserables by Victor Hugo,glm,B,repeat,1,True,True,True,True,0
+test_7cc06a2ea5e699380f32,Notre-Dame de Paris by Victor Hugo,glm,B,repeat,2,True,True,False,False,0
+test_e7ba804d5251e5909776,The Call of the Wild by Jack London,glm,B,repeat,2,True,True,False,False,0
+test_04838d85458fcd0a4865,Les Miserables by Victor Hugo,glm,B,repeat,2,True,True,False,False,0
+test_09ecc480d4e484643296,The Brothers Karamazov by Fyodor Dostoyevsky,glm,B,repeat,1,True,True,False,False,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,glm,B,repeat,2,True,True,False,False,0
+test_6e215de22f56f0f3fecc,The Idiot by Fyodor Dostoyevsky,glm,C,repeat,1,True,True,False,False,0
+test_47b10a939d45d6ca0784,The Idiot by Fyodor Dostoyevsky,glm,C,repeat,2,True,True,True,True,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,glm,C,repeat,1,True,True,False,False,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,glm,C,repeat,2,True,True,False,False,0
+test_4cece36e29673045e67b,Notre-Dame de Paris by Victor Hugo,glm,C,repeat,2,True,True,True,True,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,glm,C,repeat,1,True,True,False,False,0
+test_d901a2e1c8a9c8d98c6c,Moby Dick; or The Whale by Herman Melville,glm,C,repeat,1,True,True,False,False,0
+test_05c7d1b52572f7c86e49,Eugenie Grandet by Honore de Balzac,glm,C,repeat,2,True,True,True,True,0
+test_7cc06a2ea5e699380f32,Notre-Dame de Paris by Victor Hugo,glm,C,repeat,1,True,True,False,False,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,glm,C,repeat,1,True,True,False,False,0
+test_8496f238888a2d54ae60,Crime and Punishment by Fyodor Dostoevsky,glm,C,repeat,1,True,True,True,True,0
+test_83109d7825960c26c618,The Brothers Karamazov by Fyodor Dostoyevsky,glm,C,repeat,1,True,True,False,False,0
+test_04838d85458fcd0a4865,Les Miserables by Victor Hugo,glm,C,repeat,1,True,True,False,False,0
+test_05c7d1b52572f7c86e49,Eugenie Grandet by Honore de Balzac,glm,C,repeat,1,True,True,True,True,0
+test_9682c844d57ac7ed2f3a,The Brothers Karamazov by Fyodor Dostoyevsky,glm,C,repeat,2,True,True,True,True,0
+test_e277ef7f332455e20a90,Resurrection by Leo Tolstoy,glm,C,repeat,2,True,True,False,False,0
+test_19dbca247512b960cf5c,Eugenie Grandet by Honore de Balzac,glm,C,repeat,1,True,True,True,True,0
+test_4cece36e29673045e67b,Notre-Dame de Paris by Victor Hugo,glm,C,repeat,1,True,True,True,True,0
+test_d2f14ba59e885a2e2591,Tess of the d'Urbervilles by Thomas Hardy,glm,C,repeat,2,True,True,True,True,0
+test_5536d7f7d6217851ea62,Crime and Punishment by Fyodor Dostoevsky,glm,C,repeat,1,True,True,False,False,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,glm,C,repeat,2,True,True,True,True,0
+test_bfef4701352911b360ad,Tess of the d'Urbervilles by Thomas Hardy,glm,C,repeat,2,True,True,True,True,0
+test_9682c844d57ac7ed2f3a,The Brothers Karamazov by Fyodor Dostoyevsky,glm,C,repeat,1,True,True,True,True,0
+test_76d7cb7f260df49b8558,Tess of the d'Urbervilles by Thomas Hardy,glm,C,repeat,1,True,True,False,False,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,glm,C,repeat,2,True,True,True,True,0
+test_96377dddda7f007bbd6b,Les Miserables by Victor Hugo,glm,C,repeat,1,True,True,True,True,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,glm,C,repeat,1,True,True,True,True,0
+test_e7ba804d5251e5909776,The Call of the Wild by Jack London,glm,C,repeat,1,True,True,False,False,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,glm,C,repeat,1,True,True,True,True,0
+test_ec37690e8a667fe7ae2a,Notre-Dame de Paris by Victor Hugo,glm,C,repeat,1,True,True,False,False,0
+test_bfef4701352911b360ad,Tess of the d'Urbervilles by Thomas Hardy,glm,C,repeat,1,True,True,True,True,0
+test_55ac631b587db4533822,Crime and Punishment by Fyodor Dostoevsky,glm,C,repeat,2,True,True,False,False,0
+test_d901a2e1c8a9c8d98c6c,Moby Dick; or The Whale by Herman Melville,glm,C,repeat,2,True,True,False,False,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,glm,C,repeat,2,True,True,True,True,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,glm,C,repeat,1,True,True,True,True,0
+test_8496f238888a2d54ae60,Crime and Punishment by Fyodor Dostoevsky,glm,C,repeat,2,True,True,True,True,0
+test_09ecc480d4e484643296,The Brothers Karamazov by Fyodor Dostoyevsky,glm,C,repeat,2,True,True,False,False,0
+test_7cc06a2ea5e699380f32,Notre-Dame de Paris by Victor Hugo,glm,C,repeat,2,True,True,False,False,0
+test_19dbca247512b960cf5c,Eugenie Grandet by Honore de Balzac,glm,C,repeat,2,True,True,True,True,0
+test_5536d7f7d6217851ea62,Crime and Punishment by Fyodor Dostoevsky,glm,C,repeat,2,True,True,False,False,0
+test_161159266ac057be00c7,Les Miserables by Victor Hugo,glm,C,repeat,2,True,True,False,False,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,glm,C,repeat,1,True,True,False,False,0
+test_09ecc480d4e484643296,The Brothers Karamazov by Fyodor Dostoyevsky,glm,C,repeat,1,True,True,False,False,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,glm,C,repeat,2,True,True,False,False,0
+test_e277ef7f332455e20a90,Resurrection by Leo Tolstoy,glm,C,repeat,1,True,True,False,False,0
+test_e7ba804d5251e5909776,The Call of the Wild by Jack London,glm,C,repeat,2,True,True,False,False,0
+test_161159266ac057be00c7,Les Miserables by Victor Hugo,glm,C,repeat,1,True,True,False,False,0
+test_04838d85458fcd0a4865,Les Miserables by Victor Hugo,glm,C,repeat,2,True,True,False,False,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,glm,C,repeat,2,True,True,False,False,0
+test_96377dddda7f007bbd6b,Les Miserables by Victor Hugo,glm,C,repeat,2,True,True,True,True,0
+test_ec37690e8a667fe7ae2a,Notre-Dame de Paris by Victor Hugo,glm,C,repeat,2,True,True,False,False,0
+test_47b10a939d45d6ca0784,The Idiot by Fyodor Dostoyevsky,glm,C,repeat,1,True,False,True,False,-1
+test_55ac631b587db4533822,Crime and Punishment by Fyodor Dostoevsky,glm,C,repeat,1,True,True,False,False,0
+test_0f1aea9983c5f115b8a8,The Idiot by Fyodor Dostoyevsky,glm,C,repeat,1,False,False,False,False,0
+test_d2f14ba59e885a2e2591,Tess of the d'Urbervilles by Thomas Hardy,glm,C,repeat,1,True,True,True,True,0
+test_0f1aea9983c5f115b8a8,The Idiot by Fyodor Dostoyevsky,glm,C,repeat,2,True,True,False,False,0
+test_83109d7825960c26c618,The Brothers Karamazov by Fyodor Dostoyevsky,glm,C,repeat,2,True,True,False,False,0
+test_6e215de22f56f0f3fecc,The Idiot by Fyodor Dostoyevsky,glm,C,repeat,2,True,True,False,False,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,glm,C,repeat,2,True,True,False,False,0
+test_76d7cb7f260df49b8558,Tess of the d'Urbervilles by Thomas Hardy,glm,C,repeat,2,True,True,False,False,0
+test_9682c844d57ac7ed2f3a,The Brothers Karamazov by Fyodor Dostoyevsky,glm,D,repeat,1,True,True,False,False,0
+test_bfef4701352911b360ad,Tess of the d'Urbervilles by Thomas Hardy,glm,D,repeat,1,True,True,True,True,0
+test_5536d7f7d6217851ea62,Crime and Punishment by Fyodor Dostoevsky,glm,D,repeat,2,True,True,False,False,0
+test_e7ba804d5251e5909776,The Call of the Wild by Jack London,glm,D,repeat,1,True,True,False,False,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,glm,D,repeat,1,True,True,False,False,0
+test_83109d7825960c26c618,The Brothers Karamazov by Fyodor Dostoyevsky,glm,D,repeat,1,True,False,True,False,-1
+test_e277ef7f332455e20a90,Resurrection by Leo Tolstoy,glm,D,repeat,2,True,True,False,False,0
+test_d2f14ba59e885a2e2591,Tess of the d'Urbervilles by Thomas Hardy,glm,D,repeat,2,True,False,True,False,-1
+test_e7ba804d5251e5909776,The Call of the Wild by Jack London,glm,D,repeat,2,True,True,False,False,0
+test_8496f238888a2d54ae60,Crime and Punishment by Fyodor Dostoevsky,glm,D,repeat,2,False,False,True,False,-1
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,glm,D,repeat,2,True,True,True,True,0
+test_04838d85458fcd0a4865,Les Miserables by Victor Hugo,glm,D,repeat,2,True,True,False,False,0
+test_05c7d1b52572f7c86e49,Eugenie Grandet by Honore de Balzac,glm,D,repeat,2,True,True,True,True,0
+test_76d7cb7f260df49b8558,Tess of the d'Urbervilles by Thomas Hardy,glm,D,repeat,1,True,True,False,False,0
+test_6e215de22f56f0f3fecc,The Idiot by Fyodor Dostoyevsky,glm,D,repeat,1,True,True,False,False,0
+test_4cece36e29673045e67b,Notre-Dame de Paris by Victor Hugo,glm,D,repeat,1,True,True,True,True,0
+test_8496f238888a2d54ae60,Crime and Punishment by Fyodor Dostoevsky,glm,D,repeat,1,False,False,True,False,-1
+test_05c7d1b52572f7c86e49,Eugenie Grandet by Honore de Balzac,glm,D,repeat,1,True,True,True,True,0
+test_e277ef7f332455e20a90,Resurrection by Leo Tolstoy,glm,D,repeat,1,True,True,False,False,0
+test_6e215de22f56f0f3fecc,The Idiot by Fyodor Dostoyevsky,glm,D,repeat,2,True,True,False,False,0
+test_0f1aea9983c5f115b8a8,The Idiot by Fyodor Dostoyevsky,glm,D,repeat,1,True,True,False,False,0
+test_9682c844d57ac7ed2f3a,The Brothers Karamazov by Fyodor Dostoyevsky,glm,D,repeat,2,True,True,False,False,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,glm,D,repeat,1,True,True,True,True,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,glm,D,repeat,1,True,True,True,True,0
+test_76d7cb7f260df49b8558,Tess of the d'Urbervilles by Thomas Hardy,glm,D,repeat,2,True,True,False,False,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,glm,D,repeat,2,True,True,False,False,0
+test_bfef4701352911b360ad,Tess of the d'Urbervilles by Thomas Hardy,glm,D,repeat,2,True,True,True,True,0
+test_ec37690e8a667fe7ae2a,Notre-Dame de Paris by Victor Hugo,glm,D,repeat,2,True,False,False,False,0
+test_d901a2e1c8a9c8d98c6c,Moby Dick; or The Whale by Herman Melville,glm,D,repeat,2,True,True,False,False,0
+test_96377dddda7f007bbd6b,Les Miserables by Victor Hugo,glm,D,repeat,1,True,True,True,True,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,glm,D,repeat,2,True,True,False,False,0
+test_7cc06a2ea5e699380f32,Notre-Dame de Paris by Victor Hugo,glm,D,repeat,1,True,True,False,False,0
+test_ec37690e8a667fe7ae2a,Notre-Dame de Paris by Victor Hugo,glm,D,repeat,1,True,True,False,False,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,glm,D,repeat,1,True,True,False,False,0
+test_d901a2e1c8a9c8d98c6c,Moby Dick; or The Whale by Herman Melville,glm,D,repeat,1,True,True,False,False,0
+test_96377dddda7f007bbd6b,Les Miserables by Victor Hugo,glm,D,repeat,2,True,True,True,True,0
+test_09ecc480d4e484643296,The Brothers Karamazov by Fyodor Dostoyevsky,glm,D,repeat,2,True,True,False,False,0
+test_d2f14ba59e885a2e2591,Tess of the d'Urbervilles by Thomas Hardy,glm,D,repeat,1,True,True,True,True,0
+test_161159266ac057be00c7,Les Miserables by Victor Hugo,glm,D,repeat,2,True,True,False,False,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,glm,D,repeat,2,True,True,True,True,0
+test_19dbca247512b960cf5c,Eugenie Grandet by Honore de Balzac,glm,D,repeat,2,True,True,True,True,0
+test_4cece36e29673045e67b,Notre-Dame de Paris by Victor Hugo,glm,D,repeat,2,True,True,True,True,0
+test_04838d85458fcd0a4865,Les Miserables by Victor Hugo,glm,D,repeat,1,True,True,False,False,0
+test_55ac631b587db4533822,Crime and Punishment by Fyodor Dostoevsky,glm,D,repeat,2,True,True,False,False,0
+test_83109d7825960c26c618,The Brothers Karamazov by Fyodor Dostoyevsky,glm,D,repeat,2,True,False,True,False,-1
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,glm,D,repeat,2,True,True,False,False,0
+test_5536d7f7d6217851ea62,Crime and Punishment by Fyodor Dostoevsky,glm,D,repeat,1,True,True,False,False,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,glm,D,repeat,1,True,True,False,False,0
+test_47b10a939d45d6ca0784,The Idiot by Fyodor Dostoyevsky,glm,D,repeat,1,True,True,False,False,0
+test_161159266ac057be00c7,Les Miserables by Victor Hugo,glm,D,repeat,1,True,True,False,False,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,glm,D,repeat,1,True,True,True,True,0
+test_55ac631b587db4533822,Crime and Punishment by Fyodor Dostoevsky,glm,D,repeat,1,True,True,False,False,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,glm,D,repeat,1,True,True,True,True,0
+test_19dbca247512b960cf5c,Eugenie Grandet by Honore de Balzac,glm,D,repeat,1,True,True,True,True,0
+test_0f1aea9983c5f115b8a8,The Idiot by Fyodor Dostoyevsky,glm,D,repeat,2,True,True,False,False,0
+test_47b10a939d45d6ca0784,The Idiot by Fyodor Dostoyevsky,glm,D,repeat,2,True,True,False,False,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,glm,D,repeat,2,True,True,True,True,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,glm,D,repeat,2,True,True,True,True,0
+test_7cc06a2ea5e699380f32,Notre-Dame de Paris by Victor Hugo,glm,D,repeat,2,True,True,False,False,0
+test_09ecc480d4e484643296,The Brothers Karamazov by Fyodor Dostoyevsky,glm,D,repeat,1,True,True,False,False,0
+test_19dbca247512b960cf5c,Eugenie Grandet by Honore de Balzac,glm,E,repeat,1,True,True,True,True,0
+test_96377dddda7f007bbd6b,Les Miserables by Victor Hugo,glm,E,repeat,2,True,True,True,True,0
+test_ec37690e8a667fe7ae2a,Notre-Dame de Paris by Victor Hugo,glm,E,repeat,1,True,True,False,False,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,glm,E,repeat,2,True,True,True,True,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,glm,E,repeat,1,True,True,True,True,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,glm,E,repeat,1,True,True,False,False,0
+test_4cece36e29673045e67b,Notre-Dame de Paris by Victor Hugo,glm,E,repeat,2,True,True,True,True,0
+test_8496f238888a2d54ae60,Crime and Punishment by Fyodor Dostoevsky,glm,E,repeat,1,True,True,True,True,0
+test_09ecc480d4e484643296,The Brothers Karamazov by Fyodor Dostoyevsky,glm,E,repeat,2,True,False,False,False,0
+test_05c7d1b52572f7c86e49,Eugenie Grandet by Honore de Balzac,glm,E,repeat,2,True,True,True,True,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,glm,E,repeat,2,True,True,True,True,0
+test_bfef4701352911b360ad,Tess of the d'Urbervilles by Thomas Hardy,glm,E,repeat,1,True,True,True,True,0
+test_e7ba804d5251e5909776,The Call of the Wild by Jack London,glm,E,repeat,2,True,True,False,False,0
+test_0f1aea9983c5f115b8a8,The Idiot by Fyodor Dostoyevsky,glm,E,repeat,1,True,True,False,False,0
+test_9682c844d57ac7ed2f3a,The Brothers Karamazov by Fyodor Dostoyevsky,glm,E,repeat,2,True,False,True,False,-1
+test_bfef4701352911b360ad,Tess of the d'Urbervilles by Thomas Hardy,glm,E,repeat,2,True,True,True,True,0
+test_6e215de22f56f0f3fecc,The Idiot by Fyodor Dostoyevsky,glm,E,repeat,2,True,True,False,False,0
+test_4cece36e29673045e67b,Notre-Dame de Paris by Victor Hugo,glm,E,repeat,1,True,True,True,True,0
+test_d2f14ba59e885a2e2591,Tess of the d'Urbervilles by Thomas Hardy,glm,E,repeat,1,True,True,True,True,0
+test_161159266ac057be00c7,Les Miserables by Victor Hugo,glm,E,repeat,1,True,True,False,False,0
+test_6e215de22f56f0f3fecc,The Idiot by Fyodor Dostoyevsky,glm,E,repeat,1,True,True,False,False,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,glm,E,repeat,2,True,True,True,True,0
+test_0f1aea9983c5f115b8a8,The Idiot by Fyodor Dostoyevsky,glm,E,repeat,2,True,True,False,False,0
+test_19dbca247512b960cf5c,Eugenie Grandet by Honore de Balzac,glm,E,repeat,2,True,True,True,True,0
+test_7cc06a2ea5e699380f32,Notre-Dame de Paris by Victor Hugo,glm,E,repeat,1,True,False,False,False,0
+test_d901a2e1c8a9c8d98c6c,Moby Dick; or The Whale by Herman Melville,glm,E,repeat,1,True,True,False,False,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,glm,E,repeat,2,True,False,True,False,-1
+test_9682c844d57ac7ed2f3a,The Brothers Karamazov by Fyodor Dostoyevsky,glm,E,repeat,1,True,False,True,False,-1
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,glm,E,repeat,2,True,True,False,False,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,glm,E,repeat,1,True,True,True,True,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,glm,E,repeat,1,True,True,True,True,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,glm,E,repeat,1,True,True,False,False,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,glm,E,repeat,2,True,True,False,False,0
+test_7cc06a2ea5e699380f32,Notre-Dame de Paris by Victor Hugo,glm,E,repeat,2,True,True,False,False,0
+test_161159266ac057be00c7,Les Miserables by Victor Hugo,glm,E,repeat,2,True,True,False,False,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,glm,E,repeat,1,True,True,True,True,0
+test_55ac631b587db4533822,Crime and Punishment by Fyodor Dostoevsky,glm,E,repeat,2,True,True,False,False,0
+test_47b10a939d45d6ca0784,The Idiot by Fyodor Dostoyevsky,glm,E,repeat,1,True,True,False,False,0
+test_e277ef7f332455e20a90,Resurrection by Leo Tolstoy,glm,E,repeat,2,True,True,False,False,0
+test_83109d7825960c26c618,The Brothers Karamazov by Fyodor Dostoyevsky,glm,E,repeat,1,True,True,False,False,0
+test_55ac631b587db4533822,Crime and Punishment by Fyodor Dostoevsky,glm,E,repeat,1,True,True,False,False,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,glm,E,repeat,1,True,True,False,False,0
+test_76d7cb7f260df49b8558,Tess of the d'Urbervilles by Thomas Hardy,glm,E,repeat,2,True,True,False,False,0
+test_05c7d1b52572f7c86e49,Eugenie Grandet by Honore de Balzac,glm,E,repeat,1,True,True,True,True,0
+test_09ecc480d4e484643296,The Brothers Karamazov by Fyodor Dostoyevsky,glm,E,repeat,1,True,False,False,False,0
+test_5536d7f7d6217851ea62,Crime and Punishment by Fyodor Dostoevsky,glm,E,repeat,1,True,True,False,False,0
+test_83109d7825960c26c618,The Brothers Karamazov by Fyodor Dostoyevsky,glm,E,repeat,2,True,True,False,False,0
+test_e7ba804d5251e5909776,The Call of the Wild by Jack London,glm,E,repeat,1,True,True,False,False,0
+test_8496f238888a2d54ae60,Crime and Punishment by Fyodor Dostoevsky,glm,E,repeat,2,True,True,True,True,0
+test_5536d7f7d6217851ea62,Crime and Punishment by Fyodor Dostoevsky,glm,E,repeat,2,True,True,False,False,0
+test_04838d85458fcd0a4865,Les Miserables by Victor Hugo,glm,E,repeat,2,True,True,False,False,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,glm,E,repeat,2,True,True,False,False,0
+test_04838d85458fcd0a4865,Les Miserables by Victor Hugo,glm,E,repeat,1,True,True,False,False,0
+test_d2f14ba59e885a2e2591,Tess of the d'Urbervilles by Thomas Hardy,glm,E,repeat,2,True,True,True,True,0
+test_47b10a939d45d6ca0784,The Idiot by Fyodor Dostoyevsky,glm,E,repeat,2,True,True,False,False,0
+test_e277ef7f332455e20a90,Resurrection by Leo Tolstoy,glm,E,repeat,1,True,True,False,False,0
+test_d901a2e1c8a9c8d98c6c,Moby Dick; or The Whale by Herman Melville,glm,E,repeat,2,True,True,False,False,0
+test_76d7cb7f260df49b8558,Tess of the d'Urbervilles by Thomas Hardy,glm,E,repeat,1,True,True,False,False,0
+test_ec37690e8a667fe7ae2a,Notre-Dame de Paris by Victor Hugo,glm,E,repeat,2,True,True,False,False,0
+test_96377dddda7f007bbd6b,Les Miserables by Victor Hugo,glm,E,repeat,1,True,True,True,True,0
+test_d901a2e1c8a9c8d98c6c,Moby Dick; or The Whale by Herman Melville,glm,F,repeat,1,True,True,False,False,0
+test_d901a2e1c8a9c8d98c6c,Moby Dick; or The Whale by Herman Melville,glm,F,repeat,2,False,False,False,False,0
+test_47b10a939d45d6ca0784,The Idiot by Fyodor Dostoyevsky,glm,F,repeat,1,True,False,False,True,1
+test_e7ba804d5251e5909776,The Call of the Wild by Jack London,glm,F,repeat,2,True,True,False,False,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,glm,F,repeat,2,True,True,False,False,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,glm,F,repeat,2,True,False,True,False,-1
+test_8496f238888a2d54ae60,Crime and Punishment by Fyodor Dostoevsky,glm,F,repeat,1,True,True,True,True,0
+test_19dbca247512b960cf5c,Eugenie Grandet by Honore de Balzac,glm,F,repeat,1,True,True,True,True,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,glm,F,repeat,1,True,True,False,False,0
+test_55ac631b587db4533822,Crime and Punishment by Fyodor Dostoevsky,glm,F,repeat,2,True,False,False,False,0
+test_76d7cb7f260df49b8558,Tess of the d'Urbervilles by Thomas Hardy,glm,F,repeat,2,True,True,False,False,0
+test_e7ba804d5251e5909776,The Call of the Wild by Jack London,glm,F,repeat,1,True,True,False,False,0
+test_bfef4701352911b360ad,Tess of the d'Urbervilles by Thomas Hardy,glm,F,repeat,1,True,True,True,True,0
+test_6e215de22f56f0f3fecc,The Idiot by Fyodor Dostoyevsky,glm,F,repeat,1,True,False,False,False,0
+test_161159266ac057be00c7,Les Miserables by Victor Hugo,glm,F,repeat,2,True,True,False,False,0
+test_09ecc480d4e484643296,The Brothers Karamazov by Fyodor Dostoyevsky,glm,F,repeat,1,True,True,False,False,0
+test_8496f238888a2d54ae60,Crime and Punishment by Fyodor Dostoevsky,glm,F,repeat,2,True,True,True,True,0
+test_04838d85458fcd0a4865,Les Miserables by Victor Hugo,glm,F,repeat,1,True,True,False,False,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,glm,F,repeat,2,True,True,False,False,0
+test_0f1aea9983c5f115b8a8,The Idiot by Fyodor Dostoyevsky,glm,F,repeat,2,True,True,False,False,0
+test_55ac631b587db4533822,Crime and Punishment by Fyodor Dostoevsky,glm,F,repeat,1,True,True,False,False,0
+test_76d7cb7f260df49b8558,Tess of the d'Urbervilles by Thomas Hardy,glm,F,repeat,1,True,True,False,False,0
+test_ec37690e8a667fe7ae2a,Notre-Dame de Paris by Victor Hugo,glm,F,repeat,2,True,True,False,False,0
+test_83109d7825960c26c618,The Brothers Karamazov by Fyodor Dostoyevsky,glm,F,repeat,1,True,True,False,False,0
+test_e277ef7f332455e20a90,Resurrection by Leo Tolstoy,glm,F,repeat,1,True,True,False,False,0
+test_96377dddda7f007bbd6b,Les Miserables by Victor Hugo,glm,F,repeat,2,True,True,True,True,0
+test_0f1aea9983c5f115b8a8,The Idiot by Fyodor Dostoyevsky,glm,F,repeat,1,True,True,False,False,0
+test_9682c844d57ac7ed2f3a,The Brothers Karamazov by Fyodor Dostoyevsky,glm,F,repeat,2,True,False,True,False,-1
+test_bfef4701352911b360ad,Tess of the d'Urbervilles by Thomas Hardy,glm,F,repeat,2,True,True,True,True,0
+test_7cc06a2ea5e699380f32,Notre-Dame de Paris by Victor Hugo,glm,F,repeat,2,True,False,False,False,0
+test_4cece36e29673045e67b,Notre-Dame de Paris by Victor Hugo,glm,F,repeat,1,True,True,True,True,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,glm,F,repeat,1,True,True,True,True,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,glm,F,repeat,1,True,True,True,True,0
+test_19dbca247512b960cf5c,Eugenie Grandet by Honore de Balzac,glm,F,repeat,2,True,True,True,True,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,glm,F,repeat,2,True,True,True,True,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,glm,F,repeat,1,True,True,False,False,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,glm,F,repeat,2,True,True,True,True,0
+test_47b10a939d45d6ca0784,The Idiot by Fyodor Dostoyevsky,glm,F,repeat,2,True,True,False,False,0
+test_96377dddda7f007bbd6b,Les Miserables by Victor Hugo,glm,F,repeat,1,True,True,True,True,0
+test_ec37690e8a667fe7ae2a,Notre-Dame de Paris by Victor Hugo,glm,F,repeat,1,True,True,False,False,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,glm,F,repeat,2,True,True,False,False,0
+test_05c7d1b52572f7c86e49,Eugenie Grandet by Honore de Balzac,glm,F,repeat,1,True,True,True,True,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,glm,F,repeat,1,True,True,False,False,0
+test_05c7d1b52572f7c86e49,Eugenie Grandet by Honore de Balzac,glm,F,repeat,2,True,True,True,True,0
+test_6e215de22f56f0f3fecc,The Idiot by Fyodor Dostoyevsky,glm,F,repeat,2,True,False,False,False,0
+test_4cece36e29673045e67b,Notre-Dame de Paris by Victor Hugo,glm,F,repeat,2,True,True,True,True,0
+test_d2f14ba59e885a2e2591,Tess of the d'Urbervilles by Thomas Hardy,glm,F,repeat,2,True,True,True,True,0
+test_e277ef7f332455e20a90,Resurrection by Leo Tolstoy,glm,F,repeat,2,True,True,False,False,0
+test_83109d7825960c26c618,The Brothers Karamazov by Fyodor Dostoyevsky,glm,F,repeat,2,True,True,False,False,0
+test_d2f14ba59e885a2e2591,Tess of the d'Urbervilles by Thomas Hardy,glm,F,repeat,1,True,True,True,True,0
+test_161159266ac057be00c7,Les Miserables by Victor Hugo,glm,F,repeat,1,True,True,False,False,0
+test_5536d7f7d6217851ea62,Crime and Punishment by Fyodor Dostoevsky,glm,F,repeat,2,True,True,False,False,0
+test_7cc06a2ea5e699380f32,Notre-Dame de Paris by Victor Hugo,glm,F,repeat,1,True,False,False,False,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,glm,F,repeat,1,True,True,True,True,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,glm,F,repeat,2,True,True,True,True,0
+test_9682c844d57ac7ed2f3a,The Brothers Karamazov by Fyodor Dostoyevsky,glm,F,repeat,1,True,True,True,True,0
+test_04838d85458fcd0a4865,Les Miserables by Victor Hugo,glm,F,repeat,2,True,True,False,False,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,glm,F,repeat,1,True,True,True,True,0
+test_5536d7f7d6217851ea62,Crime and Punishment by Fyodor Dostoevsky,glm,F,repeat,1,True,True,False,False,0
+test_09ecc480d4e484643296,The Brothers Karamazov by Fyodor Dostoyevsky,glm,F,repeat,2,True,True,False,False,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,deepseek,A,repeat,2,True,True,True,True,0
+test_8496f238888a2d54ae60,Crime and Punishment by Fyodor Dostoevsky,deepseek,A,repeat,1,True,True,True,True,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,deepseek,A,repeat,1,True,True,True,True,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,deepseek,A,repeat,1,True,True,False,False,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,deepseek,A,repeat,2,True,True,True,True,0
+test_04838d85458fcd0a4865,Les Miserables by Victor Hugo,deepseek,A,repeat,2,True,True,False,False,0
+test_bfef4701352911b360ad,Tess of the d'Urbervilles by Thomas Hardy,deepseek,A,repeat,1,True,True,True,True,0
+test_47b10a939d45d6ca0784,The Idiot by Fyodor Dostoyevsky,deepseek,A,repeat,1,True,True,False,False,0
+test_ec37690e8a667fe7ae2a,Notre-Dame de Paris by Victor Hugo,deepseek,A,repeat,2,True,True,False,False,0
+test_4cece36e29673045e67b,Notre-Dame de Paris by Victor Hugo,deepseek,A,repeat,2,True,True,True,True,0
+test_19dbca247512b960cf5c,Eugenie Grandet by Honore de Balzac,deepseek,A,repeat,1,True,True,True,True,0
+test_05c7d1b52572f7c86e49,Eugenie Grandet by Honore de Balzac,deepseek,A,repeat,2,True,True,True,True,0
+test_0f1aea9983c5f115b8a8,The Idiot by Fyodor Dostoyevsky,deepseek,A,repeat,2,True,True,False,False,0
+test_7cc06a2ea5e699380f32,Notre-Dame de Paris by Victor Hugo,deepseek,A,repeat,2,True,True,False,False,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,deepseek,A,repeat,1,True,True,True,True,0
+test_4cece36e29673045e67b,Notre-Dame de Paris by Victor Hugo,deepseek,A,repeat,1,True,True,True,True,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,deepseek,A,repeat,2,True,True,True,True,0
+test_161159266ac057be00c7,Les Miserables by Victor Hugo,deepseek,A,repeat,1,True,True,False,False,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,deepseek,A,repeat,1,True,True,True,True,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,deepseek,A,repeat,1,True,True,True,True,0
+test_5536d7f7d6217851ea62,Crime and Punishment by Fyodor Dostoevsky,deepseek,A,repeat,1,True,True,False,False,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,deepseek,A,repeat,1,True,True,True,True,0
+test_76d7cb7f260df49b8558,Tess of the d'Urbervilles by Thomas Hardy,deepseek,A,repeat,1,True,True,False,False,0
+test_9682c844d57ac7ed2f3a,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,A,repeat,2,True,True,False,False,0
+test_76d7cb7f260df49b8558,Tess of the d'Urbervilles by Thomas Hardy,deepseek,A,repeat,2,True,True,False,False,0
+test_bfef4701352911b360ad,Tess of the d'Urbervilles by Thomas Hardy,deepseek,A,repeat,2,True,True,True,True,0
+test_d2f14ba59e885a2e2591,Tess of the d'Urbervilles by Thomas Hardy,deepseek,A,repeat,1,True,True,True,True,0
+test_ec37690e8a667fe7ae2a,Notre-Dame de Paris by Victor Hugo,deepseek,A,repeat,1,True,True,False,False,0
+test_d2f14ba59e885a2e2591,Tess of the d'Urbervilles by Thomas Hardy,deepseek,A,repeat,2,True,True,True,True,0
+test_96377dddda7f007bbd6b,Les Miserables by Victor Hugo,deepseek,A,repeat,2,True,True,True,True,0
+test_d901a2e1c8a9c8d98c6c,Moby Dick; or The Whale by Herman Melville,deepseek,A,repeat,2,True,True,False,False,0
+test_83109d7825960c26c618,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,A,repeat,1,True,True,False,False,0
+test_05c7d1b52572f7c86e49,Eugenie Grandet by Honore de Balzac,deepseek,A,repeat,1,True,True,True,True,0
+test_e7ba804d5251e5909776,The Call of the Wild by Jack London,deepseek,A,repeat,1,True,True,False,False,0
+test_55ac631b587db4533822,Crime and Punishment by Fyodor Dostoevsky,deepseek,A,repeat,2,True,True,False,False,0
+test_55ac631b587db4533822,Crime and Punishment by Fyodor Dostoevsky,deepseek,A,repeat,1,True,True,False,False,0
+test_47b10a939d45d6ca0784,The Idiot by Fyodor Dostoyevsky,deepseek,A,repeat,2,True,True,False,False,0
+test_e277ef7f332455e20a90,Resurrection by Leo Tolstoy,deepseek,A,repeat,2,True,True,False,False,0
+test_04838d85458fcd0a4865,Les Miserables by Victor Hugo,deepseek,A,repeat,1,True,True,False,False,0
+test_8496f238888a2d54ae60,Crime and Punishment by Fyodor Dostoevsky,deepseek,A,repeat,2,True,True,True,True,0
+test_19dbca247512b960cf5c,Eugenie Grandet by Honore de Balzac,deepseek,A,repeat,2,True,True,True,True,0
+test_6e215de22f56f0f3fecc,The Idiot by Fyodor Dostoyevsky,deepseek,A,repeat,2,True,True,False,False,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,deepseek,A,repeat,2,True,True,True,True,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,deepseek,A,repeat,2,True,True,True,True,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,deepseek,A,repeat,2,True,True,False,False,0
+test_d901a2e1c8a9c8d98c6c,Moby Dick; or The Whale by Herman Melville,deepseek,A,repeat,1,True,True,False,False,0
+test_e7ba804d5251e5909776,The Call of the Wild by Jack London,deepseek,A,repeat,2,True,True,False,False,0
+test_e277ef7f332455e20a90,Resurrection by Leo Tolstoy,deepseek,A,repeat,1,True,True,False,False,0
+test_161159266ac057be00c7,Les Miserables by Victor Hugo,deepseek,A,repeat,2,True,True,False,False,0
+test_6e215de22f56f0f3fecc,The Idiot by Fyodor Dostoyevsky,deepseek,A,repeat,1,True,True,False,False,0
+test_0f1aea9983c5f115b8a8,The Idiot by Fyodor Dostoyevsky,deepseek,A,repeat,1,True,True,False,False,0
+test_83109d7825960c26c618,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,A,repeat,2,True,True,False,False,0
+test_7cc06a2ea5e699380f32,Notre-Dame de Paris by Victor Hugo,deepseek,A,repeat,1,True,True,False,False,0
+test_09ecc480d4e484643296,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,A,repeat,2,True,True,False,False,0
+test_9682c844d57ac7ed2f3a,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,A,repeat,1,True,True,False,False,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,deepseek,A,repeat,1,True,True,True,True,0
+test_09ecc480d4e484643296,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,A,repeat,1,True,True,False,False,0
+test_96377dddda7f007bbd6b,Les Miserables by Victor Hugo,deepseek,A,repeat,1,True,True,True,True,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,deepseek,A,repeat,2,True,True,True,True,0
+test_5536d7f7d6217851ea62,Crime and Punishment by Fyodor Dostoevsky,deepseek,A,repeat,2,True,True,False,False,0
+test_76d7cb7f260df49b8558,Tess of the d'Urbervilles by Thomas Hardy,deepseek,B,repeat,2,True,True,False,False,0
+test_e277ef7f332455e20a90,Resurrection by Leo Tolstoy,deepseek,B,repeat,2,True,True,False,False,0
+test_0f1aea9983c5f115b8a8,The Idiot by Fyodor Dostoyevsky,deepseek,B,repeat,1,True,True,False,False,0
+test_83109d7825960c26c618,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,B,repeat,2,True,True,False,False,0
+test_161159266ac057be00c7,Les Miserables by Victor Hugo,deepseek,B,repeat,2,True,True,False,False,0
+test_47b10a939d45d6ca0784,The Idiot by Fyodor Dostoyevsky,deepseek,B,repeat,1,True,True,False,False,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,deepseek,B,repeat,1,True,True,True,True,0
+test_09ecc480d4e484643296,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,B,repeat,1,True,False,True,False,-1
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,deepseek,B,repeat,1,True,False,False,False,0
+test_96377dddda7f007bbd6b,Les Miserables by Victor Hugo,deepseek,B,repeat,1,True,True,True,True,0
+test_8496f238888a2d54ae60,Crime and Punishment by Fyodor Dostoevsky,deepseek,B,repeat,2,True,True,True,True,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,deepseek,B,repeat,2,True,True,True,True,0
+test_9682c844d57ac7ed2f3a,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,B,repeat,1,True,False,False,True,1
+test_bfef4701352911b360ad,Tess of the d'Urbervilles by Thomas Hardy,deepseek,B,repeat,2,True,True,True,True,0
+test_96377dddda7f007bbd6b,Les Miserables by Victor Hugo,deepseek,B,repeat,2,True,True,True,True,0
+test_04838d85458fcd0a4865,Les Miserables by Victor Hugo,deepseek,B,repeat,1,True,True,False,False,0
+test_e7ba804d5251e5909776,The Call of the Wild by Jack London,deepseek,B,repeat,2,True,True,False,False,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,deepseek,B,repeat,2,True,True,True,True,0
+test_ec37690e8a667fe7ae2a,Notre-Dame de Paris by Victor Hugo,deepseek,B,repeat,1,True,True,False,False,0
+test_05c7d1b52572f7c86e49,Eugenie Grandet by Honore de Balzac,deepseek,B,repeat,2,True,True,True,True,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,deepseek,B,repeat,1,True,True,True,True,0
+test_ec37690e8a667fe7ae2a,Notre-Dame de Paris by Victor Hugo,deepseek,B,repeat,2,True,True,False,False,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,deepseek,B,repeat,2,True,True,True,True,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,deepseek,B,repeat,2,True,True,False,False,0
+test_e7ba804d5251e5909776,The Call of the Wild by Jack London,deepseek,B,repeat,1,True,True,False,False,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,deepseek,B,repeat,2,True,True,True,True,0
+test_9682c844d57ac7ed2f3a,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,B,repeat,2,True,True,False,False,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,deepseek,B,repeat,2,True,True,True,True,0
+test_05c7d1b52572f7c86e49,Eugenie Grandet by Honore de Balzac,deepseek,B,repeat,1,True,True,True,True,0
+test_0f1aea9983c5f115b8a8,The Idiot by Fyodor Dostoyevsky,deepseek,B,repeat,2,True,True,False,False,0
+test_4cece36e29673045e67b,Notre-Dame de Paris by Victor Hugo,deepseek,B,repeat,1,True,True,True,True,0
+test_76d7cb7f260df49b8558,Tess of the d'Urbervilles by Thomas Hardy,deepseek,B,repeat,1,True,True,False,False,0
+test_d2f14ba59e885a2e2591,Tess of the d'Urbervilles by Thomas Hardy,deepseek,B,repeat,1,True,True,True,True,0
+test_d901a2e1c8a9c8d98c6c,Moby Dick; or The Whale by Herman Melville,deepseek,B,repeat,1,True,True,False,False,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,deepseek,B,repeat,1,True,True,True,True,0
+test_8496f238888a2d54ae60,Crime and Punishment by Fyodor Dostoevsky,deepseek,B,repeat,1,True,True,True,True,0
+test_55ac631b587db4533822,Crime and Punishment by Fyodor Dostoevsky,deepseek,B,repeat,2,True,True,False,False,0
+test_04838d85458fcd0a4865,Les Miserables by Victor Hugo,deepseek,B,repeat,2,True,True,False,False,0
+test_6e215de22f56f0f3fecc,The Idiot by Fyodor Dostoyevsky,deepseek,B,repeat,2,True,True,False,False,0
+test_5536d7f7d6217851ea62,Crime and Punishment by Fyodor Dostoevsky,deepseek,B,repeat,2,True,True,False,False,0
+test_55ac631b587db4533822,Crime and Punishment by Fyodor Dostoevsky,deepseek,B,repeat,1,True,True,False,False,0
+test_4cece36e29673045e67b,Notre-Dame de Paris by Victor Hugo,deepseek,B,repeat,2,True,True,True,True,0
+test_d2f14ba59e885a2e2591,Tess of the d'Urbervilles by Thomas Hardy,deepseek,B,repeat,2,True,True,True,True,0
+test_bfef4701352911b360ad,Tess of the d'Urbervilles by Thomas Hardy,deepseek,B,repeat,1,True,True,True,True,0
+test_161159266ac057be00c7,Les Miserables by Victor Hugo,deepseek,B,repeat,1,True,True,False,False,0
+test_09ecc480d4e484643296,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,B,repeat,2,True,True,True,True,0
+test_19dbca247512b960cf5c,Eugenie Grandet by Honore de Balzac,deepseek,B,repeat,1,True,True,True,True,0
+test_47b10a939d45d6ca0784,The Idiot by Fyodor Dostoyevsky,deepseek,B,repeat,2,True,True,False,False,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,deepseek,B,repeat,2,True,True,False,False,0
+test_83109d7825960c26c618,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,B,repeat,1,True,True,False,False,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,deepseek,B,repeat,1,True,True,True,True,0
+test_5536d7f7d6217851ea62,Crime and Punishment by Fyodor Dostoevsky,deepseek,B,repeat,1,True,True,False,False,0
+test_d901a2e1c8a9c8d98c6c,Moby Dick; or The Whale by Herman Melville,deepseek,B,repeat,2,True,True,False,False,0
+test_19dbca247512b960cf5c,Eugenie Grandet by Honore de Balzac,deepseek,B,repeat,2,True,True,True,True,0
+test_e277ef7f332455e20a90,Resurrection by Leo Tolstoy,deepseek,B,repeat,1,True,True,False,False,0
+test_6e215de22f56f0f3fecc,The Idiot by Fyodor Dostoyevsky,deepseek,B,repeat,1,True,True,False,False,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,deepseek,B,repeat,1,True,True,False,False,0
+test_7cc06a2ea5e699380f32,Notre-Dame de Paris by Victor Hugo,deepseek,B,repeat,2,True,True,False,False,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,deepseek,B,repeat,1,True,True,True,True,0
+test_7cc06a2ea5e699380f32,Notre-Dame de Paris by Victor Hugo,deepseek,B,repeat,1,True,True,False,False,0
+test_4cece36e29673045e67b,Notre-Dame de Paris by Victor Hugo,deepseek,C,repeat,1,True,True,True,True,0
+test_04838d85458fcd0a4865,Les Miserables by Victor Hugo,deepseek,C,repeat,2,True,True,False,False,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,deepseek,C,repeat,2,True,True,True,True,0
+test_6e215de22f56f0f3fecc,The Idiot by Fyodor Dostoyevsky,deepseek,C,repeat,2,True,True,False,False,0
+test_19dbca247512b960cf5c,Eugenie Grandet by Honore de Balzac,deepseek,C,repeat,1,True,True,True,True,0
+test_e7ba804d5251e5909776,The Call of the Wild by Jack London,deepseek,C,repeat,1,True,True,False,False,0
+test_83109d7825960c26c618,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,C,repeat,2,True,True,False,False,0
+test_76d7cb7f260df49b8558,Tess of the d'Urbervilles by Thomas Hardy,deepseek,C,repeat,2,True,True,False,False,0
+test_4cece36e29673045e67b,Notre-Dame de Paris by Victor Hugo,deepseek,C,repeat,2,True,True,True,True,0
+test_09ecc480d4e484643296,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,C,repeat,1,True,True,True,True,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,deepseek,C,repeat,2,True,True,False,False,0
+test_7cc06a2ea5e699380f32,Notre-Dame de Paris by Victor Hugo,deepseek,C,repeat,2,True,True,False,False,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,deepseek,C,repeat,2,True,True,False,False,0
+test_8496f238888a2d54ae60,Crime and Punishment by Fyodor Dostoevsky,deepseek,C,repeat,1,True,True,True,True,0
+test_5536d7f7d6217851ea62,Crime and Punishment by Fyodor Dostoevsky,deepseek,C,repeat,1,True,True,False,False,0
+test_e277ef7f332455e20a90,Resurrection by Leo Tolstoy,deepseek,C,repeat,1,True,True,False,False,0
+test_19dbca247512b960cf5c,Eugenie Grandet by Honore de Balzac,deepseek,C,repeat,2,True,True,True,True,0
+test_05c7d1b52572f7c86e49,Eugenie Grandet by Honore de Balzac,deepseek,C,repeat,1,True,True,True,True,0
+test_47b10a939d45d6ca0784,The Idiot by Fyodor Dostoyevsky,deepseek,C,repeat,1,True,True,False,False,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,deepseek,C,repeat,1,True,True,False,False,0
+test_d901a2e1c8a9c8d98c6c,Moby Dick; or The Whale by Herman Melville,deepseek,C,repeat,1,True,True,False,False,0
+test_bfef4701352911b360ad,Tess of the d'Urbervilles by Thomas Hardy,deepseek,C,repeat,2,True,True,False,False,0
+test_ec37690e8a667fe7ae2a,Notre-Dame de Paris by Victor Hugo,deepseek,C,repeat,1,True,True,False,False,0
+test_161159266ac057be00c7,Les Miserables by Victor Hugo,deepseek,C,repeat,1,True,True,False,False,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,deepseek,C,repeat,1,True,True,True,True,0
+test_ec37690e8a667fe7ae2a,Notre-Dame de Paris by Victor Hugo,deepseek,C,repeat,2,True,True,False,False,0
+test_e277ef7f332455e20a90,Resurrection by Leo Tolstoy,deepseek,C,repeat,2,True,True,False,False,0
+test_d901a2e1c8a9c8d98c6c,Moby Dick; or The Whale by Herman Melville,deepseek,C,repeat,2,True,True,False,False,0
+test_0f1aea9983c5f115b8a8,The Idiot by Fyodor Dostoyevsky,deepseek,C,repeat,2,True,True,False,False,0
+test_8496f238888a2d54ae60,Crime and Punishment by Fyodor Dostoevsky,deepseek,C,repeat,2,True,True,True,True,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,deepseek,C,repeat,1,True,True,False,False,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,deepseek,C,repeat,2,True,True,True,True,0
+test_9682c844d57ac7ed2f3a,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,C,repeat,2,True,True,False,False,0
+test_161159266ac057be00c7,Les Miserables by Victor Hugo,deepseek,C,repeat,2,True,True,False,False,0
+test_d2f14ba59e885a2e2591,Tess of the d'Urbervilles by Thomas Hardy,deepseek,C,repeat,2,True,True,True,True,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,deepseek,C,repeat,2,True,True,True,True,0
+test_bfef4701352911b360ad,Tess of the d'Urbervilles by Thomas Hardy,deepseek,C,repeat,1,True,False,False,True,1
+test_55ac631b587db4533822,Crime and Punishment by Fyodor Dostoevsky,deepseek,C,repeat,1,True,True,False,False,0
+test_09ecc480d4e484643296,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,C,repeat,2,True,True,True,True,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,deepseek,C,repeat,2,True,True,True,True,0
+test_e7ba804d5251e5909776,The Call of the Wild by Jack London,deepseek,C,repeat,2,True,True,False,False,0
+test_0f1aea9983c5f115b8a8,The Idiot by Fyodor Dostoyevsky,deepseek,C,repeat,1,True,True,False,False,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,deepseek,C,repeat,2,True,True,True,True,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,deepseek,C,repeat,1,True,True,True,True,0
+test_76d7cb7f260df49b8558,Tess of the d'Urbervilles by Thomas Hardy,deepseek,C,repeat,1,True,True,False,False,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,deepseek,C,repeat,1,True,True,True,True,0
+test_96377dddda7f007bbd6b,Les Miserables by Victor Hugo,deepseek,C,repeat,1,True,True,True,True,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,deepseek,C,repeat,1,True,True,True,True,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,deepseek,C,repeat,1,True,True,True,True,0
+test_55ac631b587db4533822,Crime and Punishment by Fyodor Dostoevsky,deepseek,C,repeat,2,True,True,False,False,0
+test_5536d7f7d6217851ea62,Crime and Punishment by Fyodor Dostoevsky,deepseek,C,repeat,2,True,True,False,False,0
+test_83109d7825960c26c618,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,C,repeat,1,True,True,False,False,0
+test_05c7d1b52572f7c86e49,Eugenie Grandet by Honore de Balzac,deepseek,C,repeat,2,True,True,True,True,0
+test_7cc06a2ea5e699380f32,Notre-Dame de Paris by Victor Hugo,deepseek,C,repeat,1,True,True,False,False,0
+test_47b10a939d45d6ca0784,The Idiot by Fyodor Dostoyevsky,deepseek,C,repeat,2,True,True,False,False,0
+test_04838d85458fcd0a4865,Les Miserables by Victor Hugo,deepseek,C,repeat,1,True,True,False,False,0
+test_d2f14ba59e885a2e2591,Tess of the d'Urbervilles by Thomas Hardy,deepseek,C,repeat,1,True,True,True,True,0
+test_96377dddda7f007bbd6b,Les Miserables by Victor Hugo,deepseek,C,repeat,2,True,True,True,True,0
+test_6e215de22f56f0f3fecc,The Idiot by Fyodor Dostoyevsky,deepseek,C,repeat,1,True,True,False,False,0
+test_9682c844d57ac7ed2f3a,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,C,repeat,1,True,True,False,False,0
+test_76d7cb7f260df49b8558,Tess of the d'Urbervilles by Thomas Hardy,deepseek,D,repeat,2,True,True,False,False,0
+test_9682c844d57ac7ed2f3a,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,D,repeat,2,True,True,False,False,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,deepseek,D,repeat,2,True,True,True,True,0
+test_76d7cb7f260df49b8558,Tess of the d'Urbervilles by Thomas Hardy,deepseek,D,repeat,1,True,True,False,False,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,deepseek,D,repeat,1,True,True,True,True,0
+test_04838d85458fcd0a4865,Les Miserables by Victor Hugo,deepseek,D,repeat,1,True,True,False,False,0
+test_6e215de22f56f0f3fecc,The Idiot by Fyodor Dostoyevsky,deepseek,D,repeat,1,True,True,False,False,0
+test_09ecc480d4e484643296,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,D,repeat,1,True,False,False,True,1
+test_96377dddda7f007bbd6b,Les Miserables by Victor Hugo,deepseek,D,repeat,2,True,True,True,True,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,deepseek,D,repeat,1,True,True,True,True,0
+test_8496f238888a2d54ae60,Crime and Punishment by Fyodor Dostoevsky,deepseek,D,repeat,2,True,True,True,True,0
+test_e277ef7f332455e20a90,Resurrection by Leo Tolstoy,deepseek,D,repeat,1,True,True,False,False,0
+test_e277ef7f332455e20a90,Resurrection by Leo Tolstoy,deepseek,D,repeat,2,True,True,False,False,0
+test_19dbca247512b960cf5c,Eugenie Grandet by Honore de Balzac,deepseek,D,repeat,1,True,True,True,True,0
+test_d2f14ba59e885a2e2591,Tess of the d'Urbervilles by Thomas Hardy,deepseek,D,repeat,1,True,True,True,True,0
+test_83109d7825960c26c618,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,D,repeat,1,True,True,False,False,0
+test_09ecc480d4e484643296,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,D,repeat,2,True,True,False,False,0
+test_5536d7f7d6217851ea62,Crime and Punishment by Fyodor Dostoevsky,deepseek,D,repeat,1,True,True,False,False,0
+test_bfef4701352911b360ad,Tess of the d'Urbervilles by Thomas Hardy,deepseek,D,repeat,1,True,True,True,True,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,deepseek,D,repeat,1,True,True,True,True,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,deepseek,D,repeat,1,True,True,True,True,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,deepseek,D,repeat,2,True,True,True,True,0
+test_161159266ac057be00c7,Les Miserables by Victor Hugo,deepseek,D,repeat,1,True,True,False,False,0
+test_e7ba804d5251e5909776,The Call of the Wild by Jack London,deepseek,D,repeat,2,True,True,False,False,0
+test_ec37690e8a667fe7ae2a,Notre-Dame de Paris by Victor Hugo,deepseek,D,repeat,2,True,True,False,False,0
+test_8496f238888a2d54ae60,Crime and Punishment by Fyodor Dostoevsky,deepseek,D,repeat,1,True,True,True,True,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,deepseek,D,repeat,2,True,True,True,True,0
+test_47b10a939d45d6ca0784,The Idiot by Fyodor Dostoyevsky,deepseek,D,repeat,1,True,True,False,False,0
+test_161159266ac057be00c7,Les Miserables by Victor Hugo,deepseek,D,repeat,2,True,True,False,False,0
+test_9682c844d57ac7ed2f3a,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,D,repeat,1,True,True,False,False,0
+test_83109d7825960c26c618,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,D,repeat,2,True,True,False,False,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,deepseek,D,repeat,2,True,True,True,True,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,deepseek,D,repeat,1,True,True,False,False,0
+test_19dbca247512b960cf5c,Eugenie Grandet by Honore de Balzac,deepseek,D,repeat,2,True,True,True,True,0
+test_ec37690e8a667fe7ae2a,Notre-Dame de Paris by Victor Hugo,deepseek,D,repeat,1,True,True,False,False,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,deepseek,D,repeat,1,True,True,True,True,0
+test_6e215de22f56f0f3fecc,The Idiot by Fyodor Dostoyevsky,deepseek,D,repeat,2,True,True,False,False,0
+test_bfef4701352911b360ad,Tess of the d'Urbervilles by Thomas Hardy,deepseek,D,repeat,2,True,True,True,True,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,deepseek,D,repeat,2,True,True,False,False,0
+test_d901a2e1c8a9c8d98c6c,Moby Dick; or The Whale by Herman Melville,deepseek,D,repeat,1,True,True,False,False,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,deepseek,D,repeat,2,True,True,True,True,0
+test_0f1aea9983c5f115b8a8,The Idiot by Fyodor Dostoyevsky,deepseek,D,repeat,1,True,True,False,False,0
+test_d2f14ba59e885a2e2591,Tess of the d'Urbervilles by Thomas Hardy,deepseek,D,repeat,2,True,True,True,True,0
+test_04838d85458fcd0a4865,Les Miserables by Victor Hugo,deepseek,D,repeat,2,True,True,False,False,0
+test_0f1aea9983c5f115b8a8,The Idiot by Fyodor Dostoyevsky,deepseek,D,repeat,2,True,True,False,False,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,deepseek,D,repeat,1,True,True,True,True,0
+test_4cece36e29673045e67b,Notre-Dame de Paris by Victor Hugo,deepseek,D,repeat,2,True,True,True,True,0
+test_05c7d1b52572f7c86e49,Eugenie Grandet by Honore de Balzac,deepseek,D,repeat,1,True,False,False,True,1
+test_55ac631b587db4533822,Crime and Punishment by Fyodor Dostoevsky,deepseek,D,repeat,1,True,True,False,False,0
+test_05c7d1b52572f7c86e49,Eugenie Grandet by Honore de Balzac,deepseek,D,repeat,2,True,False,False,True,1
+test_47b10a939d45d6ca0784,The Idiot by Fyodor Dostoyevsky,deepseek,D,repeat,2,True,True,False,False,0
+test_4cece36e29673045e67b,Notre-Dame de Paris by Victor Hugo,deepseek,D,repeat,1,True,True,True,True,0
+test_55ac631b587db4533822,Crime and Punishment by Fyodor Dostoevsky,deepseek,D,repeat,2,True,True,False,False,0
+test_96377dddda7f007bbd6b,Les Miserables by Victor Hugo,deepseek,D,repeat,1,True,True,True,True,0
+test_7cc06a2ea5e699380f32,Notre-Dame de Paris by Victor Hugo,deepseek,D,repeat,2,True,False,False,False,0
+test_d901a2e1c8a9c8d98c6c,Moby Dick; or The Whale by Herman Melville,deepseek,D,repeat,2,True,True,False,False,0
+test_7cc06a2ea5e699380f32,Notre-Dame de Paris by Victor Hugo,deepseek,D,repeat,1,True,False,False,False,0
+test_5536d7f7d6217851ea62,Crime and Punishment by Fyodor Dostoevsky,deepseek,D,repeat,2,True,True,False,False,0
+test_e7ba804d5251e5909776,The Call of the Wild by Jack London,deepseek,D,repeat,1,True,True,False,False,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,deepseek,D,repeat,2,True,True,True,True,0
+test_7cc06a2ea5e699380f32,Notre-Dame de Paris by Victor Hugo,deepseek,E,repeat,2,True,True,False,False,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,deepseek,E,repeat,1,True,True,True,True,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,deepseek,E,repeat,2,True,True,True,True,0
+test_6e215de22f56f0f3fecc,The Idiot by Fyodor Dostoyevsky,deepseek,E,repeat,2,True,True,False,False,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,deepseek,E,repeat,2,True,True,True,True,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,deepseek,E,repeat,1,True,True,True,True,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,deepseek,E,repeat,1,True,True,True,True,0
+test_05c7d1b52572f7c86e49,Eugenie Grandet by Honore de Balzac,deepseek,E,repeat,1,True,True,True,True,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,deepseek,E,repeat,2,True,True,False,False,0
+test_e277ef7f332455e20a90,Resurrection by Leo Tolstoy,deepseek,E,repeat,2,True,True,False,False,0
+test_47b10a939d45d6ca0784,The Idiot by Fyodor Dostoyevsky,deepseek,E,repeat,1,True,True,False,False,0
+test_ec37690e8a667fe7ae2a,Notre-Dame de Paris by Victor Hugo,deepseek,E,repeat,2,True,True,False,False,0
+test_76d7cb7f260df49b8558,Tess of the d'Urbervilles by Thomas Hardy,deepseek,E,repeat,1,True,True,False,False,0
+test_0f1aea9983c5f115b8a8,The Idiot by Fyodor Dostoyevsky,deepseek,E,repeat,1,True,True,False,False,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,deepseek,E,repeat,1,True,True,False,False,0
+test_55ac631b587db4533822,Crime and Punishment by Fyodor Dostoevsky,deepseek,E,repeat,1,True,True,False,False,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,deepseek,E,repeat,2,True,True,True,True,0
+test_d2f14ba59e885a2e2591,Tess of the d'Urbervilles by Thomas Hardy,deepseek,E,repeat,2,True,True,True,True,0
+test_76d7cb7f260df49b8558,Tess of the d'Urbervilles by Thomas Hardy,deepseek,E,repeat,2,True,True,False,False,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,deepseek,E,repeat,1,True,False,False,False,0
+test_96377dddda7f007bbd6b,Les Miserables by Victor Hugo,deepseek,E,repeat,1,True,True,True,True,0
+test_96377dddda7f007bbd6b,Les Miserables by Victor Hugo,deepseek,E,repeat,2,True,False,True,False,-1
+test_4cece36e29673045e67b,Notre-Dame de Paris by Victor Hugo,deepseek,E,repeat,2,True,True,True,True,0
+test_47b10a939d45d6ca0784,The Idiot by Fyodor Dostoyevsky,deepseek,E,repeat,2,True,True,False,False,0
+test_83109d7825960c26c618,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,E,repeat,1,True,True,False,False,0
+test_d901a2e1c8a9c8d98c6c,Moby Dick; or The Whale by Herman Melville,deepseek,E,repeat,1,True,False,False,False,0
+test_5536d7f7d6217851ea62,Crime and Punishment by Fyodor Dostoevsky,deepseek,E,repeat,1,True,True,False,False,0
+test_bfef4701352911b360ad,Tess of the d'Urbervilles by Thomas Hardy,deepseek,E,repeat,1,True,True,True,True,0
+test_7cc06a2ea5e699380f32,Notre-Dame de Paris by Victor Hugo,deepseek,E,repeat,1,True,True,False,False,0
+test_09ecc480d4e484643296,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,E,repeat,1,True,True,False,False,0
+test_e7ba804d5251e5909776,The Call of the Wild by Jack London,deepseek,E,repeat,1,True,True,False,False,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,deepseek,E,repeat,2,True,True,True,True,0
+test_161159266ac057be00c7,Les Miserables by Victor Hugo,deepseek,E,repeat,1,True,True,False,False,0
+test_8496f238888a2d54ae60,Crime and Punishment by Fyodor Dostoevsky,deepseek,E,repeat,1,True,True,True,True,0
+test_d901a2e1c8a9c8d98c6c,Moby Dick; or The Whale by Herman Melville,deepseek,E,repeat,2,True,False,False,False,0
+test_04838d85458fcd0a4865,Les Miserables by Victor Hugo,deepseek,E,repeat,1,True,False,True,False,-1
+test_161159266ac057be00c7,Les Miserables by Victor Hugo,deepseek,E,repeat,2,True,True,False,False,0
+test_09ecc480d4e484643296,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,E,repeat,2,True,False,False,True,1
+test_83109d7825960c26c618,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,E,repeat,2,True,True,False,False,0
+test_9682c844d57ac7ed2f3a,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,E,repeat,1,True,True,True,True,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,deepseek,E,repeat,1,True,True,True,True,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,deepseek,E,repeat,1,True,True,True,True,0
+test_bfef4701352911b360ad,Tess of the d'Urbervilles by Thomas Hardy,deepseek,E,repeat,2,True,True,True,True,0
+test_19dbca247512b960cf5c,Eugenie Grandet by Honore de Balzac,deepseek,E,repeat,1,True,True,True,True,0
+test_ec37690e8a667fe7ae2a,Notre-Dame de Paris by Victor Hugo,deepseek,E,repeat,1,True,True,False,False,0
+test_4cece36e29673045e67b,Notre-Dame de Paris by Victor Hugo,deepseek,E,repeat,1,True,True,True,True,0
+test_55ac631b587db4533822,Crime and Punishment by Fyodor Dostoevsky,deepseek,E,repeat,2,True,True,False,False,0
+test_e277ef7f332455e20a90,Resurrection by Leo Tolstoy,deepseek,E,repeat,1,True,True,False,False,0
+test_5536d7f7d6217851ea62,Crime and Punishment by Fyodor Dostoevsky,deepseek,E,repeat,2,True,True,False,False,0
+test_0f1aea9983c5f115b8a8,The Idiot by Fyodor Dostoyevsky,deepseek,E,repeat,2,True,True,False,False,0
+test_04838d85458fcd0a4865,Les Miserables by Victor Hugo,deepseek,E,repeat,2,True,True,True,True,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,deepseek,E,repeat,2,True,True,True,True,0
+test_8496f238888a2d54ae60,Crime and Punishment by Fyodor Dostoevsky,deepseek,E,repeat,2,True,True,True,True,0
+test_05c7d1b52572f7c86e49,Eugenie Grandet by Honore de Balzac,deepseek,E,repeat,2,True,True,True,True,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,deepseek,E,repeat,2,True,False,False,False,0
+test_9682c844d57ac7ed2f3a,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,E,repeat,2,True,True,True,True,0
+test_6e215de22f56f0f3fecc,The Idiot by Fyodor Dostoyevsky,deepseek,E,repeat,1,True,True,False,False,0
+test_d2f14ba59e885a2e2591,Tess of the d'Urbervilles by Thomas Hardy,deepseek,E,repeat,1,True,True,True,True,0
+test_19dbca247512b960cf5c,Eugenie Grandet by Honore de Balzac,deepseek,E,repeat,2,True,True,True,True,0
+test_e7ba804d5251e5909776,The Call of the Wild by Jack London,deepseek,E,repeat,2,True,True,False,False,0
+test_8496f238888a2d54ae60,Crime and Punishment by Fyodor Dostoevsky,deepseek,F,repeat,1,True,False,False,True,1
+test_05c7d1b52572f7c86e49,Eugenie Grandet by Honore de Balzac,deepseek,F,repeat,2,True,True,True,True,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,deepseek,F,repeat,2,True,True,True,True,0
+test_d901a2e1c8a9c8d98c6c,Moby Dick; or The Whale by Herman Melville,deepseek,F,repeat,2,True,True,False,False,0
+test_9682c844d57ac7ed2f3a,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,F,repeat,2,True,True,False,False,0
+test_8496f238888a2d54ae60,Crime and Punishment by Fyodor Dostoevsky,deepseek,F,repeat,2,True,True,False,False,0
+test_d2f14ba59e885a2e2591,Tess of the d'Urbervilles by Thomas Hardy,deepseek,F,repeat,2,True,True,True,True,0
+test_0f1aea9983c5f115b8a8,The Idiot by Fyodor Dostoyevsky,deepseek,F,repeat,2,True,True,False,False,0
+test_55ac631b587db4533822,Crime and Punishment by Fyodor Dostoevsky,deepseek,F,repeat,2,True,True,False,False,0
+test_ec90929b22ed3406f939,Eugenie Grandet by Honore de Balzac,deepseek,F,repeat,1,True,True,True,True,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,deepseek,F,repeat,2,True,True,True,True,0
+test_e277ef7f332455e20a90,Resurrection by Leo Tolstoy,deepseek,F,repeat,2,True,True,False,False,0
+test_e7ba804d5251e5909776,The Call of the Wild by Jack London,deepseek,F,repeat,1,True,True,False,False,0
+test_6e215de22f56f0f3fecc,The Idiot by Fyodor Dostoyevsky,deepseek,F,repeat,1,True,False,True,False,-1
+test_04838d85458fcd0a4865,Les Miserables by Victor Hugo,deepseek,F,repeat,1,False,False,False,False,0
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,deepseek,F,repeat,2,True,True,True,True,0
+test_47b10a939d45d6ca0784,The Idiot by Fyodor Dostoyevsky,deepseek,F,repeat,2,True,True,False,False,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,deepseek,F,repeat,2,True,True,False,False,0
+test_7cc06a2ea5e699380f32,Notre-Dame de Paris by Victor Hugo,deepseek,F,repeat,1,True,True,False,False,0
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,deepseek,F,repeat,1,True,True,True,True,0
+test_76d7cb7f260df49b8558,Tess of the d'Urbervilles by Thomas Hardy,deepseek,F,repeat,2,True,True,False,False,0
+test_5536d7f7d6217851ea62,Crime and Punishment by Fyodor Dostoevsky,deepseek,F,repeat,2,True,True,False,False,0
+test_0f1aea9983c5f115b8a8,The Idiot by Fyodor Dostoyevsky,deepseek,F,repeat,1,True,True,False,False,0
+test_19dbca247512b960cf5c,Eugenie Grandet by Honore de Balzac,deepseek,F,repeat,2,False,False,False,False,0
+test_83109d7825960c26c618,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,F,repeat,1,True,True,False,False,0
+test_d2f14ba59e885a2e2591,Tess of the d'Urbervilles by Thomas Hardy,deepseek,F,repeat,1,True,True,True,True,0
+test_7cc06a2ea5e699380f32,Notre-Dame de Paris by Victor Hugo,deepseek,F,repeat,2,True,True,False,False,0
+test_04838d85458fcd0a4865,Les Miserables by Victor Hugo,deepseek,F,repeat,2,True,True,False,False,0
+test_76d7cb7f260df49b8558,Tess of the d'Urbervilles by Thomas Hardy,deepseek,F,repeat,1,True,True,False,False,0
+test_47b10a939d45d6ca0784,The Idiot by Fyodor Dostoyevsky,deepseek,F,repeat,1,True,True,False,False,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,deepseek,F,repeat,1,True,True,True,True,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,deepseek,F,repeat,1,True,True,False,False,0
+test_5536d7f7d6217851ea62,Crime and Punishment by Fyodor Dostoevsky,deepseek,F,repeat,1,True,True,False,False,0
+test_bfef4701352911b360ad,Tess of the d'Urbervilles by Thomas Hardy,deepseek,F,repeat,2,True,True,True,True,0
+test_55ac631b587db4533822,Crime and Punishment by Fyodor Dostoevsky,deepseek,F,repeat,1,True,True,False,False,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,deepseek,F,repeat,2,True,True,False,False,0
+test_05c7d1b52572f7c86e49,Eugenie Grandet by Honore de Balzac,deepseek,F,repeat,1,True,True,True,True,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,deepseek,F,repeat,2,True,True,True,True,0
+test_e7ba804d5251e5909776,The Call of the Wild by Jack London,deepseek,F,repeat,2,True,True,False,False,0
+test_161159266ac057be00c7,Les Miserables by Victor Hugo,deepseek,F,repeat,1,True,True,False,False,0
+test_6e215de22f56f0f3fecc,The Idiot by Fyodor Dostoyevsky,deepseek,F,repeat,2,True,False,True,False,-1
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,deepseek,F,repeat,1,True,True,True,True,0
+test_686510f9b142073b2d08,The Call of the Wild by Jack London,deepseek,F,repeat,2,True,True,True,True,0
+test_ec37690e8a667fe7ae2a,Notre-Dame de Paris by Victor Hugo,deepseek,F,repeat,1,True,True,False,False,0
+test_4cece36e29673045e67b,Notre-Dame de Paris by Victor Hugo,deepseek,F,repeat,2,True,True,True,True,0
+test_9682c844d57ac7ed2f3a,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,F,repeat,1,True,True,False,False,0
+test_09ecc480d4e484643296,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,F,repeat,2,True,True,False,False,0
+test_96377dddda7f007bbd6b,Les Miserables by Victor Hugo,deepseek,F,repeat,1,True,True,True,True,0
+test_ec37690e8a667fe7ae2a,Notre-Dame de Paris by Victor Hugo,deepseek,F,repeat,2,True,True,False,False,0
+test_83109d7825960c26c618,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,F,repeat,2,True,True,False,False,0
+test_d901a2e1c8a9c8d98c6c,Moby Dick; or The Whale by Herman Melville,deepseek,F,repeat,1,True,True,False,False,0
+test_96377dddda7f007bbd6b,Les Miserables by Victor Hugo,deepseek,F,repeat,2,True,True,True,True,0
+test_19dbca247512b960cf5c,Eugenie Grandet by Honore de Balzac,deepseek,F,repeat,1,False,False,False,False,0
+test_4cece36e29673045e67b,Notre-Dame de Paris by Victor Hugo,deepseek,F,repeat,1,True,True,True,True,0
+test_634ea0c833b286044fe7,Resurrection by Leo Tolstoy,deepseek,F,repeat,1,True,True,True,True,0
+test_bfef4701352911b360ad,Tess of the d'Urbervilles by Thomas Hardy,deepseek,F,repeat,1,True,True,True,True,0
+test_161159266ac057be00c7,Les Miserables by Victor Hugo,deepseek,F,repeat,2,True,True,False,False,0
+test_09ecc480d4e484643296,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,F,repeat,1,True,True,False,False,0
+test_e277ef7f332455e20a90,Resurrection by Leo Tolstoy,deepseek,F,repeat,1,True,True,False,False,0
+test_2fddb35e4e07645adb34,Moby Dick; or The Whale by Herman Melville,deepseek,F,repeat,1,True,True,False,False,0
+test_afb38a1ab190918c9f3e,Notre-Dame de Paris by Victor Hugo,glm,E,irrelevant_history,0,True,True,False,False,0
+test_debd6608295f048ee8ce,Tess of the d'Urbervilles by Thomas Hardy,glm,E,irrelevant_history,0,True,True,False,False,0
+test_96b83211a483ab2c66d6,Tess of the d'Urbervilles by Thomas Hardy,glm,E,irrelevant_history,0,True,False,False,False,0
+test_cc42097e08817e39c010,Crime and Punishment by Fyodor Dostoevsky,glm,E,irrelevant_history,0,True,True,False,False,0
+test_009af0a0aeecfdf0f095,The Idiot by Fyodor Dostoyevsky,glm,E,irrelevant_history,0,True,True,True,True,0
+test_5a53fbad6a08f2c2e6b5,The Idiot by Fyodor Dostoyevsky,glm,E,irrelevant_history,0,True,True,False,False,0
+test_242ae6bf162178831da9,Resurrection by Leo Tolstoy,glm,E,irrelevant_history,0,True,False,True,False,-1
+test_ec37690e8a667fe7ae2a,Notre-Dame de Paris by Victor Hugo,glm,E,irrelevant_history,0,True,True,False,False,0
+test_66a503d13a8aa53c0951,Eugenie Grandet by Honore de Balzac,glm,E,irrelevant_history,0,True,True,True,True,0
+test_249f823c149172bbfec8,The Brothers Karamazov by Fyodor Dostoyevsky,glm,E,irrelevant_history,0,True,True,False,False,0
+test_2c490fb29e04ad4a5037,The Call of the Wild by Jack London,glm,E,irrelevant_history,0,True,False,False,False,0
+test_12d0057089fc8e6d7094,Eugenie Grandet by Honore de Balzac,glm,E,irrelevant_history,0,True,True,True,True,0
+test_842c317ce3c31d05a17f,Notre-Dame de Paris by Victor Hugo,glm,E,irrelevant_history,0,True,False,False,False,0
+test_e80fbcbf24b8d243088e,The Idiot by Fyodor Dostoyevsky,glm,E,irrelevant_history,0,True,False,False,True,1
+test_72dfb2e3c09a0120fea7,Moby Dick; or The Whale by Herman Melville,glm,E,irrelevant_history,0,True,True,False,False,0
+test_4779a7a11279a4a6fe9a,Tess of the d'Urbervilles by Thomas Hardy,glm,E,irrelevant_history,0,True,True,True,True,0
+test_2003427f2b7a982cc32f,Moby Dick; or The Whale by Herman Melville,glm,E,irrelevant_history,0,True,True,True,True,0
+test_cebbc4d497f4294e3cb1,Les Miserables by Victor Hugo,glm,E,irrelevant_history,0,True,False,False,True,1
+test_1501c7d4caa310db8605,Eugenie Grandet by Honore de Balzac,glm,E,irrelevant_history,0,True,False,False,False,0
+test_9763eb6072ed69681c6c,Les Miserables by Victor Hugo,glm,E,irrelevant_history,0,True,False,False,True,1
+test_5536d7f7d6217851ea62,Crime and Punishment by Fyodor Dostoevsky,glm,E,irrelevant_history,0,True,True,False,False,0
+test_87e0568b177d7e477e23,The Call of the Wild by Jack London,glm,E,irrelevant_history,0,True,True,True,True,0
+test_224286b866dd2c6320e7,Tess of the d'Urbervilles by Thomas Hardy,glm,E,irrelevant_history,0,True,False,False,True,1
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,glm,E,irrelevant_history,0,True,True,False,False,0
+test_81465df14e98a3ded281,The Call of the Wild by Jack London,glm,E,irrelevant_history,0,True,False,False,True,1
+test_96377dddda7f007bbd6b,Les Miserables by Victor Hugo,glm,E,irrelevant_history,0,True,True,True,True,0
+test_f476f5aa1f4556dd2515,The Brothers Karamazov by Fyodor Dostoyevsky,glm,E,irrelevant_history,0,True,True,False,False,0
+test_c4292f1b7067cffcaf0f,Tess of the d'Urbervilles by Thomas Hardy,glm,E,irrelevant_history,0,True,True,False,False,0
+test_bf60e66c28568aed3c11,Les Miserables by Victor Hugo,glm,E,irrelevant_history,0,True,True,False,False,0
+test_d1459519703119150ac1,Les Miserables by Victor Hugo,glm,E,irrelevant_history,0,True,True,False,False,0
+test_21df035f9dce77458d92,The Idiot by Fyodor Dostoyevsky,glm,E,irrelevant_history,0,True,True,False,False,0
+test_58fdc1208597cd73308e,Moby Dick; or The Whale by Herman Melville,glm,E,irrelevant_history,0,True,True,True,True,0
+test_ceee7c0aaac79bf5b53c,Les Miserables by Victor Hugo,glm,E,irrelevant_history,0,True,True,True,True,0
+test_35f86daeb5c2089b3b3b,Crime and Punishment by Fyodor Dostoevsky,glm,E,irrelevant_history,0,True,True,True,True,0
+test_8a1fc213cde37789a646,Resurrection by Leo Tolstoy,glm,E,irrelevant_history,0,True,False,False,False,0
+test_4a801c9ee84a8f61b0c9,Crime and Punishment by Fyodor Dostoevsky,glm,E,irrelevant_history,0,True,True,True,True,0
+test_78e2c0e8a11107e7df28,Resurrection by Leo Tolstoy,glm,E,irrelevant_history,0,True,True,False,False,0
+test_79e1882aee26894078a9,Crime and Punishment by Fyodor Dostoevsky,glm,E,irrelevant_history,0,True,False,False,True,1
+test_90ed6c0a51465d5226c5,Eugenie Grandet by Honore de Balzac,glm,E,irrelevant_history,0,True,True,True,True,0
+test_556db6c88532be930458,The Idiot by Fyodor Dostoyevsky,glm,E,irrelevant_history,0,True,True,True,True,0
+test_83109d7825960c26c618,The Brothers Karamazov by Fyodor Dostoyevsky,glm,E,irrelevant_history,0,True,True,False,False,0
+test_dbf2caa7cb324954751e,Moby Dick; or The Whale by Herman Melville,glm,E,irrelevant_history,0,True,True,True,True,0
+test_41131c86d34c6d412423,Notre-Dame de Paris by Victor Hugo,glm,E,irrelevant_history,0,True,False,True,False,-1
+test_4d49db229074cc5f308a,Resurrection by Leo Tolstoy,glm,E,irrelevant_history,0,True,True,False,False,0
+test_20fac202bc83793cf06e,The Idiot by Fyodor Dostoyevsky,glm,E,irrelevant_history,0,True,True,True,True,0
+test_f401be6148d39e0554a2,The Call of the Wild by Jack London,glm,E,irrelevant_history,0,True,True,False,False,0
+test_32a69c95140cf39c9441,Notre-Dame de Paris by Victor Hugo,glm,E,irrelevant_history,0,True,True,False,False,0
+test_032514cc0034b24c3743,The Brothers Karamazov by Fyodor Dostoyevsky,glm,E,irrelevant_history,0,True,True,False,False,0
+test_dcf0b6c51a40702bfe08,Eugenie Grandet by Honore de Balzac,glm,E,irrelevant_history,0,True,True,True,True,0
+test_e7030d0e1f1e79a2be07,Resurrection by Leo Tolstoy,glm,E,irrelevant_history,0,True,True,False,False,0
+test_aae3b139ea5d579286a7,Tess of the d'Urbervilles by Thomas Hardy,glm,E,irrelevant_history,0,True,True,False,False,0
+test_aa4d85f103ee9c4e949e,The Brothers Karamazov by Fyodor Dostoyevsky,glm,E,irrelevant_history,0,True,False,False,True,1
+test_35664a8427caf1283f30,The Call of the Wild by Jack London,glm,E,irrelevant_history,0,True,True,False,False,0
+test_4093285cc88ff41d3cc7,Eugenie Grandet by Honore de Balzac,glm,E,irrelevant_history,0,True,True,False,False,0
+test_148794d2205bc4cc8ce2,Notre-Dame de Paris by Victor Hugo,glm,E,irrelevant_history,0,True,False,False,True,1
+test_c6b9d9fad14b6949df9d,Resurrection by Leo Tolstoy,glm,E,irrelevant_history,0,True,True,True,True,0
+test_eb358bbc2305490e812e,Moby Dick; or The Whale by Herman Melville,glm,E,irrelevant_history,0,True,True,True,True,0
+test_999ff1d83f7fcd21df0f,The Brothers Karamazov by Fyodor Dostoyevsky,glm,E,irrelevant_history,0,True,True,True,True,0
+test_865a26948a05e82bdf5d,Crime and Punishment by Fyodor Dostoevsky,glm,E,irrelevant_history,0,True,False,False,False,0
+test_44378575349cd77a0833,The Call of the Wild by Jack London,glm,E,irrelevant_history,0,True,True,True,True,0
+test_556db6c88532be930458,The Idiot by Fyodor Dostoyevsky,glm,F,irrelevant_history,0,True,True,True,True,0
+test_cebbc4d497f4294e3cb1,Les Miserables by Victor Hugo,glm,F,irrelevant_history,0,True,False,True,False,-1
+test_58fdc1208597cd73308e,Moby Dick; or The Whale by Herman Melville,glm,F,irrelevant_history,0,True,True,True,True,0
+test_e80fbcbf24b8d243088e,The Idiot by Fyodor Dostoyevsky,glm,F,irrelevant_history,0,True,True,False,False,0
+test_4a801c9ee84a8f61b0c9,Crime and Punishment by Fyodor Dostoevsky,glm,F,irrelevant_history,0,True,True,True,True,0
+test_4779a7a11279a4a6fe9a,Tess of the d'Urbervilles by Thomas Hardy,glm,F,irrelevant_history,0,True,True,True,True,0
+test_224286b866dd2c6320e7,Tess of the d'Urbervilles by Thomas Hardy,glm,F,irrelevant_history,0,True,True,True,True,0
+test_dcf0b6c51a40702bfe08,Eugenie Grandet by Honore de Balzac,glm,F,irrelevant_history,0,True,True,True,True,0
+test_842c317ce3c31d05a17f,Notre-Dame de Paris by Victor Hugo,glm,F,irrelevant_history,0,True,True,False,False,0
+test_35664a8427caf1283f30,The Call of the Wild by Jack London,glm,F,irrelevant_history,0,True,True,False,False,0
+test_d1459519703119150ac1,Les Miserables by Victor Hugo,glm,F,irrelevant_history,0,True,True,False,False,0
+test_c4292f1b7067cffcaf0f,Tess of the d'Urbervilles by Thomas Hardy,glm,F,irrelevant_history,0,True,True,False,False,0
+test_81465df14e98a3ded281,The Call of the Wild by Jack London,glm,F,irrelevant_history,0,True,True,False,False,0
+test_21df035f9dce77458d92,The Idiot by Fyodor Dostoyevsky,glm,F,irrelevant_history,0,True,True,False,False,0
+test_ceee7c0aaac79bf5b53c,Les Miserables by Victor Hugo,glm,F,irrelevant_history,0,True,True,True,True,0
+test_96b83211a483ab2c66d6,Tess of the d'Urbervilles by Thomas Hardy,glm,F,irrelevant_history,0,True,True,False,False,0
+test_4093285cc88ff41d3cc7,Eugenie Grandet by Honore de Balzac,glm,F,irrelevant_history,0,True,True,False,False,0
+test_96377dddda7f007bbd6b,Les Miserables by Victor Hugo,glm,F,irrelevant_history,0,True,True,True,True,0
+test_72dfb2e3c09a0120fea7,Moby Dick; or The Whale by Herman Melville,glm,F,irrelevant_history,0,True,True,False,False,0
+test_999ff1d83f7fcd21df0f,The Brothers Karamazov by Fyodor Dostoyevsky,glm,F,irrelevant_history,0,True,False,False,False,0
+test_242ae6bf162178831da9,Resurrection by Leo Tolstoy,glm,F,irrelevant_history,0,True,False,True,False,-1
+test_eb358bbc2305490e812e,Moby Dick; or The Whale by Herman Melville,glm,F,irrelevant_history,0,True,True,True,True,0
+test_90ed6c0a51465d5226c5,Eugenie Grandet by Honore de Balzac,glm,F,irrelevant_history,0,True,True,True,True,0
+test_1501c7d4caa310db8605,Eugenie Grandet by Honore de Balzac,glm,F,irrelevant_history,0,True,False,False,False,0
+test_44378575349cd77a0833,The Call of the Wild by Jack London,glm,F,irrelevant_history,0,True,True,True,True,0
+test_249f823c149172bbfec8,The Brothers Karamazov by Fyodor Dostoyevsky,glm,F,irrelevant_history,0,True,True,False,False,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,glm,F,irrelevant_history,0,True,True,False,False,0
+test_4d49db229074cc5f308a,Resurrection by Leo Tolstoy,glm,F,irrelevant_history,0,True,False,False,False,0
+test_ec37690e8a667fe7ae2a,Notre-Dame de Paris by Victor Hugo,glm,F,irrelevant_history,0,True,True,False,False,0
+test_2c490fb29e04ad4a5037,The Call of the Wild by Jack London,glm,F,irrelevant_history,0,True,False,False,False,0
+test_12d0057089fc8e6d7094,Eugenie Grandet by Honore de Balzac,glm,F,irrelevant_history,0,True,False,False,True,1
+test_e7030d0e1f1e79a2be07,Resurrection by Leo Tolstoy,glm,F,irrelevant_history,0,True,True,True,True,0
+test_afb38a1ab190918c9f3e,Notre-Dame de Paris by Victor Hugo,glm,F,irrelevant_history,0,True,False,False,False,0
+test_865a26948a05e82bdf5d,Crime and Punishment by Fyodor Dostoevsky,glm,F,irrelevant_history,0,True,True,False,False,0
+test_f476f5aa1f4556dd2515,The Brothers Karamazov by Fyodor Dostoyevsky,glm,F,irrelevant_history,0,True,True,False,False,0
+test_32a69c95140cf39c9441,Notre-Dame de Paris by Victor Hugo,glm,F,irrelevant_history,0,True,True,False,False,0
+test_2003427f2b7a982cc32f,Moby Dick; or The Whale by Herman Melville,glm,F,irrelevant_history,0,True,True,True,True,0
+test_83109d7825960c26c618,The Brothers Karamazov by Fyodor Dostoyevsky,glm,F,irrelevant_history,0,True,True,False,False,0
+test_79e1882aee26894078a9,Crime and Punishment by Fyodor Dostoevsky,glm,F,irrelevant_history,0,True,True,True,True,0
+test_c6b9d9fad14b6949df9d,Resurrection by Leo Tolstoy,glm,F,irrelevant_history,0,True,True,True,True,0
+test_debd6608295f048ee8ce,Tess of the d'Urbervilles by Thomas Hardy,glm,F,irrelevant_history,0,True,False,False,False,0
+test_cc42097e08817e39c010,Crime and Punishment by Fyodor Dostoevsky,glm,F,irrelevant_history,0,True,False,True,False,-1
+test_032514cc0034b24c3743,The Brothers Karamazov by Fyodor Dostoyevsky,glm,F,irrelevant_history,0,True,True,False,False,0
+test_20fac202bc83793cf06e,The Idiot by Fyodor Dostoyevsky,glm,F,irrelevant_history,0,True,True,True,True,0
+test_dbf2caa7cb324954751e,Moby Dick; or The Whale by Herman Melville,glm,F,irrelevant_history,0,True,True,True,True,0
+test_5a53fbad6a08f2c2e6b5,The Idiot by Fyodor Dostoyevsky,glm,F,irrelevant_history,0,True,True,False,False,0
+test_87e0568b177d7e477e23,The Call of the Wild by Jack London,glm,F,irrelevant_history,0,True,True,True,True,0
+test_148794d2205bc4cc8ce2,Notre-Dame de Paris by Victor Hugo,glm,F,irrelevant_history,0,True,True,True,True,0
+test_66a503d13a8aa53c0951,Eugenie Grandet by Honore de Balzac,glm,F,irrelevant_history,0,True,True,True,True,0
+test_9763eb6072ed69681c6c,Les Miserables by Victor Hugo,glm,F,irrelevant_history,0,True,True,True,True,0
+test_bf60e66c28568aed3c11,Les Miserables by Victor Hugo,glm,F,irrelevant_history,0,True,False,True,False,-1
+test_8a1fc213cde37789a646,Resurrection by Leo Tolstoy,glm,F,irrelevant_history,0,True,True,False,False,0
+test_009af0a0aeecfdf0f095,The Idiot by Fyodor Dostoyevsky,glm,F,irrelevant_history,0,True,True,False,False,0
+test_f401be6148d39e0554a2,The Call of the Wild by Jack London,glm,F,irrelevant_history,0,True,True,False,False,0
+test_35f86daeb5c2089b3b3b,Crime and Punishment by Fyodor Dostoevsky,glm,F,irrelevant_history,0,True,True,True,True,0
+test_aa4d85f103ee9c4e949e,The Brothers Karamazov by Fyodor Dostoyevsky,glm,F,irrelevant_history,0,True,True,True,True,0
+test_78e2c0e8a11107e7df28,Resurrection by Leo Tolstoy,glm,F,irrelevant_history,0,True,False,False,True,1
+test_41131c86d34c6d412423,Notre-Dame de Paris by Victor Hugo,glm,F,irrelevant_history,0,True,True,False,False,0
+test_5536d7f7d6217851ea62,Crime and Punishment by Fyodor Dostoevsky,glm,F,irrelevant_history,0,True,True,False,False,0
+test_aae3b139ea5d579286a7,Tess of the d'Urbervilles by Thomas Hardy,glm,F,irrelevant_history,0,True,True,False,False,0
+test_4d49db229074cc5f308a,Resurrection by Leo Tolstoy,deepseek,E,irrelevant_history,0,True,True,False,False,0
+test_e80fbcbf24b8d243088e,The Idiot by Fyodor Dostoyevsky,deepseek,E,irrelevant_history,0,True,True,False,False,0
+test_78e2c0e8a11107e7df28,Resurrection by Leo Tolstoy,deepseek,E,irrelevant_history,0,True,True,False,False,0
+test_ceee7c0aaac79bf5b53c,Les Miserables by Victor Hugo,deepseek,E,irrelevant_history,0,True,True,False,False,0
+test_2003427f2b7a982cc32f,Moby Dick; or The Whale by Herman Melville,deepseek,E,irrelevant_history,0,True,True,True,True,0
+test_5536d7f7d6217851ea62,Crime and Punishment by Fyodor Dostoevsky,deepseek,E,irrelevant_history,0,True,True,False,False,0
+test_242ae6bf162178831da9,Resurrection by Leo Tolstoy,deepseek,E,irrelevant_history,0,True,False,True,False,-1
+test_cebbc4d497f4294e3cb1,Les Miserables by Victor Hugo,deepseek,E,irrelevant_history,0,True,True,False,False,0
+test_afb38a1ab190918c9f3e,Notre-Dame de Paris by Victor Hugo,deepseek,E,irrelevant_history,0,True,True,False,False,0
+test_35664a8427caf1283f30,The Call of the Wild by Jack London,deepseek,E,irrelevant_history,0,True,True,False,False,0
+test_aa4d85f103ee9c4e949e,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,E,irrelevant_history,0,True,True,False,False,0
+test_c4292f1b7067cffcaf0f,Tess of the d'Urbervilles by Thomas Hardy,deepseek,E,irrelevant_history,0,True,True,False,False,0
+test_72dfb2e3c09a0120fea7,Moby Dick; or The Whale by Herman Melville,deepseek,E,irrelevant_history,0,True,True,False,False,0
+test_20fac202bc83793cf06e,The Idiot by Fyodor Dostoyevsky,deepseek,E,irrelevant_history,0,True,False,True,False,-1
+test_4779a7a11279a4a6fe9a,Tess of the d'Urbervilles by Thomas Hardy,deepseek,E,irrelevant_history,0,True,True,True,True,0
+test_96b83211a483ab2c66d6,Tess of the d'Urbervilles by Thomas Hardy,deepseek,E,irrelevant_history,0,True,False,True,False,-1
+test_32a69c95140cf39c9441,Notre-Dame de Paris by Victor Hugo,deepseek,E,irrelevant_history,0,True,True,False,False,0
+test_eb358bbc2305490e812e,Moby Dick; or The Whale by Herman Melville,deepseek,E,irrelevant_history,0,True,True,True,True,0
+test_1501c7d4caa310db8605,Eugenie Grandet by Honore de Balzac,deepseek,E,irrelevant_history,0,True,False,False,False,0
+test_12d0057089fc8e6d7094,Eugenie Grandet by Honore de Balzac,deepseek,E,irrelevant_history,0,True,False,False,True,1
+test_999ff1d83f7fcd21df0f,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,E,irrelevant_history,0,True,False,False,False,0
+test_f476f5aa1f4556dd2515,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,E,irrelevant_history,0,True,True,False,False,0
+test_dbf2caa7cb324954751e,Moby Dick; or The Whale by Herman Melville,deepseek,E,irrelevant_history,0,True,True,True,True,0
+test_c6b9d9fad14b6949df9d,Resurrection by Leo Tolstoy,deepseek,E,irrelevant_history,0,True,False,True,False,-1
+test_148794d2205bc4cc8ce2,Notre-Dame de Paris by Victor Hugo,deepseek,E,irrelevant_history,0,True,True,False,False,0
+test_41131c86d34c6d412423,Notre-Dame de Paris by Victor Hugo,deepseek,E,irrelevant_history,0,True,False,True,False,-1
+test_debd6608295f048ee8ce,Tess of the d'Urbervilles by Thomas Hardy,deepseek,E,irrelevant_history,0,True,True,False,False,0
+test_5a53fbad6a08f2c2e6b5,The Idiot by Fyodor Dostoyevsky,deepseek,E,irrelevant_history,0,True,True,False,False,0
+test_58fdc1208597cd73308e,Moby Dick; or The Whale by Herman Melville,deepseek,E,irrelevant_history,0,True,False,False,True,1
+test_79e1882aee26894078a9,Crime and Punishment by Fyodor Dostoevsky,deepseek,E,irrelevant_history,0,True,True,True,True,0
+test_224286b866dd2c6320e7,Tess of the d'Urbervilles by Thomas Hardy,deepseek,E,irrelevant_history,0,True,True,True,True,0
+test_249f823c149172bbfec8,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,E,irrelevant_history,0,True,True,True,True,0
+test_4093285cc88ff41d3cc7,Eugenie Grandet by Honore de Balzac,deepseek,E,irrelevant_history,0,True,True,False,False,0
+test_d1459519703119150ac1,Les Miserables by Victor Hugo,deepseek,E,irrelevant_history,0,True,True,False,False,0
+test_f401be6148d39e0554a2,The Call of the Wild by Jack London,deepseek,E,irrelevant_history,0,True,True,False,False,0
+test_ec37690e8a667fe7ae2a,Notre-Dame de Paris by Victor Hugo,deepseek,E,irrelevant_history,0,True,True,False,False,0
+test_44378575349cd77a0833,The Call of the Wild by Jack London,deepseek,E,irrelevant_history,0,True,True,True,True,0
+test_83109d7825960c26c618,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,E,irrelevant_history,0,True,True,False,False,0
+test_556db6c88532be930458,The Idiot by Fyodor Dostoyevsky,deepseek,E,irrelevant_history,0,True,True,True,True,0
+test_90ed6c0a51465d5226c5,Eugenie Grandet by Honore de Balzac,deepseek,E,irrelevant_history,0,True,True,True,True,0
+test_dcf0b6c51a40702bfe08,Eugenie Grandet by Honore de Balzac,deepseek,E,irrelevant_history,0,True,True,True,True,0
+test_e7030d0e1f1e79a2be07,Resurrection by Leo Tolstoy,deepseek,E,irrelevant_history,0,True,True,True,True,0
+test_21df035f9dce77458d92,The Idiot by Fyodor Dostoyevsky,deepseek,E,irrelevant_history,0,True,True,False,False,0
+test_cc42097e08817e39c010,Crime and Punishment by Fyodor Dostoevsky,deepseek,E,irrelevant_history,0,True,False,False,False,0
+test_842c317ce3c31d05a17f,Notre-Dame de Paris by Victor Hugo,deepseek,E,irrelevant_history,0,True,True,False,False,0
+test_bf60e66c28568aed3c11,Les Miserables by Victor Hugo,deepseek,E,irrelevant_history,0,True,False,False,True,1
+test_032514cc0034b24c3743,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,E,irrelevant_history,0,True,True,False,False,0
+test_009af0a0aeecfdf0f095,The Idiot by Fyodor Dostoyevsky,deepseek,E,irrelevant_history,0,True,True,True,True,0
+test_87e0568b177d7e477e23,The Call of the Wild by Jack London,deepseek,E,irrelevant_history,0,True,True,True,True,0
+test_9763eb6072ed69681c6c,Les Miserables by Victor Hugo,deepseek,E,irrelevant_history,0,True,True,True,True,0
+test_aae3b139ea5d579286a7,Tess of the d'Urbervilles by Thomas Hardy,deepseek,E,irrelevant_history,0,True,True,False,False,0
+test_4a801c9ee84a8f61b0c9,Crime and Punishment by Fyodor Dostoevsky,deepseek,E,irrelevant_history,0,True,True,True,True,0
+test_66a503d13a8aa53c0951,Eugenie Grandet by Honore de Balzac,deepseek,E,irrelevant_history,0,True,True,True,True,0
+test_8a1fc213cde37789a646,Resurrection by Leo Tolstoy,deepseek,E,irrelevant_history,0,True,True,False,False,0
+test_2c490fb29e04ad4a5037,The Call of the Wild by Jack London,deepseek,E,irrelevant_history,0,True,False,False,False,0
+test_865a26948a05e82bdf5d,Crime and Punishment by Fyodor Dostoevsky,deepseek,E,irrelevant_history,0,True,False,False,False,0
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,deepseek,E,irrelevant_history,0,True,True,False,False,0
+test_81465df14e98a3ded281,The Call of the Wild by Jack London,deepseek,E,irrelevant_history,0,True,True,True,True,0
+test_96377dddda7f007bbd6b,Les Miserables by Victor Hugo,deepseek,E,irrelevant_history,0,True,True,True,True,0
+test_35f86daeb5c2089b3b3b,Crime and Punishment by Fyodor Dostoevsky,deepseek,E,irrelevant_history,0,True,True,True,True,0
+test_72dfb2e3c09a0120fea7,Moby Dick; or The Whale by Herman Melville,deepseek,F,irrelevant_history,0,True,True,False,False,0
+test_83109d7825960c26c618,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,F,irrelevant_history,0,True,True,False,False,0
+test_41131c86d34c6d412423,Notre-Dame de Paris by Victor Hugo,deepseek,F,irrelevant_history,0,True,True,False,False,0
+test_58fdc1208597cd73308e,Moby Dick; or The Whale by Herman Melville,deepseek,F,irrelevant_history,0,True,True,True,True,0
+test_c6b9d9fad14b6949df9d,Resurrection by Leo Tolstoy,deepseek,F,irrelevant_history,0,True,True,False,False,0
+test_35f86daeb5c2089b3b3b,Crime and Punishment by Fyodor Dostoevsky,deepseek,F,irrelevant_history,0,True,True,True,True,0
+test_debd6608295f048ee8ce,Tess of the d'Urbervilles by Thomas Hardy,deepseek,F,irrelevant_history,0,True,True,False,False,0
+test_79e1882aee26894078a9,Crime and Punishment by Fyodor Dostoevsky,deepseek,F,irrelevant_history,0,True,True,True,True,0
+test_d1459519703119150ac1,Les Miserables by Victor Hugo,deepseek,F,irrelevant_history,0,True,True,False,False,0
+test_dcf0b6c51a40702bfe08,Eugenie Grandet by Honore de Balzac,deepseek,F,irrelevant_history,0,True,False,False,True,1
+test_8a1fc213cde37789a646,Resurrection by Leo Tolstoy,deepseek,F,irrelevant_history,0,True,True,False,False,0
+test_999ff1d83f7fcd21df0f,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,F,irrelevant_history,0,True,False,True,False,-1
+test_21df035f9dce77458d92,The Idiot by Fyodor Dostoyevsky,deepseek,F,irrelevant_history,0,True,True,False,False,0
+test_aa4d85f103ee9c4e949e,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,F,irrelevant_history,0,True,True,False,False,0
+test_90ed6c0a51465d5226c5,Eugenie Grandet by Honore de Balzac,deepseek,F,irrelevant_history,0,True,True,True,True,0
+test_ceee7c0aaac79bf5b53c,Les Miserables by Victor Hugo,deepseek,F,irrelevant_history,0,True,True,True,True,0
+test_865a26948a05e82bdf5d,Crime and Punishment by Fyodor Dostoevsky,deepseek,F,irrelevant_history,0,True,False,False,False,0
+test_cebbc4d497f4294e3cb1,Les Miserables by Victor Hugo,deepseek,F,irrelevant_history,0,True,True,False,False,0
+test_1501c7d4caa310db8605,Eugenie Grandet by Honore de Balzac,deepseek,F,irrelevant_history,0,True,False,False,False,0
+test_e7030d0e1f1e79a2be07,Resurrection by Leo Tolstoy,deepseek,F,irrelevant_history,0,True,True,True,True,0
+test_224286b866dd2c6320e7,Tess of the d'Urbervilles by Thomas Hardy,deepseek,F,irrelevant_history,0,True,True,True,True,0
+test_66a503d13a8aa53c0951,Eugenie Grandet by Honore de Balzac,deepseek,F,irrelevant_history,0,False,False,False,True,1
+test_12d0057089fc8e6d7094,Eugenie Grandet by Honore de Balzac,deepseek,F,irrelevant_history,0,True,False,True,False,-1
+test_96377dddda7f007bbd6b,Les Miserables by Victor Hugo,deepseek,F,irrelevant_history,0,True,True,True,True,0
+test_aae3b139ea5d579286a7,Tess of the d'Urbervilles by Thomas Hardy,deepseek,F,irrelevant_history,0,True,True,False,False,0
+test_4779a7a11279a4a6fe9a,Tess of the d'Urbervilles by Thomas Hardy,deepseek,F,irrelevant_history,0,True,True,True,True,0
+test_148794d2205bc4cc8ce2,Notre-Dame de Paris by Victor Hugo,deepseek,F,irrelevant_history,0,False,False,False,False,0
+test_96b83211a483ab2c66d6,Tess of the d'Urbervilles by Thomas Hardy,deepseek,F,irrelevant_history,0,True,True,False,False,0
+test_c4292f1b7067cffcaf0f,Tess of the d'Urbervilles by Thomas Hardy,deepseek,F,irrelevant_history,0,True,True,False,False,0
+test_20fac202bc83793cf06e,The Idiot by Fyodor Dostoyevsky,deepseek,F,irrelevant_history,0,True,False,True,False,-1
+test_5a53fbad6a08f2c2e6b5,The Idiot by Fyodor Dostoyevsky,deepseek,F,irrelevant_history,0,True,True,False,False,0
+test_44378575349cd77a0833,The Call of the Wild by Jack London,deepseek,F,irrelevant_history,0,False,False,True,False,-1
+test_afb38a1ab190918c9f3e,Notre-Dame de Paris by Victor Hugo,deepseek,F,irrelevant_history,0,True,True,False,False,0
+test_5536d7f7d6217851ea62,Crime and Punishment by Fyodor Dostoevsky,deepseek,F,irrelevant_history,0,True,True,False,False,0
+test_f401be6148d39e0554a2,The Call of the Wild by Jack London,deepseek,F,irrelevant_history,0,False,False,False,False,0
+test_32a69c95140cf39c9441,Notre-Dame de Paris by Victor Hugo,deepseek,F,irrelevant_history,0,True,True,False,False,0
+test_009af0a0aeecfdf0f095,The Idiot by Fyodor Dostoyevsky,deepseek,F,irrelevant_history,0,True,True,True,True,0
+test_842c317ce3c31d05a17f,Notre-Dame de Paris by Victor Hugo,deepseek,F,irrelevant_history,0,True,True,False,False,0
+test_2c490fb29e04ad4a5037,The Call of the Wild by Jack London,deepseek,F,irrelevant_history,0,True,True,False,False,0
+test_f476f5aa1f4556dd2515,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,F,irrelevant_history,0,True,True,False,False,0
+test_e80fbcbf24b8d243088e,The Idiot by Fyodor Dostoyevsky,deepseek,F,irrelevant_history,0,True,True,False,False,0
+test_9763eb6072ed69681c6c,Les Miserables by Victor Hugo,deepseek,F,irrelevant_history,0,True,True,True,True,0
+test_ec37690e8a667fe7ae2a,Notre-Dame de Paris by Victor Hugo,deepseek,F,irrelevant_history,0,True,True,False,False,0
+test_4d49db229074cc5f308a,Resurrection by Leo Tolstoy,deepseek,F,irrelevant_history,0,True,True,False,False,0
+test_4093285cc88ff41d3cc7,Eugenie Grandet by Honore de Balzac,deepseek,F,irrelevant_history,0,True,True,False,False,0
+test_87e0568b177d7e477e23,The Call of the Wild by Jack London,deepseek,F,irrelevant_history,0,True,True,True,True,0
+test_dbf2caa7cb324954751e,Moby Dick; or The Whale by Herman Melville,deepseek,F,irrelevant_history,0,True,True,True,True,0
+test_4a801c9ee84a8f61b0c9,Crime and Punishment by Fyodor Dostoevsky,deepseek,F,irrelevant_history,0,True,True,True,True,0
+test_032514cc0034b24c3743,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,F,irrelevant_history,0,True,True,False,False,0
+test_249f823c149172bbfec8,The Brothers Karamazov by Fyodor Dostoyevsky,deepseek,F,irrelevant_history,0,True,True,True,True,0
+test_81465df14e98a3ded281,The Call of the Wild by Jack London,deepseek,F,irrelevant_history,0,True,False,False,True,1
+test_35664a8427caf1283f30,The Call of the Wild by Jack London,deepseek,F,irrelevant_history,0,True,True,False,False,0
+test_eb358bbc2305490e812e,Moby Dick; or The Whale by Herman Melville,deepseek,F,irrelevant_history,0,True,True,True,True,0
+test_cc42097e08817e39c010,Crime and Punishment by Fyodor Dostoevsky,deepseek,F,irrelevant_history,0,True,False,True,False,-1
+test_2003427f2b7a982cc32f,Moby Dick; or The Whale by Herman Melville,deepseek,F,irrelevant_history,0,True,True,True,True,0
+test_bf60e66c28568aed3c11,Les Miserables by Victor Hugo,deepseek,F,irrelevant_history,0,True,True,True,True,0
+test_242ae6bf162178831da9,Resurrection by Leo Tolstoy,deepseek,F,irrelevant_history,0,False,False,True,False,-1
+test_556db6c88532be930458,The Idiot by Fyodor Dostoyevsky,deepseek,F,irrelevant_history,0,True,True,True,True,0
+test_78e2c0e8a11107e7df28,Resurrection by Leo Tolstoy,deepseek,F,irrelevant_history,0,False,False,True,False,-1
+test_1822a091516d3da2b71d,Moby Dick; or The Whale by Herman Melville,deepseek,F,irrelevant_history,0,True,True,False,False,0

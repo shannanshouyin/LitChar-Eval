@@ -1,0 +1,61 @@
+{
+  "protocol_id": "quote-deletion-v1-20261023",
+  "providers": [
+    "glm",
+    "deepseek"
+  ],
+  "conditions": [
+    "F"
+  ],
+  "order_seed": 20261023,
+  "temperature": 0,
+  "top_p": 1,
+  "max_tokens": 1024,
+  "thinking": "disabled",
+  "response_format": {
+    "type": "json_object"
+  },
+  "timeout_seconds": 120,
+  "max_attempts_per_job": 2,
+  "max_consecutive_transport_errors": 3,
+  "max_workers": 4,
+  "max_in_flight_per_provider": 2,
+  "phase_limits": {
+    "base": {
+      "maximum_total_attempts": 270,
+      "estimated_cost_stop_cny": 5
+    },
+    "edit": {
+      "maximum_total_attempts": 530,
+      "estimated_cost_stop_cny": 10
+    }
+  },
+  "budget_rates_per_million": {
+    "glm": {
+      "input": 4,
+      "output": 16
+    },
+    "deepseek": {
+      "input": 2,
+      "output": 8
+    }
+  },
+  "budget_note": "Historical estimated-cost settings; review provider pricing before a new collection.",
+  "design": "Same 120 preselected groups, new 240 anchors. Eligible anchors derive two matched deletion calls for their own provider, at most 480 further calls. No response resampling or replacement cases.",
+  "eligibility": "Strictly valid anchor with 1 or 2 quotations, every quote at most 25 words, uniquely matchable in the named supplied passage after whitespace/quote normalization. All citation-covered whitespace tokens removed; overlapping/adjacent token spans merged. Each merged span has a disjoint equal-token-length control in the same passage excluding all cited and previously selected control tokens. Otherwise exclude pair and report reason.",
+  "deletion": "Remove entire whitespace tokens intersecting quote character spans, joining remaining tokens with spaces. No replacement marker. Controls chosen by fixed hash. No gold used in deletion construction. Source label is for intact text and is only a secondary descriptive reference after deletion.",
+  "primary_family": [
+    "glm:cited_minus_control_trait_change",
+    "deepseek:cited_minus_control_trait_change"
+  ],
+  "primary_metric": "Compared with the fresh anchor, cited-deletion trait change minus matched-control-deletion trait change on common all-three-valid eligible cases, equal-book mean. Two-sided book sign flips, Holm across two providers; t intervals. Require all 10 books represented for primary inference.",
+  "secondary": [
+    "eligibility and valid coverage per book/provider",
+    "all eligible missing-case [-1,+1] bounds",
+    "operational non-reproduction including invalid responses",
+    "reference agreement after deletion descriptive only",
+    "author-cluster and leave-one-book/author sensitivity"
+  ],
+  "failure_policy": "Keep malformed, refused and truncated responses. Retry transient errors at most twice total; preserve exhausted jobs. Stop on billing/auth/config and three consecutive transient errors. Never retry until a usable quote or desired answer appears.",
+  "version_basis": "Same official endpoints and documented models verified on 2026-10-23; returned model and UTC retained. Mutable DeepSeek alias; GLM dated weights unavailable."
+}

@@ -1,0 +1,481 @@
+﻿sample_id,book,author,provider,condition,all_three_valid,repeat_flip,rotation_flip,difference,stable_trait,operational_repeat_failure,operational_rotation_failure,operational_difference,anchor_valid,anchor_correct,anchor_traceable,stable_reference_disagree,all_three_traceable,rotation_shared_quote,repeat_shared_quote
+test_f10520e52a47ea3a16f3,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_4e5db0c17d15d89e57e0,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,glm,E,True,1,0,-1,False,1,0,-1,True,True,False,False,False,False,False
+test_4e183aa34aff7fc1c59d,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_315b63364ce3497634fd,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_cc42097e08817e39c010,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,glm,E,True,1,0,-1,False,1,0,-1,True,False,False,False,False,False,False
+test_7447f3c8aa4b9af1b893,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_784ce70405b99618cad3,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_8b9eccc1d7950685ac74,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_a6a7747bb4ce97694093,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_81140a05e7cf6c7ab959,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_20d615d6c289867a7dba,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,glm,E,True,1,0,-1,False,1,0,-1,True,False,False,False,False,False,False
+test_c90cf62a97ccb4d07c46,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_a0be1edbd8a2886ad3cb,Eugenie Grandet by Honore de Balzac,Honore de Balzac,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_8cd83eeae2011f5f504b,Eugenie Grandet by Honore de Balzac,Honore de Balzac,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_c4e666c34a40037703f4,Eugenie Grandet by Honore de Balzac,Honore de Balzac,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_e31db558c51a2aa1af23,Eugenie Grandet by Honore de Balzac,Honore de Balzac,glm,E,True,1,1,0,False,1,1,0,True,True,False,False,False,False,False
+test_1937a546cfaf638c9a4d,Eugenie Grandet by Honore de Balzac,Honore de Balzac,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_ed8f55cf69300004da68,Eugenie Grandet by Honore de Balzac,Honore de Balzac,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_8a38114bdfeda1a8bab4,Eugenie Grandet by Honore de Balzac,Honore de Balzac,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_0626c71a9cb995a44005,Eugenie Grandet by Honore de Balzac,Honore de Balzac,glm,E,True,1,0,-1,False,1,0,-1,True,False,False,False,False,False,False
+test_62a5d388371384f00eef,Eugenie Grandet by Honore de Balzac,Honore de Balzac,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_cdd0f16769f19cd8aa10,Eugenie Grandet by Honore de Balzac,Honore de Balzac,glm,E,True,1,0,-1,False,1,0,-1,True,False,False,False,False,False,False
+test_613dede5615aeba0b680,Eugenie Grandet by Honore de Balzac,Honore de Balzac,glm,E,True,1,1,0,False,1,1,0,True,False,False,False,False,False,False
+test_baa1f58754d5371d08aa,Eugenie Grandet by Honore de Balzac,Honore de Balzac,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_2cfd168696c5e428d5dd,Les Miserables by Victor Hugo,Victor Hugo,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_9582a0256b9184893699,Les Miserables by Victor Hugo,Victor Hugo,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_4827ce71ef57118b0c38,Les Miserables by Victor Hugo,Victor Hugo,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_d235760c4375af602661,Les Miserables by Victor Hugo,Victor Hugo,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_267f8450236fce0f8a13,Les Miserables by Victor Hugo,Victor Hugo,glm,E,True,0,1,1,False,0,1,1,True,True,False,False,False,False,False
+test_3f79821431bd43d64fa2,Les Miserables by Victor Hugo,Victor Hugo,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_e586720aa75ee9bbc43e,Les Miserables by Victor Hugo,Victor Hugo,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_661fa1f2bca281337c90,Les Miserables by Victor Hugo,Victor Hugo,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_fc213c75ceddb9914542,Les Miserables by Victor Hugo,Victor Hugo,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_a62037c9a1d993f62264,Les Miserables by Victor Hugo,Victor Hugo,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_7659174e363d64325811,Les Miserables by Victor Hugo,Victor Hugo,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_aa66f8233fe7445d5077,Les Miserables by Victor Hugo,Victor Hugo,glm,E,True,1,1,0,False,1,1,0,True,False,False,False,False,False,False
+test_12a6e01fdf8699118ab8,Moby Dick; or The Whale by Herman Melville,Herman Melville,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_d05e9caaca8dcd359f42,Moby Dick; or The Whale by Herman Melville,Herman Melville,glm,E,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_dbf2caa7cb324954751e,Moby Dick; or The Whale by Herman Melville,Herman Melville,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_dbbea3f470078b316f6e,Moby Dick; or The Whale by Herman Melville,Herman Melville,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_80471e62401e185b3ed1,Moby Dick; or The Whale by Herman Melville,Herman Melville,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_eb358bbc2305490e812e,Moby Dick; or The Whale by Herman Melville,Herman Melville,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_b16f75c98cf5bd96f204,Moby Dick; or The Whale by Herman Melville,Herman Melville,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_08d139a63a522d96ef69,Moby Dick; or The Whale by Herman Melville,Herman Melville,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_f672879a63d843b20d7d,Moby Dick; or The Whale by Herman Melville,Herman Melville,glm,E,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_7c63795ff44d584c33fe,Moby Dick; or The Whale by Herman Melville,Herman Melville,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_b790485371d19b6ad8ec,Moby Dick; or The Whale by Herman Melville,Herman Melville,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_d901a2e1c8a9c8d98c6c,Moby Dick; or The Whale by Herman Melville,Herman Melville,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_5f7f610b2bea68241492,Notre-Dame de Paris by Victor Hugo,Victor Hugo,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_726ef76eb1610b6719ad,Notre-Dame de Paris by Victor Hugo,Victor Hugo,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_b5c55170d9bf18b8e045,Notre-Dame de Paris by Victor Hugo,Victor Hugo,glm,E,True,1,1,0,False,1,1,0,True,False,False,False,False,False,False
+test_a781f95f246eaf27457e,Notre-Dame de Paris by Victor Hugo,Victor Hugo,glm,E,True,1,1,0,False,1,1,0,True,False,False,False,False,False,False
+test_7e9611a58024a0e45542,Notre-Dame de Paris by Victor Hugo,Victor Hugo,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_f3c68e7fd195bd6779da,Notre-Dame de Paris by Victor Hugo,Victor Hugo,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_148794d2205bc4cc8ce2,Notre-Dame de Paris by Victor Hugo,Victor Hugo,glm,E,True,0,1,1,False,0,1,1,True,True,False,False,False,False,False
+test_169c9df6c7164e3235a1,Notre-Dame de Paris by Victor Hugo,Victor Hugo,glm,E,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_fb470d817b910bb2e49f,Notre-Dame de Paris by Victor Hugo,Victor Hugo,glm,E,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_4cece36e29673045e67b,Notre-Dame de Paris by Victor Hugo,Victor Hugo,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_7d3a1cb94fb3d00d8c19,Notre-Dame de Paris by Victor Hugo,Victor Hugo,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_3127122c2392c3937096,Notre-Dame de Paris by Victor Hugo,Victor Hugo,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_054ff0744b1d51aeaf4e,Resurrection by Leo Tolstoy,Leo Tolstoy,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_48f2fcb36c802ba572e4,Resurrection by Leo Tolstoy,Leo Tolstoy,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_e33a11bf91ea68cc2989,Resurrection by Leo Tolstoy,Leo Tolstoy,glm,E,True,0,1,1,False,0,1,1,True,True,False,False,False,False,False
+test_4117462df9a1aff712a1,Resurrection by Leo Tolstoy,Leo Tolstoy,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_c6b9d9fad14b6949df9d,Resurrection by Leo Tolstoy,Leo Tolstoy,glm,E,True,0,1,1,False,0,1,1,True,True,False,False,False,False,False
+test_e277ef7f332455e20a90,Resurrection by Leo Tolstoy,Leo Tolstoy,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_239f6f0986f8eedc0c88,Resurrection by Leo Tolstoy,Leo Tolstoy,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_8490dad21663a008fb02,Resurrection by Leo Tolstoy,Leo Tolstoy,glm,E,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_0b578ed8a3880c501bdd,Resurrection by Leo Tolstoy,Leo Tolstoy,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_e7030d0e1f1e79a2be07,Resurrection by Leo Tolstoy,Leo Tolstoy,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_24fd7be3fa2541f61d42,Resurrection by Leo Tolstoy,Leo Tolstoy,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,Leo Tolstoy,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_e3bf942d7153c710b796,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_8e9d8d1ababcbfdcb54a,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,glm,E,True,1,0,-1,False,1,0,-1,True,False,False,False,False,False,False
+test_d2f14ba59e885a2e2591,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_05b829e5740f6a6cba48,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,glm,E,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_fbe37093ecd5298bd869,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_29e7329ec325f09135f3,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,glm,E,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_30752ea058f15878ae00,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,glm,E,True,1,0,-1,False,1,0,-1,True,False,False,False,False,False,False
+test_debd6608295f048ee8ce,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_47f3cc9d0378bd4757ac,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_d3250f2dda0b5a04523e,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,glm,E,True,1,1,0,False,1,1,0,True,False,False,False,False,False,False
+test_8890daa7ecde5142f369,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,glm,E,True,1,1,0,False,1,1,0,True,False,False,False,False,False,False
+test_f905cfddb1510670f766,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,glm,E,True,1,0,-1,False,1,0,-1,True,True,False,False,False,False,False
+test_108763bb891baf4eceaf,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_4adaf58547d9b458425a,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_b5c9f95de44b6b1c9c59,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_49c5c6e8e8ca236444d0,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_60298630ed1c33b59b63,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,E,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_283b2acdd51d7c1caca2,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,E,True,0,1,1,False,0,1,1,True,True,False,False,False,False,False
+test_249f823c149172bbfec8,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,E,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_17eb1f982e543b361a76,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_c4f32903dd67ed1177b6,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,E,True,1,1,0,False,1,1,0,True,False,False,False,False,False,False
+test_e666282f2d7376273574,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_2d4457b79b2141847c6c,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,E,True,0,1,1,False,0,1,1,True,True,False,False,False,False,False
+test_9891ba40f259d78df2b0,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_81465df14e98a3ded281,The Call of the Wild by Jack London,Jack London,glm,E,True,0,1,1,False,0,1,1,True,True,False,False,False,False,False
+test_699a512106f6178ad798,The Call of the Wild by Jack London,Jack London,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_72845dd8922375b654c6,The Call of the Wild by Jack London,Jack London,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_8471bb83b6831a0468db,The Call of the Wild by Jack London,Jack London,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_84783d65b7f21eb09bc7,The Call of the Wild by Jack London,Jack London,glm,E,True,1,0,-1,False,1,0,-1,True,False,False,False,False,False,False
+test_e7ba804d5251e5909776,The Call of the Wild by Jack London,Jack London,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_fe4ce88a4a22b3ebff01,The Call of the Wild by Jack London,Jack London,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_eea4f34c9b053296264c,The Call of the Wild by Jack London,Jack London,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_d687880bf077a00e3b5e,The Call of the Wild by Jack London,Jack London,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_be4b1100bf9483b122d8,The Call of the Wild by Jack London,Jack London,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_79036ab1cdf030087add,The Call of the Wild by Jack London,Jack London,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,Jack London,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_20fac202bc83793cf06e,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_9428f797debfd79515ae,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_a0d316948ed110ef2227,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_7fbca62b293f715461e1,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_57e8d78e2d86e0324592,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,E,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_859323574215544860f0,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_1c15250b6e5b8590170c,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_9842cc9344b782f06f7e,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_47b10a939d45d6ca0784,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_a9e3ffa26f7c67d58107,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,E,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_04d1e3b69c790cb80a32,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_09176d37d2de4b046a31,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_f10520e52a47ea3a16f3,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,glm,F,True,0,1,1,False,0,1,1,True,True,True,False,True,True,True
+test_4e5db0c17d15d89e57e0,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_4e183aa34aff7fc1c59d,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,glm,F,True,0,1,1,False,0,1,1,True,True,True,False,True,True,True
+test_315b63364ce3497634fd,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_cc42097e08817e39c010,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,False,False
+test_7447f3c8aa4b9af1b893,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,glm,F,True,1,1,0,False,1,1,0,True,False,True,False,True,False,False
+test_784ce70405b99618cad3,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,glm,F,True,0,1,1,False,0,1,1,True,False,True,False,True,False,False
+test_8b9eccc1d7950685ac74,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,False,False
+test_a6a7747bb4ce97694093,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,False,False
+test_81140a05e7cf6c7ab959,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,False,True
+test_20d615d6c289867a7dba,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,glm,F,True,0,1,1,False,0,1,1,True,False,True,False,True,True,True
+test_c90cf62a97ccb4d07c46,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,False,False
+test_a0be1edbd8a2886ad3cb,Eugenie Grandet by Honore de Balzac,Honore de Balzac,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,False,True
+test_8cd83eeae2011f5f504b,Eugenie Grandet by Honore de Balzac,Honore de Balzac,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_c4e666c34a40037703f4,Eugenie Grandet by Honore de Balzac,Honore de Balzac,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_e31db558c51a2aa1af23,Eugenie Grandet by Honore de Balzac,Honore de Balzac,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,False,False
+test_1937a546cfaf638c9a4d,Eugenie Grandet by Honore de Balzac,Honore de Balzac,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_ed8f55cf69300004da68,Eugenie Grandet by Honore de Balzac,Honore de Balzac,glm,F,True,0,1,1,False,0,1,1,True,False,True,False,True,True,True
+test_8a38114bdfeda1a8bab4,Eugenie Grandet by Honore de Balzac,Honore de Balzac,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,False,True
+test_0626c71a9cb995a44005,Eugenie Grandet by Honore de Balzac,Honore de Balzac,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_62a5d388371384f00eef,Eugenie Grandet by Honore de Balzac,Honore de Balzac,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_cdd0f16769f19cd8aa10,Eugenie Grandet by Honore de Balzac,Honore de Balzac,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_613dede5615aeba0b680,Eugenie Grandet by Honore de Balzac,Honore de Balzac,glm,F,True,1,1,0,False,1,1,0,True,False,True,False,True,True,True
+test_baa1f58754d5371d08aa,Eugenie Grandet by Honore de Balzac,Honore de Balzac,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_2cfd168696c5e428d5dd,Les Miserables by Victor Hugo,Victor Hugo,glm,F,False,,,,False,1,1,0,False,False,False,False,False,False,False
+test_9582a0256b9184893699,Les Miserables by Victor Hugo,Victor Hugo,glm,F,True,1,1,0,False,1,1,0,True,False,True,False,True,True,True
+test_4827ce71ef57118b0c38,Les Miserables by Victor Hugo,Victor Hugo,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_d235760c4375af602661,Les Miserables by Victor Hugo,Victor Hugo,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_267f8450236fce0f8a13,Les Miserables by Victor Hugo,Victor Hugo,glm,F,True,0,1,1,False,0,1,1,True,True,True,False,True,True,True
+test_3f79821431bd43d64fa2,Les Miserables by Victor Hugo,Victor Hugo,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_e586720aa75ee9bbc43e,Les Miserables by Victor Hugo,Victor Hugo,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,False
+test_661fa1f2bca281337c90,Les Miserables by Victor Hugo,Victor Hugo,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_fc213c75ceddb9914542,Les Miserables by Victor Hugo,Victor Hugo,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_a62037c9a1d993f62264,Les Miserables by Victor Hugo,Victor Hugo,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,False,True
+test_7659174e363d64325811,Les Miserables by Victor Hugo,Victor Hugo,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_aa66f8233fe7445d5077,Les Miserables by Victor Hugo,Victor Hugo,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_12a6e01fdf8699118ab8,Moby Dick; or The Whale by Herman Melville,Herman Melville,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_d05e9caaca8dcd359f42,Moby Dick; or The Whale by Herman Melville,Herman Melville,glm,F,True,0,1,1,False,0,1,1,True,False,True,False,True,False,True
+test_dbf2caa7cb324954751e,Moby Dick; or The Whale by Herman Melville,Herman Melville,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,False,True
+test_dbbea3f470078b316f6e,Moby Dick; or The Whale by Herman Melville,Herman Melville,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,False
+test_80471e62401e185b3ed1,Moby Dick; or The Whale by Herman Melville,Herman Melville,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_eb358bbc2305490e812e,Moby Dick; or The Whale by Herman Melville,Herman Melville,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_b16f75c98cf5bd96f204,Moby Dick; or The Whale by Herman Melville,Herman Melville,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_08d139a63a522d96ef69,Moby Dick; or The Whale by Herman Melville,Herman Melville,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_f672879a63d843b20d7d,Moby Dick; or The Whale by Herman Melville,Herman Melville,glm,F,True,1,1,0,False,1,1,0,True,False,True,False,True,True,True
+test_7c63795ff44d584c33fe,Moby Dick; or The Whale by Herman Melville,Herman Melville,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_b790485371d19b6ad8ec,Moby Dick; or The Whale by Herman Melville,Herman Melville,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_d901a2e1c8a9c8d98c6c,Moby Dick; or The Whale by Herman Melville,Herman Melville,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,False,False
+test_5f7f610b2bea68241492,Notre-Dame de Paris by Victor Hugo,Victor Hugo,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_726ef76eb1610b6719ad,Notre-Dame de Paris by Victor Hugo,Victor Hugo,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_b5c55170d9bf18b8e045,Notre-Dame de Paris by Victor Hugo,Victor Hugo,glm,F,True,0,1,1,False,0,1,1,True,False,True,False,True,True,True
+test_a781f95f246eaf27457e,Notre-Dame de Paris by Victor Hugo,Victor Hugo,glm,F,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_7e9611a58024a0e45542,Notre-Dame de Paris by Victor Hugo,Victor Hugo,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_f3c68e7fd195bd6779da,Notre-Dame de Paris by Victor Hugo,Victor Hugo,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,False,True
+test_148794d2205bc4cc8ce2,Notre-Dame de Paris by Victor Hugo,Victor Hugo,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_169c9df6c7164e3235a1,Notre-Dame de Paris by Victor Hugo,Victor Hugo,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_fb470d817b910bb2e49f,Notre-Dame de Paris by Victor Hugo,Victor Hugo,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,False,False,False
+test_4cece36e29673045e67b,Notre-Dame de Paris by Victor Hugo,Victor Hugo,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,False
+test_7d3a1cb94fb3d00d8c19,Notre-Dame de Paris by Victor Hugo,Victor Hugo,glm,F,True,0,1,1,False,0,1,1,True,True,True,False,True,False,True
+test_3127122c2392c3937096,Notre-Dame de Paris by Victor Hugo,Victor Hugo,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_054ff0744b1d51aeaf4e,Resurrection by Leo Tolstoy,Leo Tolstoy,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_48f2fcb36c802ba572e4,Resurrection by Leo Tolstoy,Leo Tolstoy,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_e33a11bf91ea68cc2989,Resurrection by Leo Tolstoy,Leo Tolstoy,glm,F,True,0,1,1,False,0,1,1,True,True,True,False,True,True,True
+test_4117462df9a1aff712a1,Resurrection by Leo Tolstoy,Leo Tolstoy,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,False,False,False
+test_c6b9d9fad14b6949df9d,Resurrection by Leo Tolstoy,Leo Tolstoy,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,False,False,True
+test_e277ef7f332455e20a90,Resurrection by Leo Tolstoy,Leo Tolstoy,glm,F,False,,,,False,1,1,0,False,False,False,False,False,False,False
+test_239f6f0986f8eedc0c88,Resurrection by Leo Tolstoy,Leo Tolstoy,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_8490dad21663a008fb02,Resurrection by Leo Tolstoy,Leo Tolstoy,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_0b578ed8a3880c501bdd,Resurrection by Leo Tolstoy,Leo Tolstoy,glm,F,True,0,1,1,False,0,1,1,True,False,True,False,False,False,False
+test_e7030d0e1f1e79a2be07,Resurrection by Leo Tolstoy,Leo Tolstoy,glm,F,True,1,1,0,False,1,1,0,True,False,False,False,False,False,False
+test_24fd7be3fa2541f61d42,Resurrection by Leo Tolstoy,Leo Tolstoy,glm,F,False,,,,False,1,0,-1,True,True,True,False,False,True,False
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,Leo Tolstoy,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,False,False
+test_e3bf942d7153c710b796,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_8e9d8d1ababcbfdcb54a,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,glm,F,True,1,0,-1,False,1,0,-1,True,False,True,False,True,True,True
+test_d2f14ba59e885a2e2591,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_05b829e5740f6a6cba48,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,glm,F,True,1,1,0,False,1,1,0,True,False,True,False,True,True,True
+test_fbe37093ecd5298bd869,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,False,False
+test_29e7329ec325f09135f3,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_30752ea058f15878ae00,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_debd6608295f048ee8ce,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,glm,F,True,0,1,1,False,0,1,1,True,False,True,False,True,False,True
+test_47f3cc9d0378bd4757ac,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,False,False
+test_d3250f2dda0b5a04523e,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_8890daa7ecde5142f369,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,glm,F,True,1,1,0,False,1,1,0,True,False,True,False,False,False,False
+test_f905cfddb1510670f766,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,glm,F,True,0,1,1,False,0,1,1,True,False,True,False,True,True,True
+test_108763bb891baf4eceaf,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_4adaf58547d9b458425a,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_b5c9f95de44b6b1c9c59,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,F,True,0,1,1,False,0,1,1,True,False,True,False,True,True,True
+test_49c5c6e8e8ca236444d0,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_60298630ed1c33b59b63,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,F,True,1,1,0,False,1,1,0,True,False,True,False,True,True,True
+test_283b2acdd51d7c1caca2,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,F,True,0,1,1,False,0,1,1,True,True,True,False,True,True,True
+test_249f823c149172bbfec8,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_17eb1f982e543b361a76,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,F,True,0,1,1,False,0,1,1,True,False,True,False,True,True,True
+test_c4f32903dd67ed1177b6,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,F,True,0,1,1,False,0,1,1,True,False,True,False,True,True,True
+test_e666282f2d7376273574,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,F,True,1,1,0,False,1,1,0,True,False,True,False,True,True,True
+test_2d4457b79b2141847c6c,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,F,False,,,,False,1,0,-1,True,True,True,False,False,True,False
+test_9891ba40f259d78df2b0,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,False
+test_81465df14e98a3ded281,The Call of the Wild by Jack London,Jack London,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_699a512106f6178ad798,The Call of the Wild by Jack London,Jack London,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_72845dd8922375b654c6,The Call of the Wild by Jack London,Jack London,glm,F,True,1,0,-1,False,1,0,-1,True,False,True,False,True,True,True
+test_8471bb83b6831a0468db,The Call of the Wild by Jack London,Jack London,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_84783d65b7f21eb09bc7,The Call of the Wild by Jack London,Jack London,glm,F,True,0,1,1,False,0,1,1,True,True,True,False,True,True,True
+test_e7ba804d5251e5909776,The Call of the Wild by Jack London,Jack London,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_fe4ce88a4a22b3ebff01,The Call of the Wild by Jack London,Jack London,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_eea4f34c9b053296264c,The Call of the Wild by Jack London,Jack London,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_d687880bf077a00e3b5e,The Call of the Wild by Jack London,Jack London,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_be4b1100bf9483b122d8,The Call of the Wild by Jack London,Jack London,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,False,True
+test_79036ab1cdf030087add,The Call of the Wild by Jack London,Jack London,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,Jack London,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_20fac202bc83793cf06e,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,False,False
+test_9428f797debfd79515ae,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,False,False
+test_a0d316948ed110ef2227,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_7fbca62b293f715461e1,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,False
+test_57e8d78e2d86e0324592,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,F,True,0,1,1,False,0,1,1,True,False,True,False,True,False,True
+test_859323574215544860f0,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,False,True
+test_1c15250b6e5b8590170c,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_9842cc9344b782f06f7e,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_47b10a939d45d6ca0784,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,F,True,1,1,0,False,1,1,0,True,True,True,False,True,True,True
+test_a9e3ffa26f7c67d58107,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_04d1e3b69c790cb80a32,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_09176d37d2de4b046a31,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,glm,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_f10520e52a47ea3a16f3,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,deepseek,E,True,1,1,0,False,1,1,0,True,False,False,False,False,False,False
+test_4e5db0c17d15d89e57e0,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_4e183aa34aff7fc1c59d,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,deepseek,E,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_315b63364ce3497634fd,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_cc42097e08817e39c010,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,deepseek,E,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_7447f3c8aa4b9af1b893,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,deepseek,E,True,1,0,-1,False,1,0,-1,True,False,False,False,False,False,False
+test_784ce70405b99618cad3,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_8b9eccc1d7950685ac74,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_a6a7747bb4ce97694093,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,deepseek,E,True,0,1,1,False,0,1,1,True,True,False,False,False,False,False
+test_81140a05e7cf6c7ab959,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_20d615d6c289867a7dba,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,deepseek,E,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_c90cf62a97ccb4d07c46,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_a0be1edbd8a2886ad3cb,Eugenie Grandet by Honore de Balzac,Honore de Balzac,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_8cd83eeae2011f5f504b,Eugenie Grandet by Honore de Balzac,Honore de Balzac,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_c4e666c34a40037703f4,Eugenie Grandet by Honore de Balzac,Honore de Balzac,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_e31db558c51a2aa1af23,Eugenie Grandet by Honore de Balzac,Honore de Balzac,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_1937a546cfaf638c9a4d,Eugenie Grandet by Honore de Balzac,Honore de Balzac,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_ed8f55cf69300004da68,Eugenie Grandet by Honore de Balzac,Honore de Balzac,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_8a38114bdfeda1a8bab4,Eugenie Grandet by Honore de Balzac,Honore de Balzac,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_0626c71a9cb995a44005,Eugenie Grandet by Honore de Balzac,Honore de Balzac,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_62a5d388371384f00eef,Eugenie Grandet by Honore de Balzac,Honore de Balzac,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_cdd0f16769f19cd8aa10,Eugenie Grandet by Honore de Balzac,Honore de Balzac,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_613dede5615aeba0b680,Eugenie Grandet by Honore de Balzac,Honore de Balzac,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_baa1f58754d5371d08aa,Eugenie Grandet by Honore de Balzac,Honore de Balzac,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_2cfd168696c5e428d5dd,Les Miserables by Victor Hugo,Victor Hugo,deepseek,E,True,1,1,0,False,1,1,0,True,False,False,False,False,False,False
+test_9582a0256b9184893699,Les Miserables by Victor Hugo,Victor Hugo,deepseek,E,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_4827ce71ef57118b0c38,Les Miserables by Victor Hugo,Victor Hugo,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_d235760c4375af602661,Les Miserables by Victor Hugo,Victor Hugo,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_267f8450236fce0f8a13,Les Miserables by Victor Hugo,Victor Hugo,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_3f79821431bd43d64fa2,Les Miserables by Victor Hugo,Victor Hugo,deepseek,E,True,1,0,-1,False,1,0,-1,True,True,False,False,False,False,False
+test_e586720aa75ee9bbc43e,Les Miserables by Victor Hugo,Victor Hugo,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_661fa1f2bca281337c90,Les Miserables by Victor Hugo,Victor Hugo,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_fc213c75ceddb9914542,Les Miserables by Victor Hugo,Victor Hugo,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_a62037c9a1d993f62264,Les Miserables by Victor Hugo,Victor Hugo,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_7659174e363d64325811,Les Miserables by Victor Hugo,Victor Hugo,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_aa66f8233fe7445d5077,Les Miserables by Victor Hugo,Victor Hugo,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_12a6e01fdf8699118ab8,Moby Dick; or The Whale by Herman Melville,Herman Melville,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_d05e9caaca8dcd359f42,Moby Dick; or The Whale by Herman Melville,Herman Melville,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_dbf2caa7cb324954751e,Moby Dick; or The Whale by Herman Melville,Herman Melville,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_dbbea3f470078b316f6e,Moby Dick; or The Whale by Herman Melville,Herman Melville,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_80471e62401e185b3ed1,Moby Dick; or The Whale by Herman Melville,Herman Melville,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_eb358bbc2305490e812e,Moby Dick; or The Whale by Herman Melville,Herman Melville,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_b16f75c98cf5bd96f204,Moby Dick; or The Whale by Herman Melville,Herman Melville,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_08d139a63a522d96ef69,Moby Dick; or The Whale by Herman Melville,Herman Melville,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_f672879a63d843b20d7d,Moby Dick; or The Whale by Herman Melville,Herman Melville,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_7c63795ff44d584c33fe,Moby Dick; or The Whale by Herman Melville,Herman Melville,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_b790485371d19b6ad8ec,Moby Dick; or The Whale by Herman Melville,Herman Melville,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_d901a2e1c8a9c8d98c6c,Moby Dick; or The Whale by Herman Melville,Herman Melville,deepseek,E,True,1,1,0,False,1,1,0,True,False,False,False,False,False,False
+test_5f7f610b2bea68241492,Notre-Dame de Paris by Victor Hugo,Victor Hugo,deepseek,E,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_726ef76eb1610b6719ad,Notre-Dame de Paris by Victor Hugo,Victor Hugo,deepseek,E,True,1,0,-1,False,1,0,-1,True,False,False,False,False,False,False
+test_b5c55170d9bf18b8e045,Notre-Dame de Paris by Victor Hugo,Victor Hugo,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_a781f95f246eaf27457e,Notre-Dame de Paris by Victor Hugo,Victor Hugo,deepseek,E,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_7e9611a58024a0e45542,Notre-Dame de Paris by Victor Hugo,Victor Hugo,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_f3c68e7fd195bd6779da,Notre-Dame de Paris by Victor Hugo,Victor Hugo,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_148794d2205bc4cc8ce2,Notre-Dame de Paris by Victor Hugo,Victor Hugo,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_169c9df6c7164e3235a1,Notre-Dame de Paris by Victor Hugo,Victor Hugo,deepseek,E,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_fb470d817b910bb2e49f,Notre-Dame de Paris by Victor Hugo,Victor Hugo,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_4cece36e29673045e67b,Notre-Dame de Paris by Victor Hugo,Victor Hugo,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_7d3a1cb94fb3d00d8c19,Notre-Dame de Paris by Victor Hugo,Victor Hugo,deepseek,E,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_3127122c2392c3937096,Notre-Dame de Paris by Victor Hugo,Victor Hugo,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_054ff0744b1d51aeaf4e,Resurrection by Leo Tolstoy,Leo Tolstoy,deepseek,E,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_48f2fcb36c802ba572e4,Resurrection by Leo Tolstoy,Leo Tolstoy,deepseek,E,True,1,0,-1,False,1,0,-1,True,False,False,False,False,False,False
+test_e33a11bf91ea68cc2989,Resurrection by Leo Tolstoy,Leo Tolstoy,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_4117462df9a1aff712a1,Resurrection by Leo Tolstoy,Leo Tolstoy,deepseek,E,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_c6b9d9fad14b6949df9d,Resurrection by Leo Tolstoy,Leo Tolstoy,deepseek,E,True,1,1,0,False,1,1,0,True,True,False,False,False,False,False
+test_e277ef7f332455e20a90,Resurrection by Leo Tolstoy,Leo Tolstoy,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_239f6f0986f8eedc0c88,Resurrection by Leo Tolstoy,Leo Tolstoy,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_8490dad21663a008fb02,Resurrection by Leo Tolstoy,Leo Tolstoy,deepseek,E,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_0b578ed8a3880c501bdd,Resurrection by Leo Tolstoy,Leo Tolstoy,deepseek,E,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_e7030d0e1f1e79a2be07,Resurrection by Leo Tolstoy,Leo Tolstoy,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_24fd7be3fa2541f61d42,Resurrection by Leo Tolstoy,Leo Tolstoy,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,Leo Tolstoy,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_e3bf942d7153c710b796,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,deepseek,E,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_8e9d8d1ababcbfdcb54a,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_d2f14ba59e885a2e2591,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_05b829e5740f6a6cba48,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_fbe37093ecd5298bd869,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,deepseek,E,True,1,1,0,False,1,1,0,True,False,False,False,False,False,False
+test_29e7329ec325f09135f3,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,deepseek,E,True,1,1,0,False,1,1,0,True,False,False,False,False,False,False
+test_30752ea058f15878ae00,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,deepseek,E,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_debd6608295f048ee8ce,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_47f3cc9d0378bd4757ac,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,deepseek,E,True,1,1,0,False,1,1,0,True,True,False,False,False,False,False
+test_d3250f2dda0b5a04523e,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,deepseek,E,True,1,0,-1,False,1,0,-1,True,False,False,False,False,False,False
+test_8890daa7ecde5142f369,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_f905cfddb1510670f766,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,deepseek,E,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_108763bb891baf4eceaf,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_4adaf58547d9b458425a,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_b5c9f95de44b6b1c9c59,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,E,True,1,1,0,False,1,1,0,True,False,False,False,False,False,False
+test_49c5c6e8e8ca236444d0,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_60298630ed1c33b59b63,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_283b2acdd51d7c1caca2,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,E,True,1,1,0,False,1,1,0,True,False,False,False,False,False,False
+test_249f823c149172bbfec8,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,E,True,0,1,1,False,0,1,1,True,True,False,False,False,False,False
+test_17eb1f982e543b361a76,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_c4f32903dd67ed1177b6,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,E,True,1,1,0,False,1,1,0,True,False,False,False,False,False,False
+test_e666282f2d7376273574,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,E,True,1,0,-1,False,1,0,-1,True,True,False,False,False,False,False
+test_2d4457b79b2141847c6c,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,E,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_9891ba40f259d78df2b0,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,E,True,0,1,1,False,0,1,1,True,True,False,False,False,False,False
+test_81465df14e98a3ded281,The Call of the Wild by Jack London,Jack London,deepseek,E,True,0,1,1,False,0,1,1,True,True,False,False,False,False,False
+test_699a512106f6178ad798,The Call of the Wild by Jack London,Jack London,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_72845dd8922375b654c6,The Call of the Wild by Jack London,Jack London,deepseek,E,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_8471bb83b6831a0468db,The Call of the Wild by Jack London,Jack London,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_84783d65b7f21eb09bc7,The Call of the Wild by Jack London,Jack London,deepseek,E,True,1,0,-1,False,1,0,-1,True,False,False,False,False,False,False
+test_e7ba804d5251e5909776,The Call of the Wild by Jack London,Jack London,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_fe4ce88a4a22b3ebff01,The Call of the Wild by Jack London,Jack London,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_eea4f34c9b053296264c,The Call of the Wild by Jack London,Jack London,deepseek,E,True,1,1,0,False,1,1,0,True,True,False,False,False,False,False
+test_d687880bf077a00e3b5e,The Call of the Wild by Jack London,Jack London,deepseek,E,True,1,0,-1,False,1,0,-1,True,True,False,False,False,False,False
+test_be4b1100bf9483b122d8,The Call of the Wild by Jack London,Jack London,deepseek,E,True,1,0,-1,False,1,0,-1,True,False,False,False,False,False,False
+test_79036ab1cdf030087add,The Call of the Wild by Jack London,Jack London,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,Jack London,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_20fac202bc83793cf06e,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_9428f797debfd79515ae,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,E,True,1,1,0,False,1,1,0,True,False,False,False,False,False,False
+test_a0d316948ed110ef2227,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,E,True,1,0,-1,False,1,0,-1,True,False,False,False,False,False,False
+test_7fbca62b293f715461e1,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_57e8d78e2d86e0324592,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_859323574215544860f0,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_1c15250b6e5b8590170c,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_9842cc9344b782f06f7e,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_47b10a939d45d6ca0784,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_a9e3ffa26f7c67d58107,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,E,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_04d1e3b69c790cb80a32,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,E,True,1,1,0,False,1,1,0,True,False,False,False,False,False,False
+test_09176d37d2de4b046a31,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,E,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_f10520e52a47ea3a16f3,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,deepseek,F,True,0,1,1,False,0,1,1,True,True,True,False,True,True,True
+test_4e5db0c17d15d89e57e0,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,False,False
+test_4e183aa34aff7fc1c59d,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,deepseek,F,True,0,1,1,False,0,1,1,True,False,True,False,True,True,True
+test_315b63364ce3497634fd,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_cc42097e08817e39c010,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,deepseek,F,True,1,1,0,False,1,1,0,True,True,True,False,True,True,True
+test_7447f3c8aa4b9af1b893,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,deepseek,F,True,0,1,1,False,0,1,1,True,True,True,False,True,True,True
+test_784ce70405b99618cad3,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,deepseek,F,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_8b9eccc1d7950685ac74,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,deepseek,F,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_a6a7747bb4ce97694093,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_81140a05e7cf6c7ab959,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_20d615d6c289867a7dba,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,deepseek,F,False,,,,False,1,1,0,True,False,True,False,False,False,False
+test_c90cf62a97ccb4d07c46,Crime and Punishment by Fyodor Dostoevsky,Fyodor Dostoyevsky,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_a0be1edbd8a2886ad3cb,Eugenie Grandet by Honore de Balzac,Honore de Balzac,deepseek,F,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_8cd83eeae2011f5f504b,Eugenie Grandet by Honore de Balzac,Honore de Balzac,deepseek,F,False,,,,False,0,1,1,True,False,True,False,False,False,False
+test_c4e666c34a40037703f4,Eugenie Grandet by Honore de Balzac,Honore de Balzac,deepseek,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_e31db558c51a2aa1af23,Eugenie Grandet by Honore de Balzac,Honore de Balzac,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,False,True
+test_1937a546cfaf638c9a4d,Eugenie Grandet by Honore de Balzac,Honore de Balzac,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,False,False,True
+test_ed8f55cf69300004da68,Eugenie Grandet by Honore de Balzac,Honore de Balzac,deepseek,F,False,,,,False,1,1,0,False,False,False,False,False,False,False
+test_8a38114bdfeda1a8bab4,Eugenie Grandet by Honore de Balzac,Honore de Balzac,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_0626c71a9cb995a44005,Eugenie Grandet by Honore de Balzac,Honore de Balzac,deepseek,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_62a5d388371384f00eef,Eugenie Grandet by Honore de Balzac,Honore de Balzac,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,False,True
+test_cdd0f16769f19cd8aa10,Eugenie Grandet by Honore de Balzac,Honore de Balzac,deepseek,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_613dede5615aeba0b680,Eugenie Grandet by Honore de Balzac,Honore de Balzac,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_baa1f58754d5371d08aa,Eugenie Grandet by Honore de Balzac,Honore de Balzac,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,False
+test_2cfd168696c5e428d5dd,Les Miserables by Victor Hugo,Victor Hugo,deepseek,F,True,1,0,-1,False,1,0,-1,True,False,True,False,True,False,True
+test_9582a0256b9184893699,Les Miserables by Victor Hugo,Victor Hugo,deepseek,F,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_4827ce71ef57118b0c38,Les Miserables by Victor Hugo,Victor Hugo,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,False
+test_d235760c4375af602661,Les Miserables by Victor Hugo,Victor Hugo,deepseek,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_267f8450236fce0f8a13,Les Miserables by Victor Hugo,Victor Hugo,deepseek,F,True,1,1,0,False,1,1,0,True,False,True,False,True,True,True
+test_3f79821431bd43d64fa2,Les Miserables by Victor Hugo,Victor Hugo,deepseek,F,True,1,0,-1,False,1,0,-1,True,True,True,False,True,True,True
+test_e586720aa75ee9bbc43e,Les Miserables by Victor Hugo,Victor Hugo,deepseek,F,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_661fa1f2bca281337c90,Les Miserables by Victor Hugo,Victor Hugo,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_fc213c75ceddb9914542,Les Miserables by Victor Hugo,Victor Hugo,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_a62037c9a1d993f62264,Les Miserables by Victor Hugo,Victor Hugo,deepseek,F,True,0,0,0,True,0,0,0,True,False,True,True,True,False,False
+test_7659174e363d64325811,Les Miserables by Victor Hugo,Victor Hugo,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_aa66f8233fe7445d5077,Les Miserables by Victor Hugo,Victor Hugo,deepseek,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_12a6e01fdf8699118ab8,Moby Dick; or The Whale by Herman Melville,Herman Melville,deepseek,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_d05e9caaca8dcd359f42,Moby Dick; or The Whale by Herman Melville,Herman Melville,deepseek,F,True,0,1,1,False,0,1,1,True,False,True,False,True,False,True
+test_dbf2caa7cb324954751e,Moby Dick; or The Whale by Herman Melville,Herman Melville,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_dbbea3f470078b316f6e,Moby Dick; or The Whale by Herman Melville,Herman Melville,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_80471e62401e185b3ed1,Moby Dick; or The Whale by Herman Melville,Herman Melville,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_eb358bbc2305490e812e,Moby Dick; or The Whale by Herman Melville,Herman Melville,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_b16f75c98cf5bd96f204,Moby Dick; or The Whale by Herman Melville,Herman Melville,deepseek,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_08d139a63a522d96ef69,Moby Dick; or The Whale by Herman Melville,Herman Melville,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_f672879a63d843b20d7d,Moby Dick; or The Whale by Herman Melville,Herman Melville,deepseek,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_7c63795ff44d584c33fe,Moby Dick; or The Whale by Herman Melville,Herman Melville,deepseek,F,True,0,1,1,False,0,1,1,True,False,True,False,True,True,True
+test_b790485371d19b6ad8ec,Moby Dick; or The Whale by Herman Melville,Herman Melville,deepseek,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_d901a2e1c8a9c8d98c6c,Moby Dick; or The Whale by Herman Melville,Herman Melville,deepseek,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_5f7f610b2bea68241492,Notre-Dame de Paris by Victor Hugo,Victor Hugo,deepseek,F,True,1,0,-1,False,1,0,-1,True,False,True,False,True,True,True
+test_726ef76eb1610b6719ad,Notre-Dame de Paris by Victor Hugo,Victor Hugo,deepseek,F,True,0,1,1,False,0,1,1,True,False,True,False,True,True,True
+test_b5c55170d9bf18b8e045,Notre-Dame de Paris by Victor Hugo,Victor Hugo,deepseek,F,True,1,0,-1,False,1,0,-1,True,False,True,False,True,True,True
+test_a781f95f246eaf27457e,Notre-Dame de Paris by Victor Hugo,Victor Hugo,deepseek,F,True,1,0,-1,False,1,0,-1,True,False,False,False,False,False,False
+test_7e9611a58024a0e45542,Notre-Dame de Paris by Victor Hugo,Victor Hugo,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_f3c68e7fd195bd6779da,Notre-Dame de Paris by Victor Hugo,Victor Hugo,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_148794d2205bc4cc8ce2,Notre-Dame de Paris by Victor Hugo,Victor Hugo,deepseek,F,False,,,,False,1,1,0,False,False,False,False,False,False,False
+test_169c9df6c7164e3235a1,Notre-Dame de Paris by Victor Hugo,Victor Hugo,deepseek,F,False,,,,False,1,1,0,True,False,True,False,False,True,False
+test_fb470d817b910bb2e49f,Notre-Dame de Paris by Victor Hugo,Victor Hugo,deepseek,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_4cece36e29673045e67b,Notre-Dame de Paris by Victor Hugo,Victor Hugo,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_7d3a1cb94fb3d00d8c19,Notre-Dame de Paris by Victor Hugo,Victor Hugo,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_3127122c2392c3937096,Notre-Dame de Paris by Victor Hugo,Victor Hugo,deepseek,F,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False
+test_054ff0744b1d51aeaf4e,Resurrection by Leo Tolstoy,Leo Tolstoy,deepseek,F,False,,,,False,1,1,0,False,False,False,False,False,False,False
+test_48f2fcb36c802ba572e4,Resurrection by Leo Tolstoy,Leo Tolstoy,deepseek,F,True,1,0,-1,False,1,0,-1,True,True,True,False,True,True,True
+test_e33a11bf91ea68cc2989,Resurrection by Leo Tolstoy,Leo Tolstoy,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_4117462df9a1aff712a1,Resurrection by Leo Tolstoy,Leo Tolstoy,deepseek,F,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_c6b9d9fad14b6949df9d,Resurrection by Leo Tolstoy,Leo Tolstoy,deepseek,F,True,0,1,1,False,0,1,1,True,True,True,False,True,True,True
+test_e277ef7f332455e20a90,Resurrection by Leo Tolstoy,Leo Tolstoy,deepseek,F,False,,,,False,1,1,0,False,False,False,False,False,False,False
+test_239f6f0986f8eedc0c88,Resurrection by Leo Tolstoy,Leo Tolstoy,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_8490dad21663a008fb02,Resurrection by Leo Tolstoy,Leo Tolstoy,deepseek,F,True,0,1,1,False,0,1,1,True,False,True,False,True,True,True
+test_0b578ed8a3880c501bdd,Resurrection by Leo Tolstoy,Leo Tolstoy,deepseek,F,True,1,1,0,False,1,1,0,True,True,False,False,False,False,False
+test_e7030d0e1f1e79a2be07,Resurrection by Leo Tolstoy,Leo Tolstoy,deepseek,F,True,1,1,0,False,1,1,0,True,False,True,False,True,True,True
+test_24fd7be3fa2541f61d42,Resurrection by Leo Tolstoy,Leo Tolstoy,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_60a491338b848eece512,Resurrection by Leo Tolstoy,Leo Tolstoy,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_e3bf942d7153c710b796,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,deepseek,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_8e9d8d1ababcbfdcb54a,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,deepseek,F,True,0,1,1,False,0,1,1,True,False,True,False,True,True,True
+test_d2f14ba59e885a2e2591,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_05b829e5740f6a6cba48,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,deepseek,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_fbe37093ecd5298bd869,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,deepseek,F,True,0,1,1,False,0,1,1,True,False,True,False,True,True,True
+test_29e7329ec325f09135f3,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,deepseek,F,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_30752ea058f15878ae00,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,deepseek,F,True,0,1,1,False,0,1,1,True,False,True,False,True,False,True
+test_debd6608295f048ee8ce,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,deepseek,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_47f3cc9d0378bd4757ac,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,deepseek,F,True,0,1,1,False,0,1,1,True,True,True,False,True,True,True
+test_d3250f2dda0b5a04523e,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,deepseek,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_8890daa7ecde5142f369,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,deepseek,F,True,0,1,1,False,0,1,1,True,False,True,False,True,True,True
+test_f905cfddb1510670f766,Tess of the d'Urbervilles by Thomas Hardy,Thomas Hardy,deepseek,F,True,1,0,-1,False,1,0,-1,True,False,False,False,False,False,False
+test_108763bb891baf4eceaf,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,F,True,0,1,1,False,0,1,1,True,False,True,False,True,True,True
+test_4adaf58547d9b458425a,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_b5c9f95de44b6b1c9c59,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,F,True,0,1,1,False,0,1,1,True,False,True,False,True,True,True
+test_49c5c6e8e8ca236444d0,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,False,True
+test_60298630ed1c33b59b63,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,F,True,0,1,1,False,0,1,1,True,False,True,False,False,False,False
+test_283b2acdd51d7c1caca2,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_249f823c149172bbfec8,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,F,True,0,1,1,False,0,1,1,True,True,True,False,True,True,True
+test_17eb1f982e543b361a76,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,F,True,1,1,0,False,1,1,0,True,False,True,False,True,True,True
+test_c4f32903dd67ed1177b6,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,F,True,0,0,0,True,0,0,0,True,False,True,True,False,False,True
+test_e666282f2d7376273574,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_2d4457b79b2141847c6c,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,F,True,0,1,1,False,0,1,1,True,True,True,False,True,True,True
+test_9891ba40f259d78df2b0,The Brothers Karamazov by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_81465df14e98a3ded281,The Call of the Wild by Jack London,Jack London,deepseek,F,True,1,1,0,False,1,1,0,True,False,True,False,False,False,False
+test_699a512106f6178ad798,The Call of the Wild by Jack London,Jack London,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_72845dd8922375b654c6,The Call of the Wild by Jack London,Jack London,deepseek,F,True,0,1,1,False,0,1,1,True,False,True,False,True,True,True
+test_8471bb83b6831a0468db,The Call of the Wild by Jack London,Jack London,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_84783d65b7f21eb09bc7,The Call of the Wild by Jack London,Jack London,deepseek,F,True,0,1,1,False,0,1,1,True,True,True,False,True,True,True
+test_e7ba804d5251e5909776,The Call of the Wild by Jack London,Jack London,deepseek,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_fe4ce88a4a22b3ebff01,The Call of the Wild by Jack London,Jack London,deepseek,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_eea4f34c9b053296264c,The Call of the Wild by Jack London,Jack London,deepseek,F,True,0,1,1,False,0,1,1,True,False,True,False,True,True,True
+test_d687880bf077a00e3b5e,The Call of the Wild by Jack London,Jack London,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_be4b1100bf9483b122d8,The Call of the Wild by Jack London,Jack London,deepseek,F,False,,,,False,1,1,0,False,False,False,False,False,False,False
+test_79036ab1cdf030087add,The Call of the Wild by Jack London,Jack London,deepseek,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_b4f0cc15a59fb753d997,The Call of the Wild by Jack London,Jack London,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_20fac202bc83793cf06e,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,F,True,1,1,0,False,1,1,0,True,True,True,False,True,False,True
+test_9428f797debfd79515ae,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,F,True,0,1,1,False,0,1,1,True,False,True,False,False,False,False
+test_a0d316948ed110ef2227,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,F,True,0,1,1,False,0,1,1,True,False,False,False,False,False,False
+test_7fbca62b293f715461e1,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_57e8d78e2d86e0324592,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,F,True,0,1,1,False,0,1,1,True,False,True,False,True,True,False
+test_859323574215544860f0,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_1c15250b6e5b8590170c,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,F,False,,,,False,1,1,0,False,False,False,False,False,False,False
+test_9842cc9344b782f06f7e,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,F,True,0,1,1,False,0,1,1,True,False,True,False,True,True,True
+test_47b10a939d45d6ca0784,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,F,True,0,0,0,True,0,0,0,True,False,True,True,True,True,True
+test_a9e3ffa26f7c67d58107,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,F,True,0,0,0,True,0,0,0,True,True,True,False,True,True,True
+test_04d1e3b69c790cb80a32,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,F,True,0,0,0,True,0,0,0,True,False,False,True,False,False,False
+test_09176d37d2de4b046a31,The Idiot by Fyodor Dostoyevsky,Fyodor Dostoyevsky,deepseek,F,True,0,0,0,True,0,0,0,True,True,False,False,False,False,False

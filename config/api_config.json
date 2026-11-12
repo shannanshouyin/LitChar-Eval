@@ -1,0 +1,22 @@
+{
+  "private_env_file": ".env",
+  "models": {
+    "glm": {
+      "provider": "Zhipu AI / BigModel",
+      "model": "glm-4.6",
+      "key_env": "GLM_API_KEY",
+      "base_url_env": "GLM_BASE_URL",
+      "expected_base_url": "https://open.bigmodel.cn/api/paas/v4/",
+      "documentation": "https://docs.bigmodel.cn/cn/guide/models/text/glm-4.6"
+    },
+    "deepseek": {
+      "provider": "DeepSeek official API",
+      "model": "deepseek-flash",
+      "key_env": "DEEPSEEK_API_KEY",
+      "base_url": "https://api.deepseek.com",
+      "documented_served_version_as_of_2026_10_22": "DeepSeek-V4.1-Flash-1017",
+      "version_is_pinned": false,
+      "documentation": "https://api-docs.deepseek.com/zh-cn/updates/"
+    }
+  }
+}

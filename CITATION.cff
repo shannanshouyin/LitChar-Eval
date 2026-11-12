@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying article when using this research software."
+type: software
+title: "Textual Evidence and Judgment Stability in Large Language Model Assisted Literary Character Analysis"
+version: 1.0.0
+authors:
+  - family-names: Li
+    given-names: Zhu
+  - family-names: Lin
+    given-names: Yanjun
+  - family-names: Liu
+    given-names: Yuehui
+  - family-names: Zhang
+    given-names: Rongkai
+repository-code: "https://github.com/shannanshouyin/LitChar-Eval"
+url: "https://github.com/shannanshouyin/LitChar-Eval"

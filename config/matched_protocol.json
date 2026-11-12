@@ -1,0 +1,76 @@
+{
+  "protocol_id": "matched-stability-v1-20261023",
+  "split": "test_followup_existing_groups",
+  "sample_size": 120,
+  "providers": [
+    "glm",
+    "deepseek"
+  ],
+  "conditions": [
+    "E",
+    "F"
+  ],
+  "variants": [
+    "anchor",
+    "repeat",
+    "reorder"
+  ],
+  "order_seed": 20261023,
+  "temperature": 0,
+  "top_p": 1,
+  "max_tokens": 1024,
+  "thinking": "disabled",
+  "response_format": {
+    "type": "json_object"
+  },
+  "timeout_seconds": 120,
+  "max_attempts_per_job": 2,
+  "max_consecutive_transport_errors": 3,
+  "max_workers": 4,
+  "max_in_flight_per_provider": 2,
+  "maximum_total_attempts": 1600,
+  "estimated_cost_stop_cny": 25,
+  "budget_rates_per_million": {
+    "glm": {
+      "input": 4,
+      "output": 16
+    },
+    "deepseek": {
+      "input": 2,
+      "output": 8
+    }
+  },
+  "budget_note": "Historical estimated-cost settings; review provider pricing before a new collection.",
+  "primary_family": [
+    "glm:F:rotation_flip_minus_repeat_flip",
+    "deepseek:F:rotation_flip_minus_repeat_flip"
+  ],
+  "primary_metric": "On the common all-three-valid subset, compare trait changes relative to the same new anchor: reordered minus identical-repeat flip rate, equal-book mean.",
+  "inference": "Two-sided exact book sign flips, Holm across two primary comparisons, book-level t 95% CI. Require nonempty valid triples in all ten books or mark primary inference unavailable. Book independence/symmetry assumptions; shared authors; fixed corpus.",
+  "missing_policy": "Report all 120-group coverage; never count invalid outputs as stable traits. For all-group sensitivity, report operational non-reproduction (invalid or changed) and worst-case [-1,+1] bounds for incomplete triples.",
+  "secondary": [
+    "E-condition matched contrast",
+    "F-minus-E contrast on common all-six-valid items",
+    "shared exact quotations among changed traits",
+    "stable reference-disagreeing judgments",
+    "leave-one-book/author and equal-author sensitivity",
+    "fixed traceability/stability selection rules with coverage and within-book random-retention expectation"
+  ],
+  "selection_rules": [
+    "anchor_traceable",
+    "all_three_valid_same_trait",
+    "anchor_traceable_and_all_three_valid_same_trait"
+  ],
+  "collection": "All 1440 jobs randomly interleaved with no shared chat history. Anchor is a reference call designation, not necessarily the first chronologically. Same-order and rotation variants collected anew, never reused from the first batch.",
+  "sampling": "12 IDs per book sampled by fixed hash from original 600, ignoring prior outcomes. Nonzero option rotations balanced 3 each of shifts 1..4 within each book. No outcome-dependent replacement or expansion.",
+  "failure_policy": "Same strict parser as main study; no repair or resampling of malformed/refused/truncated model answers. Transient API errors at most two attempts; exhausted jobs retained separately. Billing/auth/config errors stop collection. No inferential output before all planned jobs reach terminal status.",
+  "model_documentation_checked_date": "2026-10-23",
+  "documented_model_versions": {
+    "deepseek": "deepseek-flash maps to DeepSeek-V4.1-Flash-1017; mutable alias, not pinned weights",
+    "glm": "glm-4.6; provider does not expose a dated weight revision"
+  },
+  "documentation": [
+    "https://api-docs.deepseek.com/zh-cn/quick_start/pricing/",
+    "https://docs.bigmodel.cn/cn/guide/models/text/glm-4.6"
+  ]
+}

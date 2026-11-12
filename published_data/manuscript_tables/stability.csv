@@ -1,0 +1,5 @@
+﻿Model,Prompt,Valid n,Repeat %,Rotation %,Difference (95% CI),p
+GLM-4.6,E,120,14.2,21.7,7.5 (-6.4 to 21.4),0.3047
+GLM-4.6,F,116,10.4,25.3,14.9 (6.4 to 23.3),0.0078
+DeepSeek flash,E,120,19.2,28.3,9.2 (-0.7 to 19.1),0.0938
+DeepSeek flash,F,111,12.9,30.2,17.3 (1.9 to 32.6),0.0430

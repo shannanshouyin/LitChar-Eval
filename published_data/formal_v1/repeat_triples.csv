@@ -1,0 +1,13 @@
+﻿provider,condition,groups,all_three_valid,all_three_same_trait_valid
+glm,A,30,29,25
+glm,B,30,30,28
+glm,C,30,29,28
+glm,D,30,29,26
+glm,E,30,30,26
+glm,F,30,29,23
+deepseek,A,30,30,30
+deepseek,B,30,30,27
+deepseek,C,30,30,29
+deepseek,D,30,30,27
+deepseek,E,30,30,25
+deepseek,F,30,28,26

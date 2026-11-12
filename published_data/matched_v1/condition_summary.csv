@@ -1,0 +1,13 @@
+﻿provider,condition,kind,n,valid,correct,traceable,length_compliant
+glm,E,anchor,120,120,56,0,117
+glm,E,repeat,120,120,56,0,120
+glm,E,reorder,120,120,54,0,120
+glm,F,anchor,120,118,51,116,109
+glm,F,repeat,120,118,52,114,108
+glm,F,reorder,120,120,56,116,114
+deepseek,E,anchor,120,120,51,0,119
+deepseek,E,repeat,120,120,51,0,120
+deepseek,E,reorder,120,120,56,0,120
+deepseek,F,anchor,120,114,52,100,88
+deepseek,F,repeat,120,117,53,103,92
+deepseek,F,reorder,120,119,55,104,91

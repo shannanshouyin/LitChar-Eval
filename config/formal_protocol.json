@@ -1,0 +1,73 @@
+{
+  "protocol_id": "formal-v1-20261022",
+  "split": "test",
+  "sample_size": 600,
+  "providers": [
+    "glm",
+    "deepseek"
+  ],
+  "conditions": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F"
+  ],
+  "order_seed": 20261022,
+  "temperature": 0,
+  "top_p": 1,
+  "max_tokens": 1024,
+  "thinking": "disabled",
+  "response_format": {
+    "type": "json_object"
+  },
+  "timeout_seconds": 120,
+  "max_attempts_per_job": 2,
+  "max_consecutive_transport_errors": 3,
+  "max_workers": 4,
+  "max_in_flight_per_provider": 2,
+  "maximum_total_attempts": 9300,
+  "estimated_cost_stop_cny": 100,
+  "budget_rates_per_million": {
+    "glm": {
+      "input": 4,
+      "output": 16
+    },
+    "deepseek": {
+      "input": 2,
+      "output": 8
+    }
+  },
+  "budget_note": "Historical estimated-cost settings; review provider pricing before a new collection.",
+  "primary_family": [
+    "glm:C-B",
+    "glm:F-E",
+    "deepseek:C-B",
+    "deepseek:F-E"
+  ],
+  "primary_metric": "Equal-book mean strict accuracy difference; 10 books, paired within source group",
+  "inference": "Two-sided exact enumeration of book-level sign flips; Holm across four primary comparisons; book-level t 95% CI. Symmetry and independence assumptions; fixed corpus.",
+  "secondary": [
+    "history interaction (F-E)-(C-B)",
+    "history gains D-A E-B F-C",
+    "evidence correctness/traceability joint outcomes",
+    "length and quote adherence",
+    "leave-one-book and leave-one-author effects",
+    "author-cluster descriptive effects",
+    "valid-pair and length-compliant-pair sensitivity",
+    "character-balanced descriptive sensitivity"
+  ],
+  "robustness": {
+    "option_rotation_groups": 60,
+    "repeat_groups": 30,
+    "extra_repeats": 2,
+    "irrelevant_history_groups": 60,
+    "irrelevant_conditions": [
+      "E",
+      "F"
+    ]
+  },
+  "failure_policy": "No retries or repairs for malformed responses, truncation, refusal or wrong answers; strict accuracy scores these zero. Retry transient transport/server/rate errors at most twice total; exhausted transient errors are zero in strict operational accuracy and separately excluded in response-only sensitivity. Authentication/billing/configuration failures halt collection and are not model outcomes. No formal inference until all planned jobs resolved.",
+  "region": "Official mainland-China BigModel endpoint and official DeepSeek endpoint; client timezone Asia/Shanghai. Actual serving datacenter region not independently available."
+}

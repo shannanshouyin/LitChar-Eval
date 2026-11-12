@@ -1,0 +1,121 @@
+﻿provider,contrast,book,n,difference
+glm,C-B,Crime and Punishment by Fyodor Dostoevsky,72,0
+glm,C-B,Eugenie Grandet by Honore de Balzac,72,0.013888888888888888
+glm,C-B,Les Miserables by Victor Hugo,72,-0.013888888888888888
+glm,C-B,Moby Dick; or The Whale by Herman Melville,42,-0.07142857142857142
+glm,C-B,Notre-Dame de Paris by Victor Hugo,72,0.041666666666666664
+glm,C-B,Resurrection by Leo Tolstoy,33,0.030303030303030304
+glm,C-B,Tess of the d'Urbervilles by Thomas Hardy,72,0.06944444444444445
+glm,C-B,The Brothers Karamazov by Fyodor Dostoyevsky,71,-0.056338028169014086
+glm,C-B,The Call of the Wild by Jack London,23,-0.043478260869565216
+glm,C-B,The Idiot by Fyodor Dostoyevsky,71,0.056338028169014086
+glm,F-E,Crime and Punishment by Fyodor Dostoevsky,72,-0.013888888888888888
+glm,F-E,Eugenie Grandet by Honore de Balzac,72,0.013888888888888888
+glm,F-E,Les Miserables by Victor Hugo,72,0.05555555555555555
+glm,F-E,Moby Dick; or The Whale by Herman Melville,42,-0.047619047619047616
+glm,F-E,Notre-Dame de Paris by Victor Hugo,72,-0.013888888888888888
+glm,F-E,Resurrection by Leo Tolstoy,33,-0.030303030303030304
+glm,F-E,Tess of the d'Urbervilles by Thomas Hardy,72,0.041666666666666664
+glm,F-E,The Brothers Karamazov by Fyodor Dostoyevsky,71,0.07042253521126761
+glm,F-E,The Call of the Wild by Jack London,23,0.043478260869565216
+glm,F-E,The Idiot by Fyodor Dostoyevsky,71,0.056338028169014086
+glm,interaction,Crime and Punishment by Fyodor Dostoevsky,72,-0.013888888888888888
+glm,interaction,Eugenie Grandet by Honore de Balzac,72,0
+glm,interaction,Les Miserables by Victor Hugo,72,0.06944444444444445
+glm,interaction,Moby Dick; or The Whale by Herman Melville,42,0.023809523809523808
+glm,interaction,Notre-Dame de Paris by Victor Hugo,72,-0.05555555555555555
+glm,interaction,Resurrection by Leo Tolstoy,33,-0.06060606060606061
+glm,interaction,Tess of the d'Urbervilles by Thomas Hardy,72,-0.027777777777777776
+glm,interaction,The Brothers Karamazov by Fyodor Dostoyevsky,71,0.1267605633802817
+glm,interaction,The Call of the Wild by Jack London,23,0.08695652173913043
+glm,interaction,The Idiot by Fyodor Dostoyevsky,71,0
+glm,D-A,Crime and Punishment by Fyodor Dostoevsky,72,-0.027777777777777776
+glm,D-A,Eugenie Grandet by Honore de Balzac,72,-0.041666666666666664
+glm,D-A,Les Miserables by Victor Hugo,72,0
+glm,D-A,Moby Dick; or The Whale by Herman Melville,42,0
+glm,D-A,Notre-Dame de Paris by Victor Hugo,72,-0.05555555555555555
+glm,D-A,Resurrection by Leo Tolstoy,33,0.030303030303030304
+glm,D-A,Tess of the d'Urbervilles by Thomas Hardy,72,-0.027777777777777776
+glm,D-A,The Brothers Karamazov by Fyodor Dostoyevsky,71,0.04225352112676056
+glm,D-A,The Call of the Wild by Jack London,23,-0.043478260869565216
+glm,D-A,The Idiot by Fyodor Dostoyevsky,71,0.07042253521126761
+glm,E-B,Crime and Punishment by Fyodor Dostoevsky,72,-0.05555555555555555
+glm,E-B,Eugenie Grandet by Honore de Balzac,72,-0.027777777777777776
+glm,E-B,Les Miserables by Victor Hugo,72,-0.06944444444444445
+glm,E-B,Moby Dick; or The Whale by Herman Melville,42,-0.047619047619047616
+glm,E-B,Notre-Dame de Paris by Victor Hugo,72,0.041666666666666664
+glm,E-B,Resurrection by Leo Tolstoy,33,0.09090909090909091
+glm,E-B,Tess of the d'Urbervilles by Thomas Hardy,72,-0.027777777777777776
+glm,E-B,The Brothers Karamazov by Fyodor Dostoyevsky,71,-0.07042253521126761
+glm,E-B,The Call of the Wild by Jack London,23,0
+glm,E-B,The Idiot by Fyodor Dostoyevsky,71,0.014084507042253521
+glm,F-C,Crime and Punishment by Fyodor Dostoevsky,72,-0.06944444444444445
+glm,F-C,Eugenie Grandet by Honore de Balzac,72,-0.027777777777777776
+glm,F-C,Les Miserables by Victor Hugo,72,0
+glm,F-C,Moby Dick; or The Whale by Herman Melville,42,-0.023809523809523808
+glm,F-C,Notre-Dame de Paris by Victor Hugo,72,-0.013888888888888888
+glm,F-C,Resurrection by Leo Tolstoy,33,0.030303030303030304
+glm,F-C,Tess of the d'Urbervilles by Thomas Hardy,72,-0.05555555555555555
+glm,F-C,The Brothers Karamazov by Fyodor Dostoyevsky,71,0.056338028169014086
+glm,F-C,The Call of the Wild by Jack London,23,0.08695652173913043
+glm,F-C,The Idiot by Fyodor Dostoyevsky,71,0.014084507042253521
+deepseek,C-B,Crime and Punishment by Fyodor Dostoevsky,72,0.013888888888888888
+deepseek,C-B,Eugenie Grandet by Honore de Balzac,72,-0.013888888888888888
+deepseek,C-B,Les Miserables by Victor Hugo,72,-0.125
+deepseek,C-B,Moby Dick; or The Whale by Herman Melville,42,0
+deepseek,C-B,Notre-Dame de Paris by Victor Hugo,72,0.05555555555555555
+deepseek,C-B,Resurrection by Leo Tolstoy,33,0.18181818181818182
+deepseek,C-B,Tess of the d'Urbervilles by Thomas Hardy,72,-0.013888888888888888
+deepseek,C-B,The Brothers Karamazov by Fyodor Dostoyevsky,71,0.014084507042253521
+deepseek,C-B,The Call of the Wild by Jack London,23,0.13043478260869565
+deepseek,C-B,The Idiot by Fyodor Dostoyevsky,71,-0.014084507042253521
+deepseek,F-E,Crime and Punishment by Fyodor Dostoevsky,72,0.06944444444444445
+deepseek,F-E,Eugenie Grandet by Honore de Balzac,72,-0.06944444444444445
+deepseek,F-E,Les Miserables by Victor Hugo,72,-0.041666666666666664
+deepseek,F-E,Moby Dick; or The Whale by Herman Melville,42,0.023809523809523808
+deepseek,F-E,Notre-Dame de Paris by Victor Hugo,72,0.041666666666666664
+deepseek,F-E,Resurrection by Leo Tolstoy,33,0.030303030303030304
+deepseek,F-E,Tess of the d'Urbervilles by Thomas Hardy,72,0.027777777777777776
+deepseek,F-E,The Brothers Karamazov by Fyodor Dostoyevsky,71,0.014084507042253521
+deepseek,F-E,The Call of the Wild by Jack London,23,0.043478260869565216
+deepseek,F-E,The Idiot by Fyodor Dostoyevsky,71,0
+deepseek,interaction,Crime and Punishment by Fyodor Dostoevsky,72,0.05555555555555555
+deepseek,interaction,Eugenie Grandet by Honore de Balzac,72,-0.05555555555555555
+deepseek,interaction,Les Miserables by Victor Hugo,72,0.08333333333333333
+deepseek,interaction,Moby Dick; or The Whale by Herman Melville,42,0.023809523809523808
+deepseek,interaction,Notre-Dame de Paris by Victor Hugo,72,-0.013888888888888888
+deepseek,interaction,Resurrection by Leo Tolstoy,33,-0.15151515151515152
+deepseek,interaction,Tess of the d'Urbervilles by Thomas Hardy,72,0.041666666666666664
+deepseek,interaction,The Brothers Karamazov by Fyodor Dostoyevsky,71,0
+deepseek,interaction,The Call of the Wild by Jack London,23,-0.08695652173913043
+deepseek,interaction,The Idiot by Fyodor Dostoyevsky,71,0.014084507042253521
+deepseek,D-A,Crime and Punishment by Fyodor Dostoevsky,72,0.013888888888888888
+deepseek,D-A,Eugenie Grandet by Honore de Balzac,72,0.013888888888888888
+deepseek,D-A,Les Miserables by Victor Hugo,72,0
+deepseek,D-A,Moby Dick; or The Whale by Herman Melville,42,0
+deepseek,D-A,Notre-Dame de Paris by Victor Hugo,72,0.041666666666666664
+deepseek,D-A,Resurrection by Leo Tolstoy,33,0
+deepseek,D-A,Tess of the d'Urbervilles by Thomas Hardy,72,-0.013888888888888888
+deepseek,D-A,The Brothers Karamazov by Fyodor Dostoyevsky,71,0.04225352112676056
+deepseek,D-A,The Call of the Wild by Jack London,23,0
+deepseek,D-A,The Idiot by Fyodor Dostoyevsky,71,0.056338028169014086
+deepseek,E-B,Crime and Punishment by Fyodor Dostoevsky,72,0
+deepseek,E-B,Eugenie Grandet by Honore de Balzac,72,0
+deepseek,E-B,Les Miserables by Victor Hugo,72,-0.06944444444444445
+deepseek,E-B,Moby Dick; or The Whale by Herman Melville,42,-0.047619047619047616
+deepseek,E-B,Notre-Dame de Paris by Victor Hugo,72,-0.041666666666666664
+deepseek,E-B,Resurrection by Leo Tolstoy,33,0.12121212121212122
+deepseek,E-B,Tess of the d'Urbervilles by Thomas Hardy,72,-0.041666666666666664
+deepseek,E-B,The Brothers Karamazov by Fyodor Dostoyevsky,71,0
+deepseek,E-B,The Call of the Wild by Jack London,23,0.08695652173913043
+deepseek,E-B,The Idiot by Fyodor Dostoyevsky,71,0.056338028169014086
+deepseek,F-C,Crime and Punishment by Fyodor Dostoevsky,72,0.05555555555555555
+deepseek,F-C,Eugenie Grandet by Honore de Balzac,72,-0.05555555555555555
+deepseek,F-C,Les Miserables by Victor Hugo,72,0.013888888888888888
+deepseek,F-C,Moby Dick; or The Whale by Herman Melville,42,-0.023809523809523808
+deepseek,F-C,Notre-Dame de Paris by Victor Hugo,72,-0.05555555555555555
+deepseek,F-C,Resurrection by Leo Tolstoy,33,-0.030303030303030304
+deepseek,F-C,Tess of the d'Urbervilles by Thomas Hardy,72,0
+deepseek,F-C,The Brothers Karamazov by Fyodor Dostoyevsky,71,0
+deepseek,F-C,The Call of the Wild by Jack London,23,0
+deepseek,F-C,The Idiot by Fyodor Dostoyevsky,71,0.07042253521126761

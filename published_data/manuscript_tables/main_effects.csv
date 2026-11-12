@@ -1,0 +1,5 @@
+﻿Model,Contrast,Difference,95% CI,Holm p
+GLM-4.6,C − B,0.3,-3.2 to 3.7,0.9375
+GLM-4.6,F − E,1.8,-1.2 to 4.7,0.8672
+DeepSeek flash,C − B,2.3,-3.8 to 8.3,0.9375
+DeepSeek flash,F − E,1.4,-1.6 to 4.4,0.9375
