@@ -67,8 +67,8 @@ def main():
         if ci:
             ax.errorbar(est*100,1-i,xerr=[[100*(est-ci[0])],[100*(ci[1]-est)]],fmt='o',color=COLORS[r['provider']],capsize=4)
         else:ax.plot(est*100,1-i,'o',mfc='white',mec=COLORS[r['provider']],ms=7)
-        note=f"Holm p = {r['holm_p']:.4f}" if r['holm_p'] is not None else (f"{r['books']} books; descriptive only" if not r['inference_available'] else '10-book interval; no family-adjusted test')
-        ax.text(.02,.91-i*.45,note,transform=ax.transAxes,fontsize=8)
+        note=f"{r['books']} books"
+        ax.text(.08,.91-i*.45,note,transform=ax.transAxes,fontsize=8)
     ax.set_yticks([1,0],[NAMES[r['provider']] for r in dr]);ax.set_ylim(-.5,1.5);ax.axvline(0,color='#888888',ls='--',lw=1);ax.set_xlabel('Cited minus control (percentage points)');ax.set_title('B   Paired book-level difference',loc='left',fontweight='bold');fig.tight_layout();save(fig,'Figure_4_Quote_deletion')
     csvout('Figure_4_source',[{k:v for k,v in r.items() if k!='exclusions'} for r in dr])
     fig,axes=plt.subplots(1,2,figsize=(8.0,3.7),sharey=True)
